@@ -1,0 +1,9 @@
+
+@font-face {
+  font-family: 'PingFang Ext';
+  src: url("PingFangExt-Regular.ttf");
+}
+
+BODY {
+	font-family: Helvetica Neue, 'PingFang Ext', Source Han Sans K, sans-serif;
+}
