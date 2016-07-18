@@ -1,9 +1,19 @@
 
 @font-face {
-  font-family: 'PingFang Ext';
-  src: url("PingFangExt-Regular.ttf");
+  font-family: 'SourceNoto';
+  src: url("SourceNoto-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Hanazono';
+  src: url("Hanazono-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'CLBISymbols';
+  src: url("CLBISymbols-Regular.ttf");
 }
 
 BODY {
-	font-family: Helvetica Neue, 'PingFang Ext', Source Han Sans K, sans-serif;
+	font-family: Helvetica Neue, CLBISymbols, Source Han Sans K, sans-serif, SourceNoto, Hanazono, serif;
 }
