@@ -4,7 +4,7 @@
 
 ---
 name: ciklinbekin
-version: Tue Jul 19 11:05:25 2016
+version: Tue Jul 19 13:32:26 2016
 use_preset_vocabulary: true
 ...
 
@@ -1692,7 +1692,7 @@ use_preset_vocabulary: true
 䏔	diu2
 𤶡	diu2
 疛	diu2
-畫	diu3
+晝	diu3
 咮	diu3
 綢	diu5
 紬	diu5
@@ -8539,7 +8539,7 @@ use_preset_vocabulary: true
 喪	song1
 䘮	song1
 宣	song1
-捐	song2
+損	song2
 吮	song2
 燹	song2
 撰	song2
@@ -11335,3 +11335,32 @@ use_preset_vocabulary: true
 𤬣	hya1
 杓	hya1
 伓	lng7
+頃	king2
+界	gai3
+館	guang2
+菌	kung2
+菌	kyng5
+謹	ging2
+謹	king2
+飢	gi1
+勵	le7
+祿	lyk8
+複	huk4
+婢	bi1
+襲	sik8
+輿	y5
+輿	y7
+疫	ik8
+為	ui5
+為	ui7
+壬	ing5
+壬	ing7
+壬	ting2
+淨	zing7
+淨	ziang7
+秒	mieu2
+誕	dang7
+脫	tuak4
+穫	hek8
+穫	huok4
+穫	huok8
