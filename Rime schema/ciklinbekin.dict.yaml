@@ -4,7 +4,7 @@
 
 ---
 name: ciklinbekin
-version: Tue Jul 19 19:30:32 2016
+version: Sat Jul 23 17:54:12 2016
 use_preset_vocabulary: true
 ...
 
@@ -2540,7 +2540,6 @@ use_preset_vocabulary: true
 㷈	ak4
 閼	ak4
 㳌	ak4
-	ak4
 𨤕	ak4
 揠	ak4
 黶	ak4
@@ -4601,7 +4600,6 @@ use_preset_vocabulary: true
 𩪲	nguak4
 頑	nguang5
 玩	nguang7
-	nguang7
 翫	nguang7
 餐	cuang1
 飱	cuang1
@@ -5061,7 +5059,6 @@ use_preset_vocabulary: true
 簑	so1
 艘	so1
 鏁	so1
-	so1
 傞	so1
 些	so1
 挱	so1
@@ -8660,7 +8657,6 @@ use_preset_vocabulary: true
 筇	ngong5
 翱	ngong5
 歞	ngong7
-	ngok8
 嶽	ngok8
 岳	ngok8
 鸑	ngok8
@@ -9924,7 +9920,6 @@ use_preset_vocabulary: true
 橋	gio5
 茄	gio5
 貯	dio2
-	dio2
 𣥼	dio2
 灼	dioh8
 爍	dioh8
@@ -11186,15 +11181,15 @@ use_preset_vocabulary: true
 㷆	peu7
 𩣸	peu7
 𩳎	peu7
-偷	teu2
-鍮	teu2
-𩝯	teu2
-黈	teu3
-𪉘	teu3
-透	teuh4
-䚵	teuh4
-頭	teu6
-牏	teu6
+偷	teu1
+鍮	teu1
+𩝯	teu1
+黈	teu2
+𪉘	teu2
+透	teu3
+䚵	teu3
+頭	teu5
+牏	teu5
 鄒	zeu1
 鄹	zeu1
 陬	zeu1
