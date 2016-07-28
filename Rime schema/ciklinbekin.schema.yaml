@@ -10,6 +10,7 @@ schema:
   description: |
     戚林八音校注 2001
     使 融•嵐 不變韻地區讀音 標記韻母
+    與擬音差別: 杯韻 擬音ue 今音uoi
   dependencies:
     - ciklinbekin
     - luna_pinyin
@@ -62,6 +63,9 @@ speller:
     # 無需輸入聲調
     - xform/^([a-z]+)([\d\*]+)$/$1/
 
+    # 擬音 杯盃 ue=uoi
+    - derive/uoi$/ue/
+
     # 韻母合併 ui=uoi 杯盃→輝龜
     - derive/uoi$/ui/
     # 韻母合併 iu=ieu 燒嬌→秋周 • [話] iau
@@ -109,6 +113,8 @@ speller:
     - derive/^(.+)h$/$1/
     - derive/^(.+)k$/$1/
 
+    # 兼容 平話字 ch→z
+    - derive/^z/ch/
     # 兼容 f→h
     - derive/^h/f/
     # 兼容 oy=oi
@@ -213,7 +219,7 @@ reverse_lookup:
     - xform/uah?([·\d]+)($|[ '])/花$1/
     - xform/iuh?([·\d]+)($|[ '])/秋$1/
     - xform/aih?([·\d]+)($|[ '])/開$1/
-    - xform/ueh?([·\d]+)($|[ '])/杯$1/
+    - xform/uoih?([·\d]+)($|[ '])/杯$1/
     - xform/uih?([·\d]+)($|[ '])/輝$1/
     - xform/auh?([·\d]+)($|[ '])/郊$1/
     - xform/uoh?([·\d]+)($|[ '])/過$1/
