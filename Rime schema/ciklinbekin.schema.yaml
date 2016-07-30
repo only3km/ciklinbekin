@@ -108,7 +108,7 @@ speller:
     - derive/^[nl](.*)$/l$1/
     - derive/^[nl](.*)$/n$1/
     # 鼻音模糊 ?n=?ng
-    - derive/([aiueoy])ng$/$1n/
+    - derive/([aeiouy])ng$/$1n/
     # 入聲模糊 ?h=? ?k=?
     - derive/^(.+)h$/$1/
     - derive/^(.+)k$/$1/
@@ -200,7 +200,7 @@ reverse_lookup:
     - xform/(^|[ '])m/$1蒙/
     - xform/(^|[ '])c/$1出/
     - xform/(^|[ '])h/$1非/
-    - xform/(^|[ '])([uiauoye])/$1鶯$2/
+    - xform/(^|[ '])([aeiouy])/$1鶯$2/
     # 韻母
     - xform/ua(ng|k)([·\d]+)($|[ '])/歡$2/
     - xform/uo(ng|k)([·\d]+)($|[ '])/光$2/
