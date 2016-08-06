@@ -10,7 +10,7 @@ schema:
   description: |
     戚林八音校注 2001
     使 融•嵐 不變韻地區讀音 標記韻母
-    與擬音差別: 杯韻 擬音ue 今音uoi
+    與擬音差別: 杯韻 擬音ue 今音•馮擬音uoi
   dependencies:
     - ciklinbekin
     - luna_pinyin
@@ -74,6 +74,8 @@ speller:
     # 韻母合併 ua=uai 歪乖→花瓜 • ui=uai 輝龜
     - derive/uai$/ua/
     - derive/uai$/ui/
+    # 漳泉亂 舌齒音聲母+香•橋韻→光•過韻
+    # - derive/^([dtnlzc])io/$1uo/
 
     # 香姜 yøŋ 古田
     # - derive/iong$/yoeng/
