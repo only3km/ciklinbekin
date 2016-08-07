@@ -115,8 +115,8 @@ speller:
     - derive/^(.+)h$/$1/
     - derive/^(.+)k$/$1/
 
-    # 兼容 平話字 ch→z
-    - derive/^z/ch/
+    # 兼容 平話字 ch→c
+    - derive/^c/ch/
     # 兼容 f→h
     - derive/^h/f/
     # 兼容 oy=oi
