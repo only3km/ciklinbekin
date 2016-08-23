@@ -206,13 +206,13 @@ ol li:empty::before {
 }*/
 
 ol {
-	margin-top: 0;
-	padding-top: 2.25em;
+	/*margin-top: 0;
+	padding-top: 2.25em;*/
 	list-style-type: none;
 }
 
 ol li {
-	text-indent: -.8em;
+	/*text-indent: -.8em;*/
 }
 
 ol li::before {

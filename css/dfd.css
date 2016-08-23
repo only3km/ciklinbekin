@@ -1,0 +1,182 @@
+/* jcore.css - Japanese common style 
+ *  - Feel free to copy, distribute, or modify.
+ *  - Absolutely NO WARRANTY.
+ */
+
+HTML {
+	font-size: 1.125rem;
+}
+
+BODY {
+	background-color: #faf0e6;
+	line-height: 150%;
+	background: white;
+	color: black;
+	margin: 6%;
+	padding: 1em;
+	font-size: 1.125rem;
+}
+
+A:link {
+	color: #0000cc;
+}
+
+A:visited {
+	color: #990099;
+}
+
+A:hover {
+	background: #ffcc00;
+}
+
+P {
+	/*text-indent: 1em;*/
+	/*  text-align: justify;*/
+}
+
+LI P,
+DD P {
+	text-indent: 0;
+	/* margin? */
+}
+
+P,
+DD {
+	margin-top: 0em;
+	margin-bottom: 0.3em;
+}
+
+PRE,
+BLOCKQUOTE,
+UL,
+OL,
+DL,
+DIV {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+EM {
+	font-style: normal;
+	text-decoration: underline;
+}
+
+DFN {
+	font-style: normal;
+	/* Don't be slanted */
+	font-weight: bold
+}
+
+STRONG {
+	font-weight: bolder
+}
+
+BLOCKQUOTE {
+	margin-left: 2em;
+}
+
+ADDRESS {
+	margin: 1.5em 1em 0 2em;
+	/* assumed ADDRESS in the bottom of the document */
+	line-height: 120%;
+	font-style: normal;
+}
+
+PRE {
+	line-height: 130%;
+}
+
+
+/* Headings [PENDING - Font size] */
+
+H1 {
+	line-height: 120%;
+	text-align: center;
+}
+
+H2,
+H3,
+H4,
+H5,
+H6 {
+	line-height: 120%;
+	text-align: left;
+}
+
+H4,
+H5,
+H6 {
+	margin-left: 1em;
+}
+
+DIV {
+	margin: auto;
+}
+
+
+/* Common class selectors
+   [PENDING - Should these be included this style sheet?] */
+
+PRE.sample {
+	line-height: 120%;
+	background: #d8e0d0;
+	padding: 0.5em;
+	border: outset thin #d8e0d0;
+}
+
+.note {
+	margin-left: 2em;
+	text-indent: 0;
+}
+
+
+/* Dictionary of Foochow */
+
+h1,
+h2,
+h3 {
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 2.2rem;
+}
+
+h2 {
+	font-size: 1.8rem;
+	text-align: center;
+}
+
+section {
+	columns: 3;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+p {
+	font-size: 2.125rem;
+	padding-left: 1.2em;
+	text-indent: -1.2em;
+}
+
+p span {
+	margin-right: .1em;
+}
+
+sup {
+	font-size: .6em;
+	margin-left: .25em;
+}
+
+sup s {
+	color: red;
+}
+
+code {
+	background-color: rgba(0,0,0,.08);
+	font-family: inherit;
+	/*font-size: .9em;*/
+	padding: .2em 0;
+	margin: .1em 0;
+	border-radius: 3px;
+}

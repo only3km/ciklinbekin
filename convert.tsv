@@ -1,54 +1,56 @@
 # 聲母 Consonants
-柳	l
-邊	b
-求	g
-氣	k
-低	d
-波	p
-他	t
-曾	z
-日	n
-時	s
-鶯	
-蒙	m
-語	ng
-出	c
-非	h
+# 八音	代碼	平話字
+柳	l	l
+邊	b	b
+求	g	g
+氣	k	k
+低	d	d
+波	p	p
+他	t	t
+曾	z	c
+日	n	n
+時	s	s
+鶯		
+蒙	m	m
+語	ng	ng
+出	c	ch
+非	h	h
 # ʒ	j
 # β	w
 # 韻母 Vowels
-春公	ung
-花瓜	ua
-香姜	iong
-秋周	iu
-山干	ang
-開哉	ai
-嘉佳	a
-賓京	ing
-歡官	uang
-歌高	o
-須車	y
-杯盃	uoi
-孤姑	u
-燈庚	eng
-光	uong
-輝龜	ui
-燒嬌	ieu
-銀恭	yng
-釭綱	ong
-之箕	i
-東江	oeng
-郊交	au
-過朱	uo
-西街	e
-橋嬝	io
-雞圭	ie
-聲正	iang
-催	oi
-初梳	oe
-天堅	ieng
-奇迦	ia
-歪乖	uai
-溝勾	eu
-桸𤬣	ya
-伓	ng
+# 八音	代碼	平話字
+春公	ung	ung|ong
+花瓜	ua	ua
+香姜	iong	iong
+秋周	iu	iu|eu
+山干	ang	ang
+開哉	ai	ai
+嘉佳	a	a
+賓京	ing	ing|eng
+歡官	uang	uang
+歌高	o	o̤
+須車	y	ṳ|e̤ṳ
+杯盃	uoi	uoi
+孤姑	u	u|o
+燈庚	eng	eng|aing
+光	uong	uong
+輝龜	ui	ui|oi
+燒嬌	ieu	ieu
+銀恭	yng	ṳng|e̤ṳng
+釭綱	ong	ong|aung
+之箕	i	i|e
+東江	oeng	e̤ng|ae̤ng
+郊交	au	au
+過朱	uo	uo
+西街	e	a̤
+橋嬝	io	io
+雞圭	ie	ie
+聲正	iang	iang
+催	oi	oi|o̤i
+初梳	oe	e̤|ae̤
+天堅	ieng	ieng
+奇迦	ia	ia
+歪乖	uai	uai
+溝勾	eu	eu|aiu
+桸𤬣	ya	
+伓	ng	ng
