@@ -119,6 +119,8 @@ speller:
     - derive/^c/ch/
     # 兼容 f→h
     - derive/^h/f/
+    # 兼容 x→h
+    - derive/^h/x/
     # 兼容 oy=oi
     - derive/oi$/oy/
     # 兼容 v=y
