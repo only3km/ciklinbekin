@@ -1,4 +1,4 @@
-# 平話字表
+# 平話字表 (閩東語‣福州話) 
 
 `🚧 校對中, 尚未完善, 請謹慎取用｡`
 
@@ -21,7 +21,7 @@
 - [對照表 → convert.tsv](convert.tsv)
 
 ## 輸入法碼表
-### RIME 中州韻 | 小狼毫 Weasel | 鼠鬚管 Squirrel | 同文 Tongwen [🔗](http://rime.im/)
+### RIME 中州韻 | 小狼毫 Weasel | 鼠鬚管 Squirrel | 同文 Tongwen
 - [Rime schemas](Rime%20schema)
 
 ## Links
