@@ -1,3 +1,15 @@
+/* retrieved from Noto Sans CJK */
+@font-face {
+  font-family: 'SourceNoto';
+  src: url("SourceNoto-Regular.ttf");
+}
+
+/* retrieved from Hanazono Mincho */
+@font-face {
+  font-family: 'Hanazono';
+  src: url("Hanazono-Regular.ttf");
+}
+
 body {
-	font-family: 'Charis SIL', Palatino, 'TypeLand KhangXi Dict', serif;
+	font-family: 'Charis SIL', Palatino, 'TypeLand KhangXi Dict', serif, 'Source Han Sans K', sans-serif, SourceNoto, Hanazono, serif;
 }
