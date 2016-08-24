@@ -804,7 +804,7 @@
 兎	tu3
 兒	i5
 兕	sy7
-兔	tu3
+兔	tu3	#comp兔
 兜	dau1
 兜	deu1
 𫥢	dau1
@@ -1059,7 +1059,7 @@
 勸	kuong3
 勷	siong1
 勹	bau1
-勺	ciok4
+勺	ciok4	#comp勺
 勽	bo7
 勾	geu1
 勾	gau1
@@ -1242,7 +1242,7 @@
 合	gak4
 向	hiong3
 吁	hy1
-吆	ieu1
+吆	ieu1	#comp吆
 各	gok4
 吉	gik4
 吏	li7
@@ -1365,7 +1365,7 @@
 咽	ieng2
 咯	lok8
 咡	ni3
-咢	ngok4
+咢	ngok4	#comp咢
 品	ping2
 哂	sing2
 哇	ua1
@@ -4453,7 +4453,7 @@
 涇	ging1
 涓	giong1
 海	hai2
-浩	ho7
+浩	ho7	#comp浩
 涎	iong5	#?調
 涔	kieng5
 浪	long7
@@ -5819,7 +5819,7 @@
 #113#
 示	si7
 示	gi5
-礼	le2	#礼的compa
+礼	le2	#comp礼
 祁	gi5
 祀	sy7
 社	sia7
