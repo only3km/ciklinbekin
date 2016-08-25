@@ -168,23 +168,23 @@ reverse_lookup:
     - xform/y(|ng|h|k)([1258])/uv$2$1/
     - xform/y(|ng|h|k)([347])/ev$2uv$1/
     # 歌高
-    - xform/(^|[ ']|[^aeiouy])o(\d)(|h)/$1ov$3$2/
+    - xform/(^|[ ']|[^aeiouy])o(|h)(\d)/$1ov$3$2/
     # 釭綱
     - xform/(^|[ ']|[^aeiouy])o(ng|k)([1258])/$1o$3$2/
     - xform/(^|[ ']|[^aeiouy])o(ng|k)([347])/$1a$3u$2/
     # 孤姑 春公
     - xform/(^|[ ']|[^aeiouy])u(|ng|h|k)([1258])/$1u$3$2/
     - xform/(^|[ ']|[^aeiouy])u(|ng|h|k)([347])/$1o$3$2/
-    # 之箕 賓京
-    - xform/(^|[ ']|[^aeiouy])i(|ng|h|k)([1258])/$1i$3$2/
-    - xform/(^|[ ']|[^aeiouy])i(|ng|h|k)([347])/$1e$3$2/
     # 西街
-    - xform/(^|[ ']|[^aeiouy])e(\d)(|h)/$1av$3$2/
+    - xform/(^|[ ']|[^aeiouy])e(|h)(\d)/$1av$3$2/
+    # 嘉佳 山干
+    - xform/(^|[ ']|[^aeiouy])a(|ng|h|k)(\d)/$1a$3$2/
     # 燈庚
     - xform/(^|[ ']|[^aeiouy])e(ng|k)([1258])/$1e$3$2/
     - xform/(^|[ ']|[^aeiouy])e(ng|k)([347])/$1a$3i$2/
-    # 嘉佳 山干
-    - xform/(^|[ ']|[^aeiouy])a(|ng|h|k)(\d)/$1a$3$2/
+    # 之箕 賓京
+    - xform/(^|[ ']|[^aeiouy])i(|ng|h|k)([1258])/$1i$3$2/
+    - xform/(^|[ ']|[^aeiouy])i(|ng|h|k)([347])/$1e$3$2/
     # 開哉､ 歪乖､ 郊交
     - xform/a(i|u)(\d)/a$2$1/
     # 催
