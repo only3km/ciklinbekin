@@ -1,9 +1,6 @@
-#需補充header和同音字
-#注意巳已己部件的error
-#注意修改 d t n l c ch + uo → io
-#List of Characters from Dictionary of the Foochow Dialect 1929
-##List of the 214 radicals (cê buô 字部)
-#1
+# List of Characters<br />from<br />Dictionary of the Foochow Dialect, 1929 #
+## List of the 214 radicals<br />(cê buô 字部) ##
+### 1 STROKE ###
 一	ik4
 一橫	sioh8 huang5
 丨	gung2	#袞
@@ -15,11 +12,11 @@
 乙	ik4
 亅	kuok4	#橜
 一勾	sioh8 gau1
-#2
+### 2 STROKES ###
 二	ni7
 亠	teu5	#頭
 人	ing5
-亻	ing5	#人
+亻	ing5	#=v 人
 徛儂人	kie5 noeng5 ing5
 儿	ing5	#人
 入	ik8
@@ -32,7 +29,7 @@
 几	gi2
 凵	kang2	#坎
 刀	do1
-刂	do1	#刀
+刂	do1	#=v 刀
 側刀	zek4 do1
 力	lik8
 勹	bau1	#包
@@ -42,19 +39,19 @@
 十	sek8
 卜	buk4
 卩	ziek4	#節
-㔾	ziek4	#節
+㔾	ziek4	#=v 節
 硬耳	ngeng7 ngi7
 厂	hang3
 厶	sy1	#私
 又	iu7
-#3
+### 3 STROKES ###
 口	keu2
 囗	ui5	#圍
 土	tu2
 挑土邊	tieu1 tu2 beng5
 士	sy7
-夊	soi1	#綏error
-夂	zyng1	#終error
+夊	soi1	#綏 ↓~~zyng1~~error
+夂	zyng1	#終 ↑~~soi1~~error
 夕	sik8
 大	dai7
 女	ny2
@@ -64,15 +61,15 @@
 寸	cong3
 小	sieu2
 尢	uong1	#尩
-𡯂	uong1	#尩
-尤	uong1	#尩
+𡯂	uong1	#=v 尩
+尤	uong1	#=v 尩
 尸	si1
 屮	tiek4	#徹
 半草	buang3 co2
 山	sang1
-川	cuong1
-巛	cuong1	#川
-巜	cuong1	#川
+川	cuong1	#漳泉亂
+巛	cuong1	#=v 川
+巜	cuong1	#=v 川
 工	gung1
 己	gi2
 巾	gyng1
@@ -84,29 +81,29 @@
 弋	ik8
 弓	gyng1
 彐	gie3
-彑	gie3
+彑	gie3	#=v 互error
 彡	sang1
 彳	tik4
 雙徛儂	soeng1 kie5 noeng5
-#4
+### 4 STROKES ###
 心	sing1
-忄	sing1	#心
-㣺	sing1	#心
-穿心邊	cuong1 sing1 beng5
+忄	sing1	#=v 心
+㣺	sing1	#=v 心
+穿心邊	cuong1 sing1 beng5	#漳泉亂0
 戈	kuo1
 戶	hu7
 手	ciu2
-扌	ciu2	#手
+扌	ciu2	#=v 手
 抽指手	tiu1 zai2 ciu2
 支	zie1
-攵	pok4	#撲
 攴	pok4	#撲
+攵	pok4	#=v 撲
 文	ung5
 斗	deu2
 斤	gyng1
 方	huong1
 旡	u5
-无	u5
+无	u5	#=v
 日	nik8
 曰	uak8
 月	nguok8
@@ -114,7 +111,7 @@
 欠	kieng3
 止	zi2
 歹	dai2
-歺	dai2
+歺	dai2	#=v
 殳	sy5
 毋	u5
 比	bi2
@@ -122,29 +119,29 @@
 氏	si7
 气	ki3
 水	zui2
-氵	zui2	#水
-氺	zui2	#水
+氵	zui2	#=v 水
+氺	zui2	#=v 水
 三點水	sang1 deng2 zui2
 火	huo2
-灬	huo2	#火
+灬	huo2	#=v 火
 爪	zau2
-爫	zau2	#爪
+爫	zau2	#=v 爪
 父	hu7
 爻	ngau5
 爿	beng5
 片	pieng3
 牙	nga5
 牛	ngiu5
-牜	ngiu5	#牛
+牜	ngiu5	#=v 牛
 抽牛邊	tiu1 ngu5 beng5
 犬	keng2
-犭	keng2	#犬
-#? 反犬 beng2 leng2 keng2
-#5
+犭	keng2	#=v 犬
+反犬	beng2 leng2 keng2
+### 5 STROKES ###
 玄	hieng5	#𤣥
 玉	ngyk8
-⺩	ngyk8
-翦玉邊	zeng2 nguok8 beng5
+⺩	ngyk8	#=v
+翦玉邊	zeng2 ngyk8 beng5
 瓜	gua1
 瓦	ngua2
 甘	gang1
@@ -154,37 +151,37 @@
 疋	pik4	#匹
 #𤴔
 疒	cong5
-# bang7 koek4
+病殼	bang7 koek4
 癶	buak4
 白	bek8
 皮	pi5
 皿	ming2
 目	muk8
-罒	muk8	#?
+罒	muk8	#=v ?
 矛	mau5
 矢	ci2
 石	sik8
-示	si7
-礻	si7	#示
 ⺬	si7	#示
+示	si7	#=v
+#礻
 禮邊	le2 beng5
 禸	niu2	#蹂
 禾	huo5
 穴	hiek8
 立	lik8
-#6
+### 6 STROKES ###
 竹	dyk4
-⺮	dyk4	#竹
+⺮	dyk4	#=v 竹
 米	mi2
 糸	si1
-糹	si1	#糸
+#糹
 牽絲邊	keng1 si1 beng5
 缶	peu2
 网	uong2
-罒	uong2	#網
-㓁	uong2	#網
-罓	uong2	#網
-⺳	uong2	#網
+罒	uong2	#=v 網
+㓁	uong2	#=v 網
+#罓
+#⺳
 羊	iong5
 羽	y2
 老	lo2
@@ -193,8 +190,8 @@
 耳	ngi2
 聿	yk8
 肉	nyk8
-#月	nyk8	#肉
-⺼	nyk8	#肉
+#月	nyk8	#=v 肉
+⺼	nyk8	#=v 肉
 臣	sing5
 自	zy7
 至	zi3
@@ -205,7 +202,7 @@
 艮	gong3
 色	sek4
 艸	co2	#草
-艹	co2	#草
+艹	co2	#=v 草
 草頭	co2 tau5
 虍	hu2	#虎
 虫	tyng5
@@ -213,15 +210,15 @@
 血	hiek4
 行	heng5
 衣	i1
-衤	i1	#衣
+#衤
 襾	se1	#西
-覀	se1	#西
-西	se1
-#7
+西	se1	#=v
+#覀
+### 7 STROKES ###
 見	gieng3
 角	goek4
 言	ngiong5
-訁	ngiong5	#言
+#訁
 谷	guk4
 豆	deu7
 豕	ci2
@@ -235,28 +232,28 @@
 辛	sing1
 辰	sing5
 辵	ciok4
-辶	ciok4
-# zo7 ma2 zo7 馬座
+辶	ciok4	#=v
+坐?馬座	zo7 ma2 zo7
 邑	ik4
-阝	ik4	#邑
+阝	ik4	#=v 邑
 猴耳	gau5 ngi7
 酉	iu2
 釆	bieng7	#辯
 里	li2
-#8
+### 8 STROKES ###
 金	ging1
 長	diong5
-镸	diong5	#長
+镸	diong5	#=v 長
 門	muong5
 阜	peu7
-阝	peu7	#阜
+阝	peu7	#=v 阜
 猴耳邊	gau5 ngi7 beng5
 隶	dai7
 隹	cui1
 雨	y2
 青	cing1
 非	hi1
-#9
+### 9 STROKES ###
 面	mieng7
 革	gek4
 韋	ui5
@@ -268,7 +265,7 @@
 食	sik8
 首	siu2
 香	hiong1
-#10
+### 10 STROKES ###
 馬	ma2
 骨	gok4
 高	go1
@@ -277,35 +274,37 @@
 鬯	tiong3
 隔	gek4
 鬼	gui2
-#11
+### 11 STROKES ###
 魚	ngy5
 鳥	neu2
 鹵	lu2
 鹿	lyk8
 麥	mek8
 麻	ma5
-#12
+### 12 STROKES ###
 黃	uong5
 黍	sy2
 黑	hek4
 黹	zi2
-#13
+### 13 STROKES ###
 黽	ming2
 鼎	ting2
 鼓	gu2
 鼠	cy2
-#14
+### 14 STROKES ###
 鼻	bik8
 齊	ze5
-#15
+### 15 STROKES ###
 齒	ci2
-#16
+### 16 STROKES ###
 龍	lyng5
 龜	gui1
-#17
+### 17 STROKES ###
 龠	ioh8
-#
-#Index of Characters(mŭk liŏh 目錄)
+
+## Index of Characters<br />(mŭk <s>liŏh</s>luŏh 目錄) ##
+
+### 1 ###
 一	ik4
 一	sioh8
 七	cik4
@@ -317,8 +316,8 @@
 下	ha7
 三	sang1
 三	sang3
-〣	sang1
-〣	sang3
+〣	sang1	#=v
+〣	sang3	#=v
 上	siong7
 上	siong2
 万	uang7
@@ -5115,11 +5114,11 @@
 獺	tiak4
 獼	mi5
 玁	hieng2
-#95#
+### 95 ###
 玄	hieng5	#𤣥
 率	sok4
 率	luk8
-#96#
+### 96 ###
 玉	ngyk8
 玉	nguoh8
 王	uong5
@@ -5236,7 +5235,7 @@
 瓐	lu5
 瓔	ing1
 瓚	zuang2
-#97#
+### 97 ###
 瓜	gua1
 𤫬	pung2
 瓞	diek8
@@ -5246,7 +5245,7 @@
 瓣	beng7
 瓤	siong1
 瓤	nong5
-#98#
+### 98 ###
 瓦	ngua2
 瓦	ngua7
 瓧	sek8
@@ -5264,13 +5263,13 @@
 甕	oeng3
 甓	bik8
 甖	ing1
-#99#
+### 99 ###
 甘	gang1
 甚	sing7
 甜	dieng1
 甛	dieng1
 甞	siong5
-#100#
+### 100 ###
 先	seng1
 先	sang1
 先	cang1
@@ -5279,14 +5278,14 @@
 甡	seng1
 甥	seng1
 甦	su1
-#101#
+### 101 ###
 用	yng7
 甪	luk4
 甫	hu2
 甬	yng2
 甯	ning3
 甯	ning7
-#102#
+### 102 ###
 田	dieng5
 田	ceng5
 甲	gak4
@@ -5348,7 +5347,7 @@
 疊	tak8
 疉	diek8	#⿳畾冖互
 疉	tak8	#⿳畾冖互
-#103#
+### 103 ###
 疋	pik4
 疏	su1
 疏	soe1
@@ -5357,7 +5356,7 @@
 疎	soe1
 疑	ngi5
 疐	ti3
-#104#
+### 104 ###
 疒	cong5
 疔	ding1
 㽱	gieu2
@@ -5495,12 +5494,12 @@
 癰	yng1
 癲	dieng1
 癱	tang1
-#105#
+### 105 ###
 癶	buak4
 癸	gui3
 登	deng1
 發	huak4
-#106#
+### 106 ###
 白	bek8
 白	bah8
 百	bek4
@@ -5520,7 +5519,7 @@
 皥	ho7
 皦	gieu2
 皭	ziok4
-#107#
+### 107 ###
 皮	pi5
 皮	puoi5
 皰	pau7
@@ -5532,7 +5531,7 @@
 皻	za1	#⿰⿸虍旦皮
 皽	dieng2
 皽	dang2
-#108#
+### 108 ###
 皿	ming2
 盂	uo5
 盃	buoi1
@@ -5566,7 +5565,7 @@
 盪	tong3
 盬	gu2	#⿱⿰臣⿱𠂉占皿
 盭	le7
-#109#
+### 109 ###
 目	muk8
 目	moek8
 目	mek8
@@ -5686,13 +5685,13 @@
 矍	kuok4	#漳泉亂
 矗	cyk4
 矚	zyk4
-#110#
+### 110 ###
 矛	mau5
 矜	king1
 𥍬	cuang3
 矟	sok4
 矞	yk8
-#111#
+### 111 ###
 矢	ci2
 矣	i3
 知	di1
@@ -5705,7 +5704,7 @@
 矰	zeng1
 矯	gieu2
 矱	huok8
-#112#
+### 112 ###
 石	sik8
 石	sioh8
 矴	ding3
@@ -5816,7 +5815,7 @@
 礱	loeng5
 礵	song1
 礶	guang3
-#113#
+### 113 ###
 示	si7
 示	gi5
 礼	le2	#comp礼
@@ -5880,14 +5879,14 @@
 䄤	lai7
 𥚗	ioh8
 禳	iong7
-#114#
+### 114 ###
 禸	iu2
 禸	niu2
 禺	ngy5
 禹	y2
 离	lie5
 禽	king5
-#115#
+### 115 ###
 禾	huo5
 秀	siu3
 私	sy1
@@ -5972,7 +5971,7 @@
 䆊	ie7
 穰	iong2
 𥤚	ciu1
-#116#
+### 116 ###
 穴	hiek8
 穵	uak4
 究	giu3
@@ -6020,7 +6019,7 @@
 竉	lung2
 竉	loeng3
 竊	ciek4
-#117#
+### 117 ###
 立	lik8
 竍	sek8
 竕	hung1
@@ -6040,7 +6039,7 @@
 端	duang1
 竭	giek8
 競	ging7
-#118#
+### 118 ###
 竹	dyk4
 竺	dyk4
 竻	lek8
@@ -6213,7 +6212,7 @@
 籮	lo5
 䉷	ngieng5
 籲	ioh8
-#119#
+### 119 ###
 米	mi2
 粃	bi2
 粉	hung2
@@ -6276,7 +6275,7 @@
 糴	diah8
 糱	ngiek8
 糶	tieu3
-#120#
+### 120 ###
 糸	si1
 系	hie7
 糾	giu2
@@ -6532,7 +6531,7 @@
 纚	se2
 䌳	sie1
 纜	lang2
-#121#
+### 121 ###
 缶	peu2
 釭	gong1
 缷	sia3	#⿰缶阝
@@ -6548,7 +6547,7 @@
 罌	ing1
 罍	loi5
 罐	guang3
-#122#
+### 122 ###
 网	uong2
 罕	hang2
 䍐	hang2
@@ -6583,7 +6582,7 @@
 羆	pi5
 羇	gie1
 羈	gie1
-#123#
+### 123 ###
 羊	iong5
 羌	giong1
 羑	giu2
@@ -6602,7 +6601,7 @@
 羲	hi1
 羸	lui5
 羶	sieng1
-#124#
+### 124 ###
 羽	y2
 羿	ngie7
 翄	cie3	#⿰羽攴
@@ -6639,7 +6638,7 @@
 翽	uoi3
 翿	do5
 耀	ieu7
-#125#
+### 125 ###
 老	lo2
 老	lau7
 考	ko2
@@ -6648,12 +6647,12 @@
 耄	mo7
 耇	geu2
 耋	diek8
-#126#
+### 126 ###
 而	i5
 耑	zuong1	#漳泉亂
 耐	nai7
 耍	sua2
-#127#
+### 127 ###
 耒	loi7
 耔	zy2
 耙	ba7
@@ -6664,7 +6663,7 @@
 耦	ngeu2
 耨	neu7
 耰	iu1
-#128#
+### 128 ###
 耳	ngi2
 耳	ngi7
 耶	ia5
@@ -6696,7 +6695,7 @@
 聾	loeng5
 聽	ting3
 聽	tiang1
-#129#
+### 129 ###
 聿	yk8
 𦘚	ua7
 肄	i7
@@ -6704,7 +6703,7 @@
 肆	si3
 肅	syk4
 肇	dieu7
-#130#
+### 130 ###
 肉	nyk8
 肉	iu3
 肌	gi1
@@ -6894,13 +6893,13 @@
 臚	lu5
 臟	zong7
 臠	luang2
-#131#
+### 131 ###
 臣	sing5
 卧	nguo7
 臥	nguo7	#=v
 臧	zong1
 臨	ling5
-#132#
+### 132 ###
 自	zy7
 自	zi7
 臭	ciu3
@@ -6908,14 +6907,14 @@
 臬	ngiek8
 皐	go1
 臲	ngiek8
-#133#
+### 133 ###
 至	zi3
 至	gau3
 致	di3
 䑓	dai5
 臺	dai5
 臻	zeng1
-#134#
+### 134 ###
 臼	kiu7
 臼	ku7
 臾	y5
@@ -6936,7 +6935,7 @@
 舉	gy2
 舊	giu7
 舊	gu7
-#135#
+### 135 ###
 舌	siek8
 舍	sia3
 舍	sia2
@@ -6945,11 +6944,11 @@
 舖	puo3
 舔	tieng2
 舘	guang2
-#136#
+### 136 ###
 舛	cuang2
 舜	sung3
 舞	u2
-#137#
+### 137 ###
 舟	ziu1
 舠	do1
 舢	sang1
@@ -6984,16 +6983,16 @@
 艦	kang2
 艨	mung5
 艫	lu5
-#138#
+### 138 ###
 艮	gong3
 艮	ngyng5
 良	liong5
 艱	gang1
-#139#
+### 139 ###
 色	sek4
 艴	huk4
 艶	ieng7
-#140#
+### 140 ###
 艸	co2
 艸	cau2
 芀	deu5
@@ -7419,7 +7418,7 @@
 蘼	mi5
 虆	lui5
 虉	ngik8
-#141#
+### 141 ###
 虍	hu2
 虎	hu2
 虐	ngiok8
@@ -7438,7 +7437,7 @@
 虢	gek4
 虥	zang7
 虧	kui1
-#142#
+### 142 ###
 虫	tyng5
 虫	toeng5
 虬	giu5
@@ -7657,7 +7656,7 @@
 蠹	du2
 蠻	mang5
 𧕴	nang5
-#143#
+### 143 ###
 血	hiek4
 血	hek4
 衁	huong1
@@ -7667,7 +7666,7 @@
 衇	mek8
 衇	mah8
 衊	miek8
-#144#
+### 144 ###
 行	heng5
 行	hong5
 行	heng7
@@ -7692,7 +7691,7 @@
 衡	heng5
 衞	uoi7
 衢	gy5
-#145#
+### 145 ###
 衣	i1
 衣	i3
 表	bieu2
@@ -7827,7 +7826,7 @@
 襲	sik8
 襴	lang5
 襵	niek4
-#146#
+### 146 ###
 西	se1
 要	ieu3
 要	ieu1
@@ -7835,7 +7834,7 @@
 覆	huk4
 覆	peu3
 覈	hok8
-#147#
+### 147 ###
 見	gieng3
 見	hieng7
 覌	guang1
@@ -7864,7 +7863,7 @@
 覽	lang2
 觀	guang1
 觀	guang3
-#148#
+### 148 ###
 角	goek4
 角	lok4
 觔	gyng1
@@ -7891,7 +7890,7 @@
 觸	cyk4
 𧥎	guok4	#漳泉亂
 觽	hie5
-#149#
+### 149 ###
 言	ngiong5
 訂	ding3
 訇	eng1
@@ -8135,12 +8134,12 @@
 讜	dong2
 讞	hiong3
 讟	duk8
-#150#
+### 150 ###
 谷	guk4
 谷	kiak4
 豁	guak4
 谿	ke1
-#151#
+### 151 ###
 豆	deu7
 豆	dau7
 豇	gong1
@@ -8155,7 +8154,7 @@
 豐	hung1
 豓	ieng7
 豔	ieng7
-#152#
+### 152 ###
 豕	ci2
 豗	hui1
 豘	dong5
@@ -8172,7 +8171,7 @@
 豵	zung1
 䝏	leu5
 𧲇	uah4
-#153#
+### 153 ###
 豸	zai7
 豹	bau3
 豺	zai5
@@ -8192,7 +8191,7 @@
 貔	bi5
 貘	mek8
 貛	huang1
-#154#
+### 154 ###
 貝	buoi3
 貞	ding1
 負	hu7
@@ -8285,7 +8284,7 @@
 贗	ngang7
 贖	syk8
 贛	gung3
-#155#
+### 155 ###
 赤	cik4
 赤	ciah4
 赦	sia3
@@ -8295,7 +8294,7 @@
 赭	zia2
 赬	ting1
 䞕	y3
-#156#
+### 156 ###
 走	zeu2
 走	zau2
 赴	hu3
@@ -8321,7 +8320,7 @@
 趯	tik4
 趯	iok8
 趲	zuang2
-#157#
+### 157 ###
 足	zyk4
 足	zy3
 趵	bau3
@@ -8469,7 +8468,7 @@
 躡	niek4
 躩	kiok4
 躏	ling7
-#158#
+### 158 ###
 身	sing1
 躬	gyng1
 躭	dang1
@@ -8478,7 +8477,7 @@
 躴	long5
 躷	e2
 軀	ky1
-#159#
+### 159 ###
 車	gy1
 車	cia1
 軋	ak4
@@ -8559,7 +8558,7 @@
 轢	lik8
 轤	lu5
 轤	ly5
-#160#
+### 160 ###
 辛	sing1
 辜	gu1
 辠	zoi7
@@ -8573,11 +8572,11 @@
 辨	bieng7
 辭	sy5
 辯	bieng7
-#161#
+### 161 ###
 辰	sing5
 辱	yk8
 農	nung5
-#162#
+### 162 ###
 辵	ciok4
 迁	cieng1
 迆	i5
@@ -8725,7 +8724,7 @@
 邊	beng1
 邐	li2
 邏	lo7
-#163#
+### 163 ###
 邑	ik4
 邛	kyng1
 邙	mong5
@@ -8784,7 +8783,7 @@
 鄹	zeu1
 酆	hung1
 酈	lik8
-#164#
+### 164 ###
 酉	iu2
 酊	ding2
 酋	iu5
@@ -8851,11 +8850,11 @@
 釁	hyng3
 釃	se2
 釅	ngieng7
-#165#
+### 165 ###
 采	cai2
 釉	iu7
 釋	sik4
-#166#
+### 166 ###
 里	li2
 重	dyng7
 重	doeng7
@@ -8866,7 +8865,7 @@
 量	liong5
 釐	lie5
 厘	lie5	#=v
-#167#
+### 167 ###
 金	ging1
 針	zeng1
 釗	cieu1
@@ -9118,12 +9117,12 @@
 鑼	lo5
 鑾	luang5
 钁	kiok4
-#168#
+### 168 ###
 長	diong5
 長	dong5
 長	diong7
 長	diong2
-#169#
+### 169 ###
 門	muong5
 閂	cong3
 閂	gong5
@@ -9193,7 +9192,7 @@
 闢	bik8
 闤	kuang5
 闥	tak4
-#170#
+### 170 ###
 阜	heu7
 阡	cieng1
 阭	yng2	#⿰阝𠃔
@@ -9282,11 +9281,11 @@
 隱	ung2
 隳	hui1
 隴	lung2
-#171#
+### 171 ###
 隶	dai7
 隷	le7
 隸	le7
-#172#
+### 172 ###
 隹	cui1
 隻	ziah4
 难	nang5
@@ -9317,7 +9316,7 @@
 離	lie5
 難	nang5
 難	nang7
-#173#
+### 173 ###
 雨	y2
 雨	y7
 雪	suok4	#漳泉亂
@@ -9373,7 +9372,7 @@
 靂	liah8	#=v
 靈	ling5
 靉	ai3
-#174#
+### 174 ###
 靑	cing1
 靑	cang1
 靖	zing7
@@ -9381,18 +9380,18 @@
 靜	zing7
 靛	deng7
 靝	tieng1
-#175#
+### 175 ###
 非	hi1
 啡	pi1
 靠	ko3
 靡	pi2
-#176#
+### 176 ###
 面	mieng7
 面	ming3
 靦	tieng2
 靧	huoi7
 靨	iek8
-#177#
+### 177 ###
 革	gek4
 靮	dik4
 靶	ba3
@@ -9430,7 +9429,7 @@
 鞺	tong1
 韁	giong1
 韆	cieng1
-#178#
+### 178 ###
 韋	ui5
 韌	ing7
 韌	nung7
@@ -9449,16 +9448,16 @@
 韠	bik4
 韡	ui2
 韣	duk8
-#179#
+### 179 ###
 韭	giu2
 韭	giu2
-#180#
+### 180 ###
 音	ing1
 韵	ung7
 韶	sieu5
 韻	ung7
 響	hiong2
-#181#
+### 181 ###
 頁	hiek8
 頁	hiak8
 頂	ding2
@@ -9528,7 +9527,7 @@
 顱	lu5
 顴	guong5
 顳	niek4
-#182#
+### 182 ###
 風	hung1
 颫	hu5
 颯	sak4
@@ -9546,9 +9545,9 @@
 飇	bieu1
 飅	liu5
 䬞	tiu5
-#183#
+### 183 ###
 飛	hi1
-#184#
+### 184 ###
 食	sik8
 食	sy7
 食	siah8
@@ -9646,17 +9645,17 @@
 䭣	ze1
 饜	ieng3
 饞	zang5
-#185#
+### 185 ###
 首	siu2
 首	siu3
 馗	gi5
 馘	gek4
-#186#
+### 186 ###
 香	hiong1
 䭰	pung3
 馥	huk4
 馨	hing1
-#187#
+### 187 ###
 馬	ma2
 馮	bing5
 馮	hung5
@@ -9749,7 +9748,7 @@
 驦	song1
 驩	huang1
 驪	le5
-#188#
+### 188 ###
 骨	gok4
 骭	gang3
 𡰅	nguah4	#⿰兀骨
@@ -9768,10 +9767,10 @@
 髑	duk8
 體	te2
 𩪲	nguak4
-#189#
+### 189 ###
 高	go1
 高	geng3
-#190#
+### 190 ###
 髟	bieu1
 髡	kong1
 髤	hieu1
@@ -9807,7 +9806,7 @@
 鬣	lak8
 鬣	loek8
 鬤	siong1
-#191#
+### 191 ###
 鬥	deu3
 鬥	dau3
 鬦	deu3
@@ -9819,15 +9818,15 @@
 鬫	hang2
 鬬	deu3
 鬮	kau1
-#192#
+### 192 ###
 鬯	tiong3
 鬱	uk4
-#193#
+### 193 ###
 鬲	gek4
 鬵	sing5
 鬷	zung1
 鬻	yk8
-#194#
+### 194 ###
 鬼	gui2
 魂	hung5
 䰟	hung5	#=v
@@ -9846,7 +9845,7 @@
 魕	gi5
 魙	zieng1
 魘	ieng2
-#195#
+### 195 ###
 魚	ngy5
 魟	hoeng1
 𩵫	zing2
@@ -9936,7 +9935,7 @@
 鱨	siong5
 鱸	lu5
 鱷	ngok4
-#196#
+### 196 ###
 鳥	neu2
 鳥	zeu2
 鳦	ik4
@@ -10038,14 +10037,14 @@
 鸛	guang3
 鸝	le5
 鸞	luang5
-#197#
+### 197 ###
 鹵	lu2
 #⿰鹵𠬶	sieng3
 鹹	hang5
 鹹	geng5
 鹼	gieng1
 鹽	sieng5
-#198#
+### 198 ###
 鹿	lyk8
 鹿	loek8
 麂	gi2
@@ -10067,7 +10066,7 @@
 麟	ling5
 麢	ling5
 麤	cu1
-#199#
+### 199 ###
 麥	mek8
 麥	mah8
 麩	hu1
@@ -10078,15 +10077,15 @@
 麴	gyk4
 麴	kyk4
 麵	mieng7
-#200#
+### 200 ###
 麻	ma5
 麻	muai5
 麼	mo5
 麾	hui1
-#201#
+### 201 ###
 黃	uong5
 黌	huang5
-#202#
+### 202 ###
 黍	sy2
 黍	soe2
 黎	le5
@@ -10094,7 +10093,7 @@
 黏	nieng5
 黐	lie5
 黐	ti1
-#203#
+### 203 ###
 黑	hek4
 黔	kieng5
 默	mek8
@@ -10110,11 +10109,11 @@
 黴	mi5
 黶	ieng2
 黷	duk8
-#204#
+### 204 ###
 黹	zi2
 黻	huk4
 黼	hu2
-#205#
+### 205 ###
 黽	ming2
 黾	ming2
 黿	nguong5
@@ -10123,13 +10122,13 @@
 鼇	ngo5
 鼈	biek4
 鼉	ngo5
-#206#
+### 206 ###
 鼎	ting2
 #http://glyphwiki.org/wiki/twedu-a04785-045	ting2
 𪔂	ting2
 鼐	nai2
 鼒	zy3
-#207#
+### 207 ###
 鼓	gu2
 鼕	dung7
 鼕	dung5
@@ -10138,7 +10137,7 @@
 鼙	bi1
 鼛	go1
 𪔦	dung7
-#208#
+### 208 ###
 鼠	cy2
 䑕	cy2	#⿱臼⿵𠘨氺 http://glyphwiki.org/wiki/zihai-126417
 鼢	hung2
@@ -10148,7 +10147,7 @@
 鼴	ieng2
 鼴	zieng5
 鼷	hie5
-#209#
+### 209 ###
 鼻	bik8
 鼻	pi3
 𪖐	kieu3
@@ -10159,7 +10158,7 @@
 #⿰鼻冓	bi7
 齆	yng3
 䶑	ci7	#⿰鼻疐
-#210#
+### 210 ###
 齊	ze5
 齊	zai1
 齊	zy1
@@ -10167,7 +10166,7 @@
 齋	zai1
 齎	ze1
 齏	ze1
-#211#
+### 211 ###
 齒	ci2
 齒	ki2
 齒	ngai2
@@ -10195,7 +10194,7 @@
 齶	ngok4
 䶥	za5
 䶩	ze2
-#212#
+### 212 ###
 龍	lyng5
 龍	leng5
 龍	liek4
@@ -10205,10 +10204,10 @@
 龔	gyng1
 龔	gyng2
 龕	kang1
-#213#
+### 213 ###
 龜	gui1
 𬺞	gui1
-#214#
+### 214 ###
 龠	ioh8
 龡	cuoi1
 龢	huo5
