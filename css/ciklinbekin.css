@@ -208,6 +208,7 @@ ol li:empty::before {
 ol {
 	/*margin-top: 0;
 	padding-top: 2.25em;*/
+	padding-top: 0;
 	list-style-type: none;
 }
 
