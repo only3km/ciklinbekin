@@ -12,8 +12,8 @@ BODY {
 	line-height: 150%;
 	background: white;
 	color: black;
-	margin: 6%;
-	padding: 1em;
+	margin: 5%;
+	padding: .5em;
 	font-size: 1.125rem;
 }
 
@@ -139,14 +139,6 @@ h3 {
 	text-align: center;
 }
 
-h1 {
-	font-size: 2.2rem;
-}
-
-h2 {
-	font-size: 1.8rem;
-}
-
 section {
 	columns: 3;
 	margin-top: 2rem;
@@ -154,18 +146,17 @@ section {
 }
 
 p {
-	font-size: 2.125rem;
-	padding-left: 1.2em;
-	text-indent: -1.2em;
+	font-size: 1.5em;
 }
 
 p span {
-	margin-right: .1em;
+	padding-right: .2em;
+	display: table-cell;
 }
 
 sup {
 	font-size: .6em;
-	margin-left: .25em;
+	display: table-cell;
 }
 
 s {
