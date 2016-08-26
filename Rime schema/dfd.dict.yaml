@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Thu Aug 25 00:18:21 2016
+version: Fri Aug 26 20:33:55 2016
 use_preset_vocabulary: true
 ...
 
@@ -16,6 +16,7 @@ use_preset_vocabulary: true
 乙	ik4
 亅	kuok4
 二	ni7
+二	lang7
 亠	teu5
 人	ing5
 亻	ing5
@@ -24,7 +25,6 @@ use_preset_vocabulary: true
 入	die2
 八	bek4
 冂	hing1
-冂	hing7
 冖	mik8
 冫	bing1
 几	gi2
@@ -38,6 +38,7 @@ use_preset_vocabulary: true
 匸	hi2
 十	sek8
 卜	buk4
+卜	bok4
 卩	ziek4
 㔾	ziek4
 厂	hang3
@@ -93,8 +94,8 @@ use_preset_vocabulary: true
 手	ciu2
 扌	ciu2
 支	zie1
-攵	pok4
 攴	pok4
+攵	pok4
 文	ung5
 文	muong5
 文	ung7
@@ -172,10 +173,9 @@ use_preset_vocabulary: true
 矢	ci2
 石	sik8
 石	sioh8
+⺬	si7
 示	si7
 示	gi5
-礻	si7
-⺬	si7
 禸	niu2
 禸	iu2
 禾	huo5
@@ -185,12 +185,9 @@ use_preset_vocabulary: true
 ⺮	dyk4
 米	mi2
 糸	si1
-糹	si1
 缶	peu2
 网	uong2
 㓁	uong2
-罓	uong2
-⺳	uong2
 羊	iong5
 羽	y2
 老	lo2
@@ -232,16 +229,13 @@ use_preset_vocabulary: true
 行	hong7
 衣	i1
 衣	i3
-衤	i1
 襾	se1
-覀	se1
 西	se1
 見	gieng3
 見	hieng7
 角	goek4
 角	lok4
 言	ngiong5
-訁	ngiong5
 谷	guk4
 谷	kiak4
 豆	deu7
@@ -387,7 +381,6 @@ use_preset_vocabulary: true
 丸	uong5
 丹	dang1
 主	zy2
-主	zio2
 主	zuo2
 丼	pang1
 丼	pong2
@@ -410,6 +403,9 @@ use_preset_vocabulary: true
 九	giu2
 九	gau2
 乜	mieh4
+也	ia3
+也	ia7
+乞	kyk4
 乩	gi1
 乱	luang7
 乱	long7
@@ -486,7 +482,7 @@ use_preset_vocabulary: true
 仕	sy7
 仙	sieng1
 他	ta1
-仳	ba2
+仳	bi2
 仱	dang1
 仲	dyng7
 任	ing7
@@ -509,7 +505,9 @@ use_preset_vocabulary: true
 仰	ngiong2
 仵	ngu2
 伍	ngu2
-伍	ngo2
+伍	ngu7
+〥	ngu2
+〥	ngu7
 伈	sing2
 伃	y5
 伯	bek4
@@ -520,13 +518,14 @@ use_preset_vocabulary: true
 住	zy7
 佔	zieng1
 佔	zieng3
+佐	zo3
 佌	cy2
 低	de1
-但	dang7
+但	dang3
 佟	doeng1
 佃	dieng7
+佗	do5
 佗	ta1
-佗	to5
 佑	iu7
 伽	gia5
 估	gu2
@@ -583,6 +582,7 @@ use_preset_vocabulary: true
 佬	lieu3
 佬	lau7
 侔	meu5
+価	se7
 侍	si7
 侁	sing1
 使	sy2
@@ -591,7 +591,6 @@ use_preset_vocabulary: true
 使	sai3
 佻	tieu1
 侏	ty1
-侏	zio1
 侏	zuo1
 侗	tung1
 便	bieng7
@@ -663,9 +662,9 @@ use_preset_vocabulary: true
 倆	liong2
 倫	lung5
 們	muong5
-倪	nga5
-倏	syk4
+倪	nge5
 倐	syk4
+倏	syk4
 俶	syk4
 値	sik8
 値	dik8
@@ -719,7 +718,7 @@ use_preset_vocabulary: true
 傘	sang2
 傁	seu2
 債	zai3
-傯	cung2
+傯	zung2
 僉	cieng1
 催	coi1
 催	cuoi1
@@ -764,7 +763,7 @@ use_preset_vocabulary: true
 㒋	sy1
 儎	zai3
 儎	sai7
-儁	zung3
+㒞	zung3
 儋	dang1
 億	i3
 價	ga3
@@ -794,7 +793,8 @@ use_preset_vocabulary: true
 儡	lui2
 償	siong5
 儲	zy1
-儳	cang5
+儳	zang5
+𠏹	huk8
 儷	le7
 儸	lo5
 儼	ngieng5
@@ -832,7 +832,6 @@ use_preset_vocabulary: true
 兗	ieng2
 兙	sek8
 党	dong2
-𠙧	dau1
 兝	hung1
 兡	bek4
 兢	kek4
@@ -878,7 +877,7 @@ use_preset_vocabulary: true
 决	giok4
 冶	ia2
 冷	leng2
-冽	liek4
+冽	liek8
 凈	zing7
 准	zung2
 凎	gang3
@@ -896,13 +895,13 @@ use_preset_vocabulary: true
 凚	ging3
 凝	nging5
 凝	ngik8
-嬻	duk8
+凟	duk8
 凡	huang5
 凢	huang5
 壳	kok4
 壳	koek4
 凭	bing5
-憑	bing5
+凴	bing5
 凰	huong5
 凱	kai2
 凳	deng3
@@ -1004,7 +1003,7 @@ use_preset_vocabulary: true
 劃	ua1
 劂	kuok4
 𠢪	piek4
-劍	gieng5
+劍	gieng3
 劊	guoi3
 劇	kiok8
 劉	lau5
@@ -1012,7 +1011,7 @@ use_preset_vocabulary: true
 劈	pik4
 𠟶	toek4
 劑	ze7
-𠞰	zau5
+勦	zau5
 剿	zau5
 㔌	zok4
 劓	ngie7
@@ -1020,7 +1019,7 @@ use_preset_vocabulary: true
 劕	zik4
 㔏	liah4
 𠠃	cieng1
-劖	cang5
+劖	zang5
 劘	mo5
 加	ga1
 功	gung1
@@ -1063,7 +1062,7 @@ use_preset_vocabulary: true
 募	muo7
 𫝑	sie3
 勢	sie3
-勩	i7
+勩	i3
 勰	hiek8
 勳	hyng1
 勵	le7
@@ -1106,7 +1105,7 @@ use_preset_vocabulary: true
 區	ky1
 匿	nik8
 𠥶	te3
-千	cieng7
+千	cieng1
 午	ngu2
 卅	sak4
 升	sing1
@@ -1139,7 +1138,7 @@ use_preset_vocabulary: true
 卺	zing2
 卷	guong3
 卷	guong2
-卻	kiok4
+却	kiok4
 卵	luang2
 卸	sia3
 䘏	suk4
@@ -1256,7 +1255,7 @@ use_preset_vocabulary: true
 呎	cioh4
 吹	cuoi1
 呈	diang5
-呌	gieu5
+呌	gieu3
 吿	go3
 君	gung1
 含	hang5
@@ -1298,7 +1297,7 @@ use_preset_vocabulary: true
 咀	zu3
 咀	zu2
 𠰍	du3
-咄	dok4
+咄	duok4
 味	i7
 咏	ing7
 咖	ga1
@@ -1435,7 +1434,7 @@ use_preset_vocabulary: true
 啫	zia2
 啾	ciu1
 喘	cuang2
-喘	ciong2
+喘	cuong2
 單	dang1
 單	sieng7
 喆	diek4
@@ -1530,12 +1529,12 @@ use_preset_vocabulary: true
 嘒	uoi3
 嘲	zau5
 噍	zieu5
-噍	zieu2
+噍	zieu3
 噂	zong2
 嘬	coi2
 嘴	cui3
-嘽	tang1
-噉	dang5
+嘽	dang1
+噉	dang7
 嘰	gi1
 嘻	hi1
 嘵	hieu1
@@ -1562,10 +1561,10 @@ use_preset_vocabulary: true
 㗿	ha1
 㗾	hoe1
 器	ki3
-𠿕	kieu3
+𠿕	kieu5
 噱	kiok8
 嗹	lieng5
-𠿛	lio7
+𠿛	luo7
 噥	nung5
 噥	nung1
 噩	ngok4
@@ -2790,6 +2789,7 @@ use_preset_vocabulary: true
 慆	to1
 慇	yng1
 慂	yng2
+憑	bing5
 慙	zang5
 慚	zang5
 慞	ziong1
