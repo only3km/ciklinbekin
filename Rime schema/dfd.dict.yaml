@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Fri Aug 26 20:33:55 2016
+version: Sat Aug 27 23:58:24 2016
 use_preset_vocabulary: true
 ...
 
@@ -49,6 +49,7 @@ use_preset_vocabulary: true
 口	keu5
 囗	ui5
 土	tu2
+土	tu5
 士	sy7
 夊	soi1
 夂	zyng1
@@ -58,6 +59,7 @@ use_preset_vocabulary: true
 大	tai3
 女	ny2
 子	zy2
+子	zi2
 宀	mieng5
 寸	cong3
 小	sieu2
@@ -1626,6 +1628,7 @@ use_preset_vocabulary: true
 固	gu3
 囷	kung2
 囷	kyng5
+囹	ling5
 图	du5
 囿	iu7
 圄	ngy2
@@ -1707,7 +1710,7 @@ use_preset_vocabulary: true
 埭	dai7
 堆	doi1
 堂	dong5
-埧	gy1
+埧	gy7
 基	gi1
 堅	gieng1
 埯	ieng2
@@ -1728,7 +1731,7 @@ use_preset_vocabulary: true
 場	diong5
 堵	du2
 𡍼	du5
-堦	kai1
+堦	gai1
 堠	heu7
 堰	ieng2
 堙	ing1
@@ -1826,7 +1829,7 @@ use_preset_vocabulary: true
 壻	sai3
 壽	siu7
 夏	ha1
-外	nguoi1
+外	nguoi7
 外	ngie7
 多	do1
 夙	syk4
@@ -1867,7 +1870,7 @@ use_preset_vocabulary: true
 奢	cia1
 奠	dieng7
 奡	ngo7
-奧	o7
+奧	o3
 獎	ziong2
 奪	duak8
 奪	dok8
@@ -1890,7 +1893,7 @@ use_preset_vocabulary: true
 妣	bi2
 妝	zong1
 妒	du3
-妊	ing3
+妊	ing7
 妓	gi7
 妨	huong5
 妖	ieu1
@@ -1905,7 +1908,7 @@ use_preset_vocabulary: true
 妬	du3
 妯	dyk8
 妯	tiu1
-妗	ging1
+妗	ging7
 姑	gu1
 姁	hy3
 姁	hy1
@@ -1924,7 +1927,7 @@ use_preset_vocabulary: true
 委	ui2
 姿	zy1
 姪	dik8
-姙	ieng7
+姙	ing7
 姤	geu3
 姦	gang1
 姣	gieu2
@@ -1962,6 +1965,7 @@ use_preset_vocabulary: true
 婊	bieu2
 婆	bo5
 婧	zing7
+婕	ziek8
 娶	cy3
 娼	ciong1
 婦	hu7
@@ -1970,7 +1974,7 @@ use_preset_vocabulary: true
 婬	ing5
 婪	lang5
 婁	leu5
-姘	ping3
+姘	peng1
 婉	uang2
 婐	uo2
 媎	zia2
@@ -1992,7 +1996,7 @@ use_preset_vocabulary: true
 嫁	ga3
 媾	geu3
 嫌	hieng5
-媿	koi3
+媿	kui3
 媽	ma2
 媺	mi5
 媵	ning7
@@ -2004,7 +2008,7 @@ use_preset_vocabulary: true
 媳	sing1
 嫂	so2
 媼	ung2
-嫜	ziong2
+嫜	ziong1
 嫡	dik4
 嫗	hy3
 嫣	iong1
@@ -2027,7 +2031,7 @@ use_preset_vocabulary: true
 嬝	nio1
 嬖	pi3
 嬪	bing3
-嬰	ing1
+嬰	eng1
 贏	ing5
 贏	iang5
 嬤	ma1
@@ -2086,7 +2090,7 @@ use_preset_vocabulary: true
 定	diang7
 宙	diu7
 官	guang1
-𫲽	mik8
+宓	mik8
 宜	ngi5
 宜	ngie5
 实	sik8
@@ -2108,7 +2112,7 @@ use_preset_vocabulary: true
 宵	sieu1
 宸	sing5
 容	yng5
-寁	zang1
+寁	zang2
 寂	zik8
 寀	cai2
 寄	gie3
@@ -2156,8 +2160,8 @@ use_preset_vocabulary: true
 專	zuong1
 尉	ui3
 尊	zong1
-尋	sing5
 𡬶	sing5
+尋	sing5
 導	do7
 對	doi3
 少	sieu2
@@ -2191,14 +2195,14 @@ use_preset_vocabulary: true
 屆	gai3
 届	gai3
 屈	kuk4
-屎	ci2
-屎	sai2
 𡱁	ci2
 𡱁	sai2
+屎	ci2
+屎	sai2
 屋	uk4
 屍	si2
 展	dieng2
-屐	kek8
+屐	kiak8
 屑	siek4
 屛	bing5
 屙	o1
@@ -2281,7 +2285,7 @@ use_preset_vocabulary: true
 嶇	ky1
 嵼	sang2
 嶞	do7
-嶠	giu3
+嶠	giu5
 嶔	king1
 嶙	ling5
 嶸	ing5
@@ -2339,7 +2343,7 @@ use_preset_vocabulary: true
 帥	soi3
 帥	sok4
 帮	bong1
-帪	cing1
+帪	zing1
 𢃄	dai3
 席	sik8
 師	sy1
@@ -2356,16 +2360,16 @@ use_preset_vocabulary: true
 幄	uk4
 幄	ok4
 幃	ui5
-幌	huong5
+幌	huong2
 幖	bieu1
 幘	zek4
 幗	guok4
 幔	mang7
-幕	muok8
-幕	muok4
+幕	mok8
+幕	mok4
 幣	bi7
 幞	buk8
-幟	zie3
+幟	cie3
 幢	dung5
 幡	huang1
 幨	zieng1
@@ -2373,7 +2377,7 @@ use_preset_vocabulary: true
 𢅖	lieng5
 幫	bong1
 幪	mung5
-幬	tiu3
+幬	tiu5
 幬	do2
 幰	hieng2
 平	bing5
@@ -2396,7 +2400,7 @@ use_preset_vocabulary: true
 𢇝	di2
 庇	bi3
 庇	bi2
-床	cong3
+床	cong5
 庋	gi2
 序	sy7
 庖	bau5
@@ -2434,7 +2438,7 @@ use_preset_vocabulary: true
 廓	guoh4
 廐	kiu3
 廖	leu7
-謸	ngo5
+廒	ngo5
 廠	ciong2
 廛	dieng5
 廣	guong2
@@ -2563,7 +2567,7 @@ use_preset_vocabulary: true
 御	nga7
 徙	se2
 徜	siong5
-復	huk4
+復	huk8
 徨	huong5
 徧	pieng3
 循	sung5
