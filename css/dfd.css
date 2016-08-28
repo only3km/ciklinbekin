@@ -147,6 +147,7 @@ section {
 
 p {
 	font-size: 1.5em;
+	display: table-row;
 }
 
 p span {
