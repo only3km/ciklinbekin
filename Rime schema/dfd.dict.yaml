@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Sat Aug 27 23:58:24 2016
+version: Sun Aug 28 23:14:12 2016
 use_preset_vocabulary: true
 ...
 
@@ -2617,7 +2617,7 @@ use_preset_vocabulary: true
 忱	ting1
 怭	bik8
 怲	bing2
-怖	buo2
+怖	buo3
 怎	zeng1
 怚	zy3
 怔	zing1
@@ -2681,7 +2681,7 @@ use_preset_vocabulary: true
 恬	tieng5
 恌	tieu1
 恫	tung1
-恫	tong7
+恫	tung7
 悖	buoi7
 悄	cieu2
 悛	cuang1
@@ -2707,7 +2707,7 @@ use_preset_vocabulary: true
 惡	u3
 惡	u2
 情	zing5
-悴	zoi7
+悴	zui7
 悰	zung1
 惙	zuok4
 悽	ce1
@@ -2716,7 +2716,7 @@ use_preset_vocabulary: true
 悼	do7
 惇	dung1
 惎	gi7
-惧	sy7
+惧	gy7
 悸	gie3
 惓	guong5
 惑	hoek8
@@ -2759,7 +2759,7 @@ use_preset_vocabulary: true
 愞	no7
 愕	ngok4
 愚	ngy5
-愠	ong3
+愠	ung3
 惺	sing2
 𢜫	sing2
 想	siong2
@@ -2774,7 +2774,7 @@ use_preset_vocabulary: true
 慉	hyk4
 慁	hung7
 㥵	hung7
-慌	huong2
+慌	huong1
 愮	ieu5
 愮	ieu7
 愷	kai2
@@ -2829,7 +2829,7 @@ use_preset_vocabulary: true
 𢠵	ciong2
 憚	dang7
 憝	dui3
-憧	dung3
+憧	dung5
 憬	ging2
 憨	hang1
 憪	hang5
@@ -2999,12 +2999,13 @@ use_preset_vocabulary: true
 拚	ping1
 拚	piang1
 抨	bing5
-抨	beng1
+抨	peng1
 抱	bo7
 抪	buo3
 招	zieu1
 拄	zy2
 拙	zuok4
+拙	ziok4
 拆	cek4
 拆	tiah4
 担	dang1
@@ -3063,7 +3064,7 @@ use_preset_vocabulary: true
 拿	na2
 拿	niah8
 拭	sik4
-拭	cek4
+拭	cik4
 拾	sik8
 拾	sek8
 拾	kak4
@@ -3085,7 +3086,7 @@ use_preset_vocabulary: true
 捐	song2
 捄	giu5
 捄	gy1
-捄	geu3
+捄	giu3
 捍	hang2
 挾	hiek8
 挾	gek8
@@ -3093,6 +3094,7 @@ use_preset_vocabulary: true
 捓	ia5
 捆	kung2
 捋	luok4
+揑	niek8
 捏	niek8
 挪	no5
 挼	no5
@@ -3112,9 +3114,10 @@ use_preset_vocabulary: true
 掤	bing1
 掉	zau7
 掙	zeng1
-掫	zy1
+掫	zeu1
 掣	zie3
 接	ziek4
+捷	ziek8
 掌	ziong2
 捽	zuk4
 掇	zuok4
@@ -3156,7 +3159,7 @@ use_preset_vocabulary: true
 掊	peu2
 捧	pung2
 捧	pung5
-授	seu7
+授	siu7
 捨	sia2
 掃	sua2
 掃	sau3
@@ -3167,7 +3170,6 @@ use_preset_vocabulary: true
 捥	uang2
 揞	ang2
 揸	za1
-捷	ziek8
 插	cak4
 揪	ciu1
 揪	ciu5
@@ -3190,7 +3192,6 @@ use_preset_vocabulary: true
 揦	lak8
 描	mieu5
 揇	nang2
-揑	niek8
 掾	ngieng3
 揾	ung3
 握	uk4
@@ -3198,8 +3199,8 @@ use_preset_vocabulary: true
 𢯱	seu1
 揳	siek4
 揗	sung5
-揥	de3
-提	di5
+揥	te3
+提	ti5
 揄	y5
 換	uang7
 换	uang7
@@ -3278,7 +3279,7 @@ use_preset_vocabulary: true
 撮	cok4
 撐	ceng1
 撐	tang1
-撐	tang2
+撐	tang3
 撦	cie2
 撞	dung5
 撞	dong7
@@ -3333,7 +3334,7 @@ use_preset_vocabulary: true
 擘	pik4
 擘	bah4
 擅	sieng7
-撻	dak4
+撻	tak4
 擯	bing3
 擠	ze2
 擢	zok8

@@ -2734,7 +2734,7 @@
 忱	ting1
 怭	bik8
 怲	bing2
-怖	buo2
+怖	buo3
 怎	zeng1
 怚	zy3
 怔	zing1
@@ -2770,7 +2770,7 @@
 恔	hau7
 恨	hong7
 恒	heng5
-恆	heng5
+恆	heng5	#=v
 恚	hie7
 恢	hui1
 㤺	huong1
@@ -2780,8 +2780,8 @@
 恪	kok4
 恐	kyng2
 恐	kung2
-𢙢	kyng2
-𢙢	kung2
+𢙢	kyng2	#=v
+𢙢	kung2	#=v
 恇	kuong1
 恡	ling7
 𢘴	luang2	#⿱卯心=㤻
@@ -2790,7 +2790,7 @@
 恩	ong1
 恓	se1
 恃	si7
-息	sik4
+息	sik4	#error sik7
 恕	sy3
 恤	suk4
 恂	sung2
@@ -2798,7 +2798,7 @@
 恬	tieng5
 恌	tieu1
 恫	tung1
-恫	tong7
+恫	tung7
 悖	buoi7
 悄	cieu2
 悛	cuang1
@@ -2824,7 +2824,7 @@
 惡	u3
 惡	u2
 情	zing5
-悴	zoi7
+悴	zui7
 悰	zung1
 惙	zuok4
 悽	ce1
@@ -2833,7 +2833,7 @@
 悼	do7
 惇	dung1
 惎	gi7
-惧	sy7
+惧	gy7
 悸	gie3
 惓	guong5
 惑	hoek8
@@ -2876,13 +2876,13 @@
 愞	no7
 愕	ngok4
 愚	ngy5
-愠	ong3
+愠	ung3
 惺	sing2
-𢜫	sing2
+𢜫	sing2	#=v
 想	siong2
 愢	sy1
 愈	y2
-#⿱兪心	y2
+#⿱兪心	y2	#字形差
 愉	y5
 惲	ung2
 㥬	bong5
@@ -2891,8 +2891,8 @@
 愴	cong2
 慉	hyk4
 慁	hung7
-㥵	hung7
-慌	huong2	#⿰忄⿱艹㠩
+㥵	hung7	#=v
+慌	huong1	#⿰忄⿱艹㠩
 愮	ieu5
 愮	ieu7
 愷	kai2
@@ -2903,7 +2903,7 @@
 慄	lik4
 愿	nguong7
 愼	sing7
-慎	sing7
+慎	sing7	#=v
 愫	su3
 愬	su3
 愬	sok4
@@ -2911,9 +2911,9 @@
 慆	to1
 慇	yng1
 慂	yng2
-憑	bing5
+憑	bing5	#⿱溤心
 慙	zang5
-慚	zang5
+慚	zang5	#=v
 慞	ziong1
 慘	cang2
 慼	cik4	#⿵戚心
@@ -2948,7 +2948,7 @@
 𢠵	ciong2
 憚	dang7
 憝	dui3
-憧	dung3
+憧	dung5
 憬	ging2
 憨	hang1
 憪	hang5
@@ -3004,6 +3004,7 @@
 戁	nang2
 戇	gung3
 戇	nung3
+### 62 ###
 戈	kuo1
 戊	muo7
 戉	uok8
@@ -3038,6 +3039,7 @@
 戲	hie3
 戳	zek8
 戴	dai3
+### 63 ###
 戶	hu7
 戹	ek4
 房	bung5
@@ -3057,6 +3059,7 @@
 扈	hu7
 扊	ieng2
 扉	pi1
+### 64 ###
 手	ciu2
 才	zai5
 才	cai5
@@ -3112,21 +3115,21 @@
 拔	bak8
 拔	bek8
 拔	bi1
-㧞	bak8
-㧞	bek8
-㧞	bi1
+㧞	bak8	#=v
+㧞	bek8	#=v
+㧞	bi1	#=v
 㧙	biek4
 拚	bieng7
 拚	ping1
 拚	piang1
 抨	bing5
-抨	beng1
+抨	peng1
 抱	bo7
 抪	buo3
 招	zieu1
 拄	zy2
 拙	zuok4
-#漳泉亂
+拙	ziok4	#漳泉亂
 拆	cek4
 拆	tiah4
 担	dang1
@@ -3158,9 +3161,9 @@
 拖	to1
 拖	tua1
 拖	tua5
-拕	to1
-拕	tua1
-拕	tua5
+拕	to1	#=v
+拕	tua1	#=v
+拕	tua5	#=v
 拊	u2
 按	ang3
 㧩	buoi2
@@ -3185,7 +3188,7 @@
 拿	na2
 拿	niah8
 拭	sik4
-拭	cek4
+拭	cik4
 拾	sik8
 拾	sek8
 拾	kak4
@@ -3207,7 +3210,7 @@
 捐	giong1
 捄	giu5
 捄	gy1
-捄	geu3
+捄	giu3
 捍	hang2
 挾	hiek8
 挾	gek8
@@ -3215,7 +3218,8 @@
 捓	ia5
 捆	kung2
 捋	luok4	#⿰扌⿳爫丿寸	#漳泉亂
-捏	niek8
+揑	niek8
+捏	niek8	#=v 正文P1298
 挪	no5
 挼	no5
 挼	nui5
@@ -3234,9 +3238,10 @@
 掤	bing1
 掉	zau7
 掙	zeng1
-掫	zy1
+掫	zeu1
 掣	zie3
 接	ziek4
+捷	ziek8
 掌	ziong2
 捽	zuk4
 掇	zuok4
@@ -3278,7 +3283,7 @@
 掊	peu2
 捧	pung2
 捧	pung5
-授	seu7
+授	siu7
 捨	sia2
 掃	sua2
 掃	sau3
@@ -3289,7 +3294,7 @@
 捥	uang2
 揞	ang2
 揸	za1
-捷	ziek8
+#捷	ziek8
 插	cak4
 揪	ciu1
 揪	ciu5
@@ -3312,7 +3317,7 @@
 揦	lak8
 描	mieu5	#⿰扌苖
 揇	nang2
-揑	niek8
+#揑	niek8
 掾	ngieng3
 揾	ung3
 握	uk4
@@ -3320,11 +3325,11 @@
 𢯱	seu1	#⿰扌⿳穴人夂
 揳	siek4
 揗	sung5
-揥	de3
-提	di5
+揥	te3
+提	ti5
 揄	y5
 換	uang7
-换	uang7
+换	uang7	#=v
 援	uong7
 援	uong5
 搏	bok4
@@ -3402,7 +3407,7 @@
 撮	cok4
 撐	ceng1
 撐	tang1
-撐	tang2
+撐	tang3
 撦	cie2
 搭	dak4
 撞	dung5
@@ -3426,7 +3431,7 @@
 撋	nuoi5
 撲	pok4
 撆	piek4
-撇	piek4
+撇	piek4	#=v
 撒	sak4
 撕	sy1
 撤	tiek4
@@ -3458,7 +3463,7 @@
 擘	pik4
 擘	bah4
 擅	sieng7
-撻	dak4
+撻	tak4
 擯	bing3
 擠	ze2
 擢	zok8
@@ -3507,7 +3512,9 @@
 攮	nong5
 攮	nong2
 𢺴	uk4
+### 65 ###
 支	zie1
+### 66 ###
 攴	pok4
 攷	ko2
 收	siu1
@@ -3560,6 +3567,7 @@
 斃	bi7
 𣀒	cyng3
 斆	hau7
+### 67 ###
 文	ung5
 文	muong5
 文	ung7
@@ -3570,6 +3578,7 @@
 斐	pi2
 斒	bang1
 斕	lang5
+### 68 ###
 斗	deu2
 斗	dau2
 斚	ga2
