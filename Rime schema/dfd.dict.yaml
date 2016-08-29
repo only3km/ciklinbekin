@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Sun Aug 28 23:14:12 2016
+version: Mon Aug 29 21:15:33 2016
 use_preset_vocabulary: true
 ...
 
@@ -2221,7 +2221,7 @@ use_preset_vocabulary: true
 屭	hie3
 屯	dung1
 屯	dong5
-𡵆	gi2
+屺	gi2
 屹	ngik4
 屼	uok8
 岔	ca1
@@ -3459,6 +3459,7 @@ use_preset_vocabulary: true
 斯	sy1
 新	sing1
 斲	dok4
+斵	dok4
 斷	duang3
 斷	duang1
 斷	dong2
@@ -3469,7 +3470,7 @@ use_preset_vocabulary: true
 施	sie3
 施	cie2
 施	i7
-旁	bong3
+旁	bong5
 旃	cieng1
 旂	gi5
 旅	ly2
@@ -3576,13 +3577,14 @@ use_preset_vocabulary: true
 暖	nong2
 暈	ung7
 暈	uong7
+暈	uong1
 暈	hui1
-暆	sie2
+暆	sie5
 暑	sy2
 暠	go2
 暝	ming5
 暝	mang5
-暢	ting3
+暢	tiong3
 暴	bo7
 暴	buk8
 暫	zang7
@@ -3668,7 +3670,7 @@ use_preset_vocabulary: true
 杕	de7
 杜	du7
 杆	gang1
-𣏌	gi2
+杞	gi2
 杠	gong1
 杏	heng7
 杝	cie2
@@ -3689,7 +3691,7 @@ use_preset_vocabulary: true
 枝	nge7
 枕	zing2
 枕	zieng2
-枕	zeng3
+枕	zing3
 枣	zo2
 杶	cung1
 枓	deu2
@@ -3708,7 +3710,7 @@ use_preset_vocabulary: true
 杳	mieu2
 杪	mieu2
 枚	muoi5
-枬	nang5
+枏	nang5
 杻	niu2
 极	ngik4
 析	sik4
@@ -3727,7 +3729,7 @@ use_preset_vocabulary: true
 柵	zak8
 柵	cek4
 柱	zy7
-柱	teu7
+柱	tiu7
 柷	zyk4
 枳	zi2
 柘	zia3
@@ -3774,7 +3776,7 @@ use_preset_vocabulary: true
 栴	zieng1
 栖	ce1
 栨	cie3
-桎	zik4
+桎	dik4
 桌	doh4
 桐	dung5
 桐	tung1
@@ -3834,7 +3836,7 @@ use_preset_vocabulary: true
 械	hai7
 梟	hieu1
 桴	hu1
-桴	piu3
+桴	peu5
 梵	huang3
 㭨	ia5
 梨	li5
@@ -3863,7 +3865,7 @@ use_preset_vocabulary: true
 棹	zau7
 棹	doh4
 棦	zeng1
-棷	ceu1
+棷	zeu1
 椒	zieu1
 棗	zo2
 棕	zung1
@@ -3874,12 +3876,12 @@ use_preset_vocabulary: true
 棖	deng5
 椆	diu5
 棠	dong5
-棟	dong3
+棟	dung3
 棟	doeng3
 棘	gik4
 棋	gi5
 棊	gi5
-棍	gong3
+棍	gung3
 椐	gy1
 棺	guang1
 椁	guoh4
@@ -3941,7 +3943,7 @@ use_preset_vocabulary: true
 榜	pang5
 槃	buang5
 槎	za1
-榨	za2
+榨	za3
 榛	zeng1
 榫	zung2
 𣗬	ciu3
@@ -3958,7 +3960,7 @@ use_preset_vocabulary: true
 榮	ing5
 榷	kok4
 榴	liu5
-榔	long3
+榔	long5
 榠	ming5
 榧	pi2
 槊	sok4
@@ -4006,7 +4008,8 @@ use_preset_vocabulary: true
 橙	zeng5
 樵	zieu5
 樽	zong1
-樷	ceng1
+樷	zung5
+橕	ceng1
 橱	diu5
 橦	dung5
 橺	gang1
