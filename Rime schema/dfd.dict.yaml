@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Tue Aug 30 20:00:45 2016
+version: Wed Aug 31 00:52:38 2016
 use_preset_vocabulary: true
 ...
 
@@ -1130,7 +1130,6 @@ use_preset_vocabulary: true
 占	zieng3
 卣	iu2
 卦	gua3
-卩 	ziek4
 卬	ngong5
 卯	mau2
 印	ing3
@@ -5516,7 +5515,7 @@ use_preset_vocabulary: true
 瞋	zing1
 瞎	hak4
 瞑	ming5
-瞍	seu1
+瞍	seu2
 瞠	dong5
 瞖	ie3
 瞞	muang5
@@ -5558,6 +5557,7 @@ use_preset_vocabulary: true
 矱	huok8
 矴	ding3
 矻	kok4
+矽	sik8
 砌	ciek4
 砉	hek8
 砆	hu1
@@ -5736,7 +5736,7 @@ use_preset_vocabulary: true
 秉	bing2
 秆	gang2
 秋	ciu1
-种	zyng1
+种	cyng1
 科	kuo1
 秘	bi3
 秚	buang7
@@ -5791,12 +5791,12 @@ use_preset_vocabulary: true
 穄	zie3
 穉	di7
 穎	ing2
-穊	kai2
+穊	kai3
 穋	lyk8
 穆	muk8
 穌	su1
 𥡷	ung2
-穙	bok8
+穙	boh8
 穜	dung5
 穗	sui3
 穠	nung5
@@ -5812,7 +5812,7 @@ use_preset_vocabulary: true
 𥤚	ciu1
 穵	uak4
 究	giu3
-𥤮	duk8
+𥤮	dok8
 空	kung1
 空	koeng1
 空	kung3
@@ -5821,7 +5821,7 @@ use_preset_vocabulary: true
 穸	sik8
 窃	ciek4
 穿	cuong1
-突	duk8
+突	dok8
 窀	dung1
 穽	sing7
 窆	bieng2
@@ -5832,7 +5832,9 @@ use_preset_vocabulary: true
 窅	mieu2
 窊	ua1
 窓	cong1
-窖	kok4
+窖	gau3
+窘	kung2
+窟	kok4
 窠	uo1
 窬	y5
 窪	ua1
@@ -6011,6 +6013,7 @@ use_preset_vocabulary: true
 簽	cieng1
 簴	gy2
 簻	kuo1
+𥷒	liah8
 簾	lieng5
 簿	puo7
 簷	sieng5
