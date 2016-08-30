@@ -778,7 +778,7 @@
 儔	tiu5
 儛	u2
 儒	y5
-#⿰亻鞋	e7
+⿰亻鞋	e7
 儦	bieu1
 優	iu1
 儡	lui2
@@ -788,7 +788,7 @@
 𠏹	huk8	#⿰亻⿱西國
 儷	le7
 儸	lo5
-#⿲亻革隹	no5
+⿲亻革隹	no5
 儼	ngieng5
 儻	tong2
 ### 10 ###
@@ -824,7 +824,7 @@
 兗	ieng2
 兙	sek8
 党	dong2
-#⿱⿻𦥑白几	dau1	#http://glyphwiki.org/wiki/extd-00581
+⿱⿻𦥑白几	dau1	#http://glyphwiki.org/wiki/extd-00581
 兝	hung1
 兡	bek4
 兢	kek4
@@ -1562,7 +1562,7 @@
 嗽	sau3
 嗾	seu1
 嘗	siong5
-#⿳龸口㫖	siong5	#=v
+⿳龸口㫖	siong5	#=v
 嗿	tang1
 嘆	tang3
 嘒	uoi3
@@ -1646,7 +1646,7 @@
 囉	lo1
 囊	nong5
 囈	ngie7
-#?⿳吅貢吅	ngo5
+⿳吅貢吅	ngo5
 囑	zyk4
 囓	ngak4
 ### 31 ###
@@ -2198,7 +2198,7 @@
 寔	sik8
 寘	di3
 #⿱宀眞	di3	#字形差
-#⿱宀⿻⿻⿴囗三CDP-88CD灬;	sia2
+⿱宀⿻⿻⿴囗三&CDP-88CD;灬	sia2
 寨	zai7
 察	cak4
 寢	cing2
@@ -2700,7 +2700,7 @@
 㣺	sing1	#=v
 必	bik4
 忉	do1
-#⿰忄刁	tieu1
+⿰忄刁	tieu1
 志	zi3
 忖	cong2
 忓	gang1
@@ -3200,7 +3200,7 @@
 捌	bek4
 挷	bong2
 捕	buo7
-#⿰扌𣧄	zang2
+⿰扌𣧄	zang2
 振	zing2
 挿	cak4
 捉	cyk4
@@ -4884,7 +4884,7 @@
 ### 86 ###
 火	huo2
 火	huoi2
-#⿰火乚	zak4
+⿰火乚	zak4
 灯	ding1
 灯	deng1
 灰	hui1
@@ -5705,7 +5705,7 @@
 𥄹	bau3
 眥	zy3
 眞	zing1
-真	zing1
+真	zing1	#=v
 眚	cang1
 眚	seng2
 眩	hieng5
@@ -5715,7 +5715,7 @@
 眠	ming5
 眎	si7
 眾	zyng3
-眷	guong3
+眷	guong3	#字形差
 眴	hiong3
 眶	kuong1
 眸	meu5
@@ -5737,10 +5737,10 @@
 睥	bi7
 睥	pe2
 睥	be2
-睤	bi7
-睤	pe2
-睤	be2
-#⿰目⿱田廾	bi7
+睤	bi7	#=v
+睤	pe2	#=v
+睤	be2	#=v
+#⿰目⿱田廾	bi7		#=v
 #⿰目⿱田廾	pe2
 #⿰目⿱田廾	be2
 睜	zeng1
@@ -5773,7 +5773,7 @@
 瞋	zing1
 瞎	hak4
 瞑	ming5
-瞍	seu1
+瞍	seu2
 瞠	dong5
 瞖	ie3
 瞞	muang5
@@ -5822,6 +5822,7 @@
 石	sioh8
 矴	ding3
 矻	kok4
+矽	sik8
 砌	ciek4
 砉	hek8
 砆	hu1
@@ -5944,7 +5945,7 @@
 祕	bi3
 祝	zyk4
 祗	zie1
-祚	zuo7	#漳泉亂
+祚	zuo7	#漳泉亂 字形差
 祖	zu2
 祐	iu7
 祜	hu7
@@ -5956,19 +5957,19 @@
 祟	sui3
 祠	sy5
 祭	zie3
-祩	zuo1	#漳泉亂
+祩	zuo1	#漳泉亂 字形差
 䄄	ing1
 票	pieu3
 祥	siong5
 祧	tieu1
-祲	zing1
+祲	zing1	#字形差
 禀	bing2
 禀	ling2
 禁	ging3
 禁	ging7
 祺	gi5
 祼	guang3
-#⿰示府	hu7
+⿰示府	hu7
 祿	lyk8
 禘	de7
 禎	ding1
@@ -5978,7 +5979,7 @@
 禊	kie3
 禖	muoi5
 禔	ti5
-禚	ciok4	#?漳泉亂
+禚	ciok4
 禡	ma3
 禦	ngy2
 禧	hi1
@@ -6009,7 +6010,7 @@
 秉	bing2
 秆	gang2
 秋	ciu1
-种	zyng1
+种	cyng1
 科	kuo1
 秘	bi3
 秚	buang7
@@ -6034,7 +6035,7 @@
 稅	suoi3
 程	tiang5
 程	ting5
-稗	bai7
+稗	bai7	#字形差
 稗	pe3
 稟	bing2
 稟	ling2
@@ -6051,7 +6052,7 @@
 稱	cing1
 稱	cing3
 䅢	diu7
-#⿰禾⿱少生	mieu2
+⿰禾⿱少生	mieu2
 稬	no7
 稷	zik4
 稺	di7
@@ -6065,12 +6066,12 @@
 穄	zie3	#⿰禾⿱癶示
 穉	di7
 穎	ing2
-穊	kai2
+穊	kai3
 穋	lyk8
 穆	muk8
 穌	su1
 𥡷	ung2
-穙	bok8
+穙	boh8	#error bok8 參正文k改h
 穜	dung5
 穗	sui3
 穠	nung5
@@ -6088,7 +6089,7 @@
 穴	hiek8
 穵	uak4
 究	giu3
-𥤮	duk8
+𥤮	dok8
 空	kung1
 空	koeng1
 空	kung3
@@ -6097,19 +6098,21 @@
 穸	sik8
 窃	ciek4
 穿	cuong1	#漳泉亂
-突	duk8
+突	dok8
 窀	dung1
 穽	sing7
 窆	bieng2
 窄	zah4
-#⿰穴占	ding1
+⿰穴占	ding1
 窈	ieu2
 窈	lieu2
 窈	mieu2
 窅	mieu2
 窊	ua1
 窓	cong1
-窖	kok4
+窖	gau3
+窘	kung2
+窟	kok4
 窠	uo1
 窬	y5
 窪	ua1
@@ -6125,7 +6128,7 @@
 窾	kuang2
 竄	cuang3
 竅	kieu3
-#⿱穴濫	lang5
+⿱穴濫	lang5
 竇	deu7
 竈	zo3
 竈	zau3
@@ -6238,7 +6241,7 @@
 箭	zieng3
 箴	zing1
 箸	dy7
-#⿳⺮⿰工口木	dyk4
+⿳⺮⿰工口木	dyk4
 築	dyk4
 篆	duong7	#漳泉亂
 篋	giek4
@@ -6294,7 +6297,7 @@
 簽	cieng1
 簴	gy2
 簻	kuo1
-#⿱⺮𢟍	liah8
+𥷒	liah8	#⿱⺮𢟍
 簾	lieng5
 簿	puo7
 簷	sieng5
@@ -6380,10 +6383,10 @@
 糦	cie3
 糧	liong5
 糤	sang3
-#⿰米齊	ze1
+⿰米齊	ze1
 糯	no7
 糲	le7
-#⿰米⿱&g2-CDP-8DEB;而	ze7
+⿰米⿱&g2-CDP-8DEB;而	ze7
 糴	dik8
 糴	diah8
 糱	ngiek8
@@ -6425,7 +6428,7 @@
 純	sung5
 純	dong5
 純	seu5
-#⿰糸㝉	ty2
+⿰糸㝉	ty2
 紜	ung5
 絆	buang7
 紥	zak4
@@ -6654,7 +6657,7 @@
 罃	ing1
 罅	hia1
 罄	king3
-#⿱殸𦈢	king3
+⿱殸𦈢	king3
 罇	zong1
 罈	tang5
 罌	ing1
@@ -7078,7 +7081,7 @@
 舸	ko2
 船	sung5
 艄	sau3
-#⿰舟⿺廴丰	ting2
+⿰舟⿺廴丰	ting2
 艇	ting2
 䑳	lung5
 艋	meng2
@@ -7223,7 +7226,7 @@
 𦮷	buoi3
 荸	buok8
 莊	zong1
-#⿱艹初	coe3
+⿱艹初	coe3
 莗	cia1
 莝	coi3
 荳	deu7
@@ -7350,7 +7353,7 @@
 蒼	cong1
 蓋	gai3
 蒹	gieng1
-#⿱艹髙	go1
+⿱艹髙	go1
 蒿	go1
 蒟	gy2
 蓄	hyk4
@@ -7440,7 +7443,7 @@
 蕣	sung3
 蕪	u5
 蕤	ui1
-#⿱艹越	uok8
+⿱艹越	uok8
 薄	bok8
 薄	boh8
 薦	zieng3
@@ -7557,7 +7560,7 @@
 虯	giu5
 虯	kiu5
 虱	sek4
-#⿰虫千	cieng1
+⿰虫千	cieng1
 虼	ga2
 虹	hung5
 虹	kyng7
@@ -7788,7 +7791,7 @@
 行	hong7
 衎	hang2
 衍	ieng2
-#⿲彳彡亍	ieng2	#=v
+#⿲彳彡亍	ieng2	#=v 字形差 http://glyphwiki.org/wiki/u2ff2-u5f73-u5f61-u4e8d
 衒	hieng5
 術	suk8
 衕	dung7
@@ -7819,7 +7822,7 @@
 衲	nak8
 袁	nguong5
 袁	uong5
-#⿻衣日	soi1
+⿻衣日	soi1
 衰	soi1
 被	bi7
 被	puoi7
@@ -7867,7 +7870,7 @@
 裨	bi1
 裱	bieu2
 製	zie3
-#⿰⻂㝵	ziek4
+⿰⻂㝵	ziek4
 裯	diu5
 裯	do1
 裪	do5
@@ -7902,8 +7905,8 @@
 褪	tong3
 褥	yk8
 襃	bo1
-#⿰衤遷	cieng3
-#⿰衤遷	sieng1
+⿰衤遷	cieng3
+⿰衤遷	sieng1
 襁	giong2
 褲	ku3
 褸	ly3
@@ -7926,9 +7929,9 @@
 襖	o2
 襞	pik4
 襚	sui7
-#⿰衤⿳卝𠔿伐	uak8
+⿰衤⿳卝𠔿伐	uak8
 襤	lang5
-#⿰衤領	liang2
+⿰衤領	liang2
 襮	bok4
 襭	giek4
 襫	hik4
@@ -8210,7 +8213,7 @@
 譚	tang5
 譫	zieng1
 警	ging2
-#⿰言献	hiong3
+⿰言献	hiong3
 譭	hui2
 譯	ik8
 議	ngie7
@@ -8855,7 +8858,7 @@
 邸	di2
 邯	hang1
 邱	kiu1
-#⿰𠮥阝	sieu7
+⿰𠮥阝	sieu7
 邵	sieu7
 邰	tai1
 郅	zi3
@@ -9325,7 +9328,7 @@
 阿	i1
 阿	a1
 陂	po1
-#⿰阝巨	po1
+⿰阝巨	po1
 限	eng7
 陌	bek4
 陔	gai1
@@ -9588,13 +9591,13 @@
 頓	dong3
 預	y7
 頊	yk4
-#⿰殳頁	gyk4
+⿰殳頁	gyk4
 頎	gi5
 頎	kong2
 頏	hong5
 頑	nguang5
 頌	syng7
-#⿰击頁	dung3
+⿰击頁	dung3
 領	ling2
 領	liang2
 頗	po2
@@ -9681,7 +9684,7 @@
 飧	song1
 飧	cuang1
 飭	tik4
-#⿰飠⿱㐅力	tik4
+⿰飠⿱㐅力	tik4
 飽	bau2
 飽	ba2
 飴	i5
@@ -9981,7 +9984,7 @@
 鮎	nieng1
 鮓	ta3
 鮐	ti5
-#魚田	tieng5
+魚田	tieng5
 鮮	cieng1
 鮮	sieng1
 鮮	sieng2
@@ -10152,7 +10155,7 @@
 鸞	luang5
 ### 197 ###
 鹵	lu2
-#⿰鹵𠬶	sieng3
+⿰鹵𠬶	sieng3
 鹹	hang5
 鹹	geng5
 鹼	gieng1
@@ -10268,7 +10271,7 @@
 鼾	hang5
 鼾	hang7
 𪖦	te3
-#⿰鼻冓	bi7
+⿰鼻冓	bi7
 齆	yng3
 䶑	ci7	#⿰鼻疐
 ### 210 ###
