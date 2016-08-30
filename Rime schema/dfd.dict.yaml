@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Mon Aug 29 21:15:33 2016
+version: Tue Aug 30 20:00:45 2016
 use_preset_vocabulary: true
 ...
 
@@ -119,7 +119,6 @@ use_preset_vocabulary: true
 歺	dai2
 殳	sy5
 毋	u5
-毋	u3
 比	bi2
 比	bi7
 毛	mo5
@@ -155,6 +154,8 @@ use_preset_vocabulary: true
 瓦	ngua7
 甘	gang1
 生	seng1
+生	sang1
+生	cang1
 用	yng7
 田	dieng5
 田	ceng5
@@ -816,8 +817,6 @@ use_preset_vocabulary: true
 先	sing1
 先	sieng3
 先	seng1
-先	sang1
-先	cang1
 兌	doi1
 兌	doi3
 兑	doi1
@@ -3977,7 +3976,6 @@ use_preset_vocabulary: true
 樜	zia3
 樟	ziong1
 槳	ziong2
-槳	ziong1
 㯍	ziong2
 槽	zo5
 槽	so5
@@ -4215,6 +4213,7 @@ use_preset_vocabulary: true
 汜	huang3
 汜	gi2
 汀	ting1
+汊	ca1
 汋	ciok4
 池	die5
 池	do5
@@ -4320,7 +4319,7 @@ use_preset_vocabulary: true
 泅	siu5
 泝	su3
 泰	tai3
-沰	tuk8
+沰	tok8
 洊	zieng3
 津	zing1
 洤	zuong5
@@ -4328,7 +4327,7 @@ use_preset_vocabulary: true
 洞	dung7
 洞	dung5
 洞	doeng7
-洚	gong5
+洚	gong3
 洸	guong5
 洽	hak8
 洫	hik4
@@ -4475,8 +4474,8 @@ use_preset_vocabulary: true
 湎	mieng2
 渺	mieu2
 渭	ui7
-渤	buok8
 渤	puok8
+渤	buok8
 湜	sik8
 湘	siong1
 湑	sy1
@@ -4539,12 +4538,16 @@ use_preset_vocabulary: true
 漅	zau5
 漬	zy3
 漸	zieng7
+漿	ziong1
 漳	ziong1
 漕	zo5
 漆	cik4
 漼	coi2
 滯	di7
 滴	dik4
+漲	diong3
+漚	eu2
+漚	eu3
 滾	gung2
 漢	hang3
 滬	hu7
@@ -4703,6 +4706,8 @@ use_preset_vocabulary: true
 災	zai1
 灾	zai1
 灶	zau3
+灼	ciok4
+灼	diok8
 灸	giu2
 灸	gu3
 灵	ling5
@@ -4711,9 +4716,9 @@ use_preset_vocabulary: true
 炊	cuoi1
 炖	dung7
 炎	ieng5
-炎	dang3
+炎	dang5
 炕	kong3
-炉	lu3
+炉	lu5
 炦	bak8
 炰	bau5
 炳	bing2
@@ -4736,7 +4741,7 @@ use_preset_vocabulary: true
 為	ui7
 烖	zai1
 烝	zing1
-烛	zioh4
+烛	zuoh4
 烜	hiong1
 烘	hyng1
 烘	hoeng1
@@ -4756,8 +4761,8 @@ use_preset_vocabulary: true
 烰	pu5
 焙	buoi7
 焦	zieu1
-焠	zoi7
-焠	zi3
+焠	zui7
+焠	zi5
 焞	dung1
 焮	hoeng7
 焚	hung5
@@ -4815,7 +4820,7 @@ use_preset_vocabulary: true
 𤍕	iu2
 熬	ngo5
 熨	oi3
-熨	ok4
+熨	uk4
 熠	sik8
 熠	ik8
 熟	syk8
@@ -4858,7 +4863,7 @@ use_preset_vocabulary: true
 燻	hyng1
 燹	sieng2
 爆	buk8
-爆	bok8
+爆	bok4
 爍	ciok4
 爉	lak8
 爊	o1
@@ -4885,7 +4890,7 @@ use_preset_vocabulary: true
 爽	song2
 𤕤	song2
 爾	i2
-牀	cung3
+牀	cong5
 牂	zong1
 版	bang2
 牌	be5
@@ -4920,7 +4925,7 @@ use_preset_vocabulary: true
 犉	sung5
 犍	giong5
 犗	gai3
-犒	go3
+犒	ko3
 犖	lok4
 𤛏	cy5
 犢	duk8
@@ -4955,7 +4960,7 @@ use_preset_vocabulary: true
 狻	se5
 猋	bieu1
 猙	zeng1
-猝	zok4
+猝	zuk4
 猝	zui7
 猜	cai1
 猜	cuoi1
@@ -5041,7 +5046,7 @@ use_preset_vocabulary: true
 珠	zuo1
 珓	gau3
 珪	gie1
-珩	heng3
+珩	heng5
 珦	hiong3
 珣	sung1
 球	giu5
@@ -5120,7 +5125,7 @@ use_preset_vocabulary: true
 璽	se2
 璽	soe2
 璿	suong5
-𤪞	ging2
+瓊	ging2
 瓈	le5
 瓏	lung5
 瓏	loeng5
@@ -5162,7 +5167,7 @@ use_preset_vocabulary: true
 甪	luk4
 甫	hu2
 甬	yng2
-甯	ning3
+甯	ning5
 甯	ning7
 甲	gak4
 由	iu5
@@ -5250,7 +5255,8 @@ use_preset_vocabulary: true
 疹	zing2
 疹	moeng2
 疽	zy1
-疼	ding5
+疵	zy1
+疼	deng5
 痁	dieng3
 痂	ga1
 疳	gang1
@@ -5293,7 +5299,7 @@ use_preset_vocabulary: true
 痲	muai5
 瘀	u3
 痱	pi2
-痰	tang3
+痰	tang5
 痿	ui2
 瘇	zyng2
 瘏	du5
@@ -5349,10 +5355,10 @@ use_preset_vocabulary: true
 𤻰	siong7
 癨	huok4
 癩	lai7
-癧	lek8
-癧	lik8
 𤻤	lek8
 𤻤	lik8
+癧	lek8
+癧	lik8
 癭	ing1
 癬	sieng2
 癬	ciang2
@@ -5393,7 +5399,7 @@ use_preset_vocabulary: true
 盂	uo5
 盃	buoi1
 盆	buong5
-盅	zyng1
+盅	cyng1
 盈	ing5
 益	ik4
 𥁐	hai2

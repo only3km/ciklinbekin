@@ -4281,6 +4281,7 @@
 歠	cuok4	#漳泉亂
 歠	zuok4
 歡	huang1
+### 77 ###
 止	zi2
 正	zing3
 正	ziang3
@@ -4296,6 +4297,7 @@
 歳	suoi3
 歷	lik8
 歸	gui1
+### 78 ###
 歹	dai2
 死	sy2
 死	si2
@@ -4323,6 +4325,7 @@
 殰	duk8
 𣩹	huai7
 殲	cieng1
+### 79 ###
 殳	sy5
 段	dong7
 殷	yng1
@@ -4336,17 +4339,20 @@
 毅	ngie7
 毆	eu2
 毈	tuang3
-毋	u3
+### 80 ###
+毋	u5
 母	mu2
 母	mo2
 每	muoi2
 毒	duk8
 毓	yk8
+### 81 ###
 比	bi2
 比	bi7
 毖	bi3
 毗	bi5
 毚	zang5
+### 82 ###
 毛	mo5
 毡	zieng1
 毨	sieng2
@@ -4362,12 +4368,14 @@
 氂	lie5
 氄	nong2
 氈	zieng1
-氊	zieng1
+氊	zieng1	#=v
 氍	gy5
+### 83 ###
 氏	si7
 氐	di2
 民	ming5
 氓	mang5
+### 84 ###
 气	ki3
 氛	hung1
 氦	hai7
@@ -4377,6 +4385,7 @@
 氪	kek4
 氬	a2
 氳	ung1
+### 85 ###
 水	zui2
 氷	bing1
 永	ing2
@@ -4385,7 +4394,7 @@
 求	giu5
 汜	huang3
 汀	ting1
-#⿰氵义	ca1
+汊	ca1	#⿰氵义
 汋	ciok4
 池	die5
 池	do5
@@ -4404,10 +4413,10 @@
 汐	puong3
 汙	u1
 汙	u3
-汚	u1
-汚	u3
-污	u1
-污	u3
+汚	u1	#=v
+汚	u3	#=v
+污	u1	#=v
+污	u3	#=v
 沃	ok4
 沃	uoh4
 汴	bieng7
@@ -4473,7 +4482,7 @@
 泆	ik8
 泱	iong1
 沿	iong5
-#⿰氵⿱丷口	iong5
+#⿰氵⿱丷口	iong5	#字形差
 油	iu5
 泣	kik4
 泐	lek8
@@ -4493,7 +4502,7 @@
 泅	siu5
 泝	su3
 泰	tai3
-沰	tuk8
+沰	tok8
 洊	zieng3
 津	zing1
 洤	zuong5	#漳泉亂
@@ -4501,7 +4510,7 @@
 洞	dung7
 洞	dung5
 洞	doeng7
-洚	gong5
+洚	gong3
 洸	guong5
 洽	hak8
 洫	hik4
@@ -4594,7 +4603,7 @@
 涸	kok4
 淩	ling5
 涼	liong5
-淚	lui7	#漳泉亂
+淚	lui7
 淥	lyk8
 淪	lung5
 淖	nau7
@@ -4648,8 +4657,8 @@
 湎	mieng2
 渺	mieu2
 渭	ui7
-渤	buok8
 渤	puok8
+渤	buok8
 湜	sik8
 湘	siong1
 湑	sy1
@@ -4670,8 +4679,8 @@
 滓	zai2
 滓	dai2
 溱	zeng1
-滋	zy5
-滋	zy1
+滋	zy5	#字形差
+滋	zy1	#字形差
 準	zung2
 溴	ciu3
 滄	cong1
@@ -4712,13 +4721,16 @@
 漅	zau5
 漬	zy3
 漸	zieng7
-槳	ziong1
+漿	ziong1
 漳	ziong1
 漕	zo5
 漆	cik4
 漼	coi2
 滯	di7
 滴	dik4
+漲	diong3
+漚	eu2
+漚	eu3
 滾	gung2
 漢	hang3
 滬	hu7
@@ -4740,8 +4752,8 @@
 漫	mang5
 漭	mong7
 漠	mok8
-滿	muang2
-滿	mang2
+滿	muang2	#字形差
+滿	mang2	#字形差
 漁	ngy5
 漂	pieu3
 漂	pieu1
@@ -4755,7 +4767,7 @@
 潷	bi3
 潺	zang5
 潛	zieng5
-潜	zieng5
+潜	zieng5	#=v
 潨	zung5
 潒	ciong7
 澄	deng5
@@ -4783,7 +4795,7 @@
 澀	sek4
 澁	sek4
 澘	sang1
-潯	sing5
+潯	sing5	#⿰氵𡬶
 澌	sy1
 潭	tang5
 澈	tiek4
@@ -4869,6 +4881,7 @@
 灣	uang5
 灨	gung3
 灔	ieng7
+### 86 ###
 火	huo2
 火	huoi2
 #⿰火乚	zak4
@@ -4880,8 +4893,10 @@
 伙	huoi2
 灹	bak8
 災	zai1
-灾	zai1
+灾	zai1	#=v
 灶	zau3
+灼	ciok4
+灼	diok8
 灸	giu2
 灸	gu3
 灵	ling5
@@ -4890,9 +4905,9 @@
 炊	cuoi1
 炖	dung7
 炎	ieng5
-炎	dang3
+炎	dang5
 炕	kong3
-炉	lu3
+炉	lu5
 炦	bak8	#⿰火叐
 炰	bau5
 炳	bing2
@@ -4915,7 +4930,7 @@
 為	ui7
 烖	zai1
 烝	zing1
-烛	zioh4
+烛	zuoh4	#漳泉亂
 烜	hiong1
 烘	hyng1
 烘	hoeng1
@@ -4935,8 +4950,8 @@
 烰	pu5
 焙	buoi7
 焦	zieu1
-焠	zoi7
-焠	zi3
+焠	zui7
+焠	zi5
 焞	dung1
 焮	hoeng7
 焚	hung5
@@ -4949,7 +4964,7 @@
 煎	zieng1
 照	zieu3
 煑	zy2
-煮	zy2
+煮	zy2	#=v
 煄	zyng2
 煢	ging5
 煦	hy3
@@ -4990,27 +5005,27 @@
 熲	geng2
 熯	hang3
 熱	iek8
-𤍠	iek8
+𤍠	iek8	#=v
 𤍕	iu2
 熬	ngo5
 熨	oi3
-熨	ok4
+熨	uk4
 熠	sik8
 熠	ik8
 熟	syk8
 燋	zieu1
 𤎷	cie3	#⿱戠火
-熾	cie3
+熾	cie3	#=v
 燈	deng1
 燈	ding1
 燈	dieng1
 燉	dung1
 熻	hik4
 熹	hi1
-熺	hi1
+熺	hi1	#=v
 燔	huang1
 燁	iek4
-𤍞	iek4
+𤍞	iek4	#=v
 燕	ieng3
 燕	ieng1
 燄	ieng7
@@ -5037,7 +5052,7 @@
 燻	hyng1
 燹	sieng2
 爆	buk8
-爆	bok8
+爆	bok4
 爍	ciok4
 爉	lak8
 爊	o1
@@ -5049,6 +5064,7 @@
 爝	ziok4
 爝	ciok4
 爨	cuang3
+### 87 ###
 爪	zua2
 爪	zau2
 爬	ba5
@@ -5059,21 +5075,25 @@
 爲	ui5
 爲	ui7
 爵	ziok4
+### 88 ###
 父	hu7
 父	hu2
 爸	ba7
 爹	dia1
 爺	ie5
+### 89 ###
 爻	ngau5
 爼	zu2
 爽	song2
 𤕤	song2
 爾	i2
+### 90 ###
 爿	beng5
 戕	zong1
-牀	cung3
+牀	cong5
 牂	zong1
 牆	ciong5
+### 91 ###
 片	pieng5
 版	bang2
 牌	be5
@@ -5081,7 +5101,9 @@
 牕	cong1
 牖	iu2
 𬌏	duk8
+### 92 ###
 牙	nga5
+### 93 ###
 牛	ngiu5
 牛	ngu5
 牝	bing2
@@ -5111,12 +5133,13 @@
 犉	sung5
 犍	giong5
 犗	gai3
-犒	go3
+犒	ko3
 犖	lok4
 𤛏	cy5	#⿰牛⿸虍旦
 犢	duk8
 犧	hi1
 犨	siu5
+### 94 ###
 犬	keng2
 犯	huang7
 狀	zong7
@@ -5147,7 +5170,7 @@
 狻	se5
 猋	bieu1
 猙	zeng1
-猝	zok4
+猝	zuk4
 猝	zui7
 猜	cai1
 猜	cuoi1
@@ -5238,7 +5261,7 @@
 珠	zuo1	#漳泉亂
 珓	gau3
 珪	gie1
-珩	heng3
+珩	heng5
 珦	hiong3
 珣	sung1
 球	giu5
@@ -5277,7 +5300,7 @@
 瑞	sui7
 瑄	song1
 瑀	y2
-瑜	y5
+瑜	y5	#字形差
 瑋	ui2
 瑗	uong7
 瑨	zing3
@@ -5290,7 +5313,7 @@
 瑯	long5
 瑪	ma2
 瑣	so2
-𤨏	so2
+𤨏	so2	#=v
 璋	ziong1
 璀	coi1
 璁	cung1
@@ -5317,7 +5340,7 @@
 璽	se2
 璽	soe2
 璿	suong5	#漳泉亂
-𤪞	ging2	#⿰⺩⿳⿱⺤罒日夊
+瓊	ging2	#⿰⺩⿳⿱⺤罒日夊 http://glyphwiki.org/wiki/ce-4134
 瓈	le5
 瓏	lung5
 瓏	loeng5
@@ -5346,7 +5369,7 @@
 甎	zuong1	#漳泉亂
 甋	dik4
 甌	eu1
-甑	zeng3
+甑	zeng3	#字形差
 甑	song5
 甒	u2
 甕	oeng3
@@ -5356,14 +5379,14 @@
 甘	gang1
 甚	sing7
 甜	dieng1
-甛	dieng1
+甛	dieng1	#=v
 甞	siong5
 ### 100 ###
-先	seng1
-先	sang1
-先	cang1
+生	seng1
+生	sang1
+生	cang1
 產	sang2
-産	sang2
+産	sang2	#=v
 甡	seng1
 甥	seng1
 甦	su1
@@ -5372,7 +5395,7 @@
 甪	luk4
 甫	hu2
 甬	yng2
-甯	ning3
+甯	ning5
 甯	ning7
 ### 102 ###
 田	dieng5
@@ -5384,7 +5407,7 @@
 男	nang5
 町	ting2
 畀	bi3
-畁	bi3
+畁	bi3	#=v
 甾	zy1
 甿	mang5
 画	ua7
@@ -5396,8 +5419,8 @@
 畏	ui3
 毗	pi5
 毗	bi5
-毘	pi5
-毘	bi5
+毘	pi5	#=v
+毘	bi5	#=v
 畇	yng5
 畚	bung3
 畚	buong2
@@ -5413,7 +5436,7 @@
 畦	hie5
 𤱶	keng2
 畧	liok8
-略	liok8
+略	liok8	#=v
 㽞	liu5
 畯	zung3
 異	i7
@@ -5434,8 +5457,8 @@
 疇	tiu5
 疊	diek8
 疊	tak8
-疉	diek8	#⿳畾冖互
-疉	tak8	#⿳畾冖互
+疉	diek8	#=v ⿳畾冖互
+疉	tak8	#=v ⿳畾冖互
 ### 103 ###
 疋	pik4
 疏	su1
@@ -5470,7 +5493,8 @@
 疹	zing2
 疹	moeng2
 疽	zy1
-疼	ding5
+疵	zy1
+疼	deng5
 痁	dieng3
 痂	ga1
 疳	gang1
@@ -5502,7 +5526,7 @@
 痛	tiang3
 瘂	a2
 痺	bi3
-痹	bi3
+痹	bi3	#=v
 瘁	zui7
 痴	ci1
 瘃	dok4
@@ -5513,7 +5537,7 @@
 痲	muai5
 瘀	u3
 痱	pi2
-痰	tang3
+痰	tang5
 痿	ui2
 瘇	zyng2
 瘏	du5
@@ -5545,7 +5569,7 @@
 瘵	zie3
 瘴	ziong3
 瘺	leu7
-瘻	leu7
+瘻	leu7	#=v
 瘰	luo2	#漳泉亂
 瘼	mok8
 瘷	sau3
@@ -5566,14 +5590,14 @@
 癥	ding1
 癢	iong2
 癢	siong7
-𤻰	iong2	#⿸疒⿳艹天良
-𤻰	siong7	#⿸疒⿳艹天良
+𤻰	iong2	#=v ⿸疒⿳艹天良
+𤻰	siong7	#=v ⿸疒⿳艹天良
 癨	huok4
 癩	lai7
-癧	lek8
-癧	lik8
 𤻤	lek8	#⿸疒⿱秝心
 𤻤	lik8	#⿸疒⿱秝心
+癧	lek8	#=v
+癧	lik8	#=v
 癭	ing1
 癬	sieng2
 癬	ciang2
@@ -5594,7 +5618,7 @@
 百	bek4
 百	bah4
 皁	zo7
-皂	zo7
+皂	zo7	#=v
 的	dik4
 皆	gai1
 皈	gui1
@@ -5625,7 +5649,7 @@
 盂	uo5
 盃	buoi1
 盆	buong5
-盅	zyng1
+盅	cyng1
 盈	ing5
 益	ik4
 𥁐	hai2
@@ -5658,7 +5682,7 @@
 目	muk8
 目	moek8
 目	mek8
-直	dik8
+直	dik8	#字形差
 盱	hy1
 盲	mang5
 眈	dang1
