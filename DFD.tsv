@@ -4680,7 +4680,7 @@
 滓	dai2
 溱	zeng1
 滋	zy5	#字形差
-滋	zy1	#字形差
+滋	zy1
 準	zung2
 溴	ciu3
 滄	cong1
@@ -4753,7 +4753,7 @@
 漭	mong7
 漠	mok8
 滿	muang2	#字形差
-滿	mang2	#字形差
+滿	mang2
 漁	ngy5
 漂	pieu3
 漂	pieu1
@@ -7118,7 +7118,7 @@
 艾	ngie3
 芊	cieng1
 芍	ciok4
-𦬊	gi2
+𦬊	gi2	#=>芑
 芎	gyng1
 芒	mong5
 芒	moeng5
@@ -7150,7 +7150,7 @@
 芯	sing1
 芸	ung5
 茇	bak8
-𦭞	bak8
+𦭞	bak8	#=v
 苞	bau5
 芘	bi3
 苹	bing5
@@ -7175,8 +7175,8 @@
 苙	lik8
 苓	ling5
 茂	meu7
-茆	mau2
-芧	mau5	#?茅
+茆	mau2	#error 正文
+茅	mau5	#error芧 正文
 苗	mieu5
 茉	muak8
 茉	moek8
@@ -7184,8 +7184,8 @@
 苶	niek8
 苔	tai1
 苔	ti5
-苎	ty2
-苎	doe7
+苧	ty2
+苧	doe7
 苑	uong2
 荐	zieng3
 茱	zuo1	#漳泉亂
@@ -7212,8 +7212,8 @@
 荏	ing2
 茘	lie3
 茘	lie5
-荔	lie3
-荔	lie5
+荔	lie3	#=v
+荔	lie5	#=v
 茗	ming5
 茫	mong5
 荍	ngieu5
@@ -7261,6 +7261,8 @@
 萆	bi1
 𦱔	bi1	#=v
 萍	bing5
+菢	bu7
+菢	bo7
 菩	bu5
 菁	zing1
 萃	cui7
@@ -7313,7 +7315,7 @@
 葡	bu5
 𦳦	zai1
 葬	zong3
-塟	zong3
+塟	zong3	#=v
 葺	zik4
 著	ziok8
 著	dy3
@@ -7354,7 +7356,7 @@
 蓋	gai3
 蒹	gieng1
 ⿱艹髙	go1
-蒿	go1
+蒿	go1	#=v
 蒟	gy2
 蓄	hyk4
 蓄	hoek4
@@ -7373,7 +7375,7 @@
 蒔	si5
 蒔	si7
 蓆	sik8
-蓆	cuoh8	#漳泉亂
+蓆	cioh8
 䓾	so1
 蓑	soi1
 蓑	sai1
@@ -7398,7 +7400,7 @@
 蔭	ing3
 蔒	hung1
 蔫	iong1
-䓻	keu3
+𦸅	keu3
 蓮	leng5
 蔞	leu5
 蔞	leu1
@@ -7423,7 +7425,7 @@
 蔽	bi3
 蕉	zieu1
 蕞	cok4
-蕝	cok4
+蕝	cok4	#=v
 蕩	dong7
 蕆	dieng2
 蕎	gieu5
@@ -7480,12 +7482,12 @@
 藏	zong5
 藏	zong7
 薹	dai5
-槀	go2
+藁	go2
 薰	hyng1
 薾	i2
 藍	lang5
 藐	mieu2
-薿	ngi1
+薿	ngi2
 薸	pieu5
 藇	sy7
 蕭	sieu1
@@ -7506,6 +7508,7 @@
 藹	ai2
 蘋	bing5
 藻	co3
+蘄	gi5
 䕫	gi5
 蘅	heng5
 蘐	hiong1

@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Thu Sep  1 23:02:52 2016
+version: Sat Sep  3 12:08:11 2016
 use_preset_vocabulary: true
 ...
 
@@ -6830,7 +6830,7 @@ use_preset_vocabulary: true
 苓	ling5
 茂	meu7
 茆	mau2
-芧	mau5
+茅	mau5
 苗	mieu5
 茉	muak8
 茉	moek8
@@ -6838,8 +6838,8 @@ use_preset_vocabulary: true
 苶	niek8
 苔	tai1
 苔	ti5
-苎	ty2
-苎	doe7
+苧	ty2
+苧	doe7
 苑	uong2
 荐	zieng3
 茱	zuo1
@@ -6913,6 +6913,8 @@ use_preset_vocabulary: true
 萆	bi1
 𦱔	bi1
 萍	bing5
+菢	bu7
+菢	bo7
 菩	bu5
 菁	zing1
 萃	cui7
@@ -7021,7 +7023,7 @@ use_preset_vocabulary: true
 蒔	si5
 蒔	si7
 蓆	sik8
-蓆	cuoh8
+蓆	cioh8
 䓾	so1
 蓑	soi1
 蓑	sai1
@@ -7046,7 +7048,7 @@ use_preset_vocabulary: true
 蔭	ing3
 蔒	hung1
 蔫	iong1
-䓻	keu3
+𦸅	keu3
 蓮	leng5
 蔞	leu5
 蔞	leu1
@@ -7127,11 +7129,12 @@ use_preset_vocabulary: true
 藏	zong5
 藏	zong7
 薹	dai5
+藁	go2
 薰	hyng1
 薾	i2
 藍	lang5
 藐	mieu2
-薿	ngi1
+薿	ngi2
 薸	pieu5
 藇	sy7
 蕭	sieu1
@@ -7152,6 +7155,7 @@ use_preset_vocabulary: true
 藹	ai2
 蘋	bing5
 藻	co3
+蘄	gi5
 䕫	gi5
 蘅	heng5
 蘐	hiong1
