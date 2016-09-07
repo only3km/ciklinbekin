@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Wed Sep  7 19:14:03 2016
+version: Thu Sep  8 00:11:00 2016
 use_preset_vocabulary: true
 ...
 
@@ -3576,7 +3576,6 @@ use_preset_vocabulary: true
 暈	ung7
 暈	uong7
 暈	uong1
-暈	hui1
 暆	sie5
 暑	sy2
 暠	go2
@@ -7971,7 +7970,7 @@ use_preset_vocabulary: true
 賚	lai7
 賣	me7
 賜	sy3
-賞	siong3
+賞	siong2
 賭	du2
 頼	lai7
 賴	lai7
@@ -7985,7 +7984,7 @@ use_preset_vocabulary: true
 賸	sing7
 賽	suoi3
 贄	zi3
-贃	cuang3
+贃	zuang3
 贃	ting3
 贅	zuoi3
 贈	zeng7
@@ -8005,6 +8004,7 @@ use_preset_vocabulary: true
 赭	zia2
 赬	ting1
 䞕	y3
+赳	giu2
 赴	hu3
 赶	gang2
 起	ki2
@@ -8102,7 +8102,7 @@ use_preset_vocabulary: true
 踧	syk4
 踧	dik8
 踢	tik4
-踢	ciok4
+踢	cuok4
 踟	ti5
 踵	zyng2
 蹄	de5
@@ -8119,6 +8119,7 @@ use_preset_vocabulary: true
 蹐	zik4
 蹌	ciong1
 蹉	co1
+蹋	dak8
 蹎	dieng5
 蹈	do7
 蹇	giong2
@@ -8172,7 +8173,7 @@ use_preset_vocabulary: true
 躠	siek4
 躡	niek4
 躩	kiok4
-躏	ling7
+躪	ling7
 躬	gyng1
 躭	dang1
 躱	duo2
@@ -8218,7 +8219,7 @@ use_preset_vocabulary: true
 輚	zang7
 輖	ziu1
 輜	zy1
-輟	cuok4
+輟	zuok4
 輙	diek8
 輝	hui1
 輢	i2
@@ -8229,8 +8230,8 @@ use_preset_vocabulary: true
 輗	nge5
 輞	uong2
 輳	zeu3
-輯	cik4
-輯	cik8
+輯	zik4
+輯	zik8
 輻	huk4
 輶	iu5
 輭	nuong2
