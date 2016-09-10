@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Sat Sep 10 13:16:52 2016
+version: Sat Sep 10 14:41:39 2016
 use_preset_vocabulary: true
 ...
 
@@ -9504,7 +9504,8 @@ use_preset_vocabulary: true
 鮝	siong2
 鯿	bieng1
 鯾	bieng1
-鯽	zik8
+鯽	zik4
+鰂	zek8
 鰍	ciu1
 鰌	ciu1
 鰆	cung1
@@ -9513,10 +9514,10 @@ use_preset_vocabulary: true
 鰋	ieng2
 𩹊	iu5
 鰓	sai1
-鰓	se1
+鰓	se2
 𩺀	zik4
 鰜	gieng1
-𩻴	guang1
+鰥	guang1
 鰣	si5
 鰠	so1
 鮹	so2
@@ -9559,7 +9560,7 @@ use_preset_vocabulary: true
 鴃	giok4
 鴈	ngang7
 鴆	ting1
-鵊	ak4
+鴨	ak4
 鴟	ci1
 鴕	do5
 鴣	gu1
@@ -9585,7 +9586,7 @@ use_preset_vocabulary: true
 鵞	ngie5
 鵚	tuk8
 鵡	u2
-鵒	yk4
+鵒	yk8
 鵶	a1
 鵪	ang1
 鵬	beng5
@@ -9656,7 +9657,7 @@ use_preset_vocabulary: true
 麌	ngy2
 麒	gi5
 麔	gieu2
-𪊽	kung2
+麕	kung2
 麗	le7
 麓	lyk8
 麑	nge5
@@ -9708,7 +9709,7 @@ use_preset_vocabulary: true
 鼉	ngo5
 𪔂	ting2
 鼐	nai2
-鼒	zy3
+鼒	zy5
 鼕	dung7
 鼕	dung5
 䶀	dak8
