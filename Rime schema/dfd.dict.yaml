@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Fri Sep  9 23:53:27 2016
+version: Sat Sep 10 13:16:52 2016
 use_preset_vocabulary: true
 ...
 
@@ -299,7 +299,7 @@ use_preset_vocabulary: true
 馬	ma2
 骨	gok4
 高	go1
-高	geng3
+高	geng5
 髟	bieu1
 鬥	deu3
 鬥	dau3
@@ -9017,6 +9017,7 @@ use_preset_vocabulary: true
 𩄻	muo5
 霧	u7
 霫	sik8
+露	lu3
 霰	sieng3
 霱	yk8
 霸	ba3
@@ -9038,7 +9039,7 @@ use_preset_vocabulary: true
 靑	cing1
 靑	cang1
 靖	zing7
-靚	zieng7
+靚	zing7
 靜	zing7
 靛	deng7
 靝	tieng1
@@ -9047,13 +9048,13 @@ use_preset_vocabulary: true
 靡	pi2
 靦	tieng2
 靧	huoi7
-靨	iek8
+靨	iek4
 靮	dik4
 靶	ba3
 靶	ba2
 靳	gyng3
 𩉬	gi5
-靴	huo1
+靴	kuo1
 靸	ngik4
 靸	liak4
 鞄	bau5
@@ -9076,7 +9077,7 @@ use_preset_vocabulary: true
 鞚	kung3
 鞭	bieng1
 鞦	ciu1
-鞮	de3
+鞮	de5
 𩋰	diu7
 鞫	gyk4
 鞵	e5
@@ -9101,6 +9102,7 @@ use_preset_vocabulary: true
 韠	bik4
 韡	ui2
 韣	duk8
+韮	giu2
 韵	ung7
 韶	sieu5
 韻	ung7
@@ -9145,7 +9147,7 @@ use_preset_vocabulary: true
 頭	teu5
 頭	tau5
 頲	ting2
-顇	cui3
+顇	zui3
 顀	zui1
 顁	ding3
 顆	kuo2
@@ -9160,6 +9162,7 @@ use_preset_vocabulary: true
 顕	hieng2
 類	lui7
 願	nguong7
+顙	song2
 顣	cyk4
 顧	gu3
 顥	ho7
@@ -9211,12 +9214,12 @@ use_preset_vocabulary: true
 餅	biang2
 餈	zy1
 餂	dieng1
-餂	tieng1
+餂	tieng2
 餃	gieu2
 餉	hiong3
 養	iong2
 養	iong7
-餌	ni2
+餌	ni3
 餔	buo5
 餑	buok8
 餕	zung3
@@ -9277,6 +9280,7 @@ use_preset_vocabulary: true
 饔	yng1
 䭣	ze1
 饜	ieng3
+饛	mung5
 饞	zang5
 馗	gi5
 馘	gek4
@@ -9374,7 +9378,7 @@ use_preset_vocabulary: true
 驩	huang1
 驪	le5
 骭	gang3
-𡰅	nguah4
+尳	nguah4
 骫	ui2
 骰	dau5
 骴	zy1
@@ -9443,6 +9447,7 @@ use_preset_vocabulary: true
 魁	kuoi1
 魃	bak8
 魅	muoi7
+魅	mai2
 魄	poek4
 魋	doi5
 魋	tui5
