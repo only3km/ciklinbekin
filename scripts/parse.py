@@ -4,7 +4,8 @@ outputs = []
 
 def outputChar(s,initial,final,tone):
     #print(s,' ',initial,' ',final, ' ',tone)
-    outputs.append([s,initial,final,tone])
+    #字形 #等價 #異形 #initial #final #tone #shown
+    outputs.append([s,'','',initial,final,tone, True])
 
 with open('../CikLinBekIn.md','r',encoding="utf8") as f:
     lines = f.readlines()
@@ -44,11 +45,28 @@ with open('../CikLinBekIn.md','r',encoding="utf8") as f:
                         outputChar(currentLine[j],initial,final,tone)
 
 
-        
+
+for i in range(0,len(outputs)):
+    if outputs[i][-1] == False:
+        continue
+    if outputs[i][0][0]==':':
+        #觱`:⿵咸角`
+        outputs[i-1][-1] = False
+        outputs[i][0] = outputs[i][0][1:] #去掉冒號
+        outputs[i][1] = outputs[i-1][0] #將冒號前字設爲IDS的同形
+    elif outputs[i][0][-1]==':':
+        #`⿰⿱亠䜌欠:`㱍
+        outputs[i+1][-1] = False
+        outputs[i][0] = outputs[i][0][:-1] #去掉冒號
+        outputs[i][2] = outputs[i+1][0] #將冒號後字設爲IDS的異形
+
             
 import csv
 with open('output.csv', 'w',newline='',encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel')
-    writer.writerow(["#","漢字","聲母","韻母","調"])
+    writer.writerow(["#","漢字","等價","異形","聲母","韻母","調"])
+    count = 0
     for i in range(0,len(outputs)):
-        writer.writerow([i+1]+outputs[i])
+        if (outputs[i][-1] == True):
+            count = count +1
+            writer.writerow([count]+outputs[i][:-1])
