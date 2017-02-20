@@ -24,6 +24,10 @@
 ### RIME 中州韻 | 小狼毫 Weasel | 鼠鬚管 Squirrel | 同文 Tongwen
 - [Rime schemas](Rime%20schema)
 
+## TBD
+- 美全八音
+- 福清方言研究
+
 ## Links
 - [CHISE / 漢字構造情報データベース](http://www.chise.org/ids/)
 - [iSpeakMin 海墘閩語論壇](http://www.ispeakmin.com/)
