@@ -25,8 +25,8 @@
 - [Rime schemas](Rime%20schema)
 
 ## TBD
-- 美全八音
-- 福清方言研究
+- 加訂美全八音, 1906, 鍾德明
+- 福清方言研究, 1993, 馮愛珍
 
 ## Links
 - [CHISE / 漢字構造情報データベース](http://www.chise.org/ids/)
