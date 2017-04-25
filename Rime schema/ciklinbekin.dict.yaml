@@ -4,7 +4,7 @@
 
 ---
 name: ciklinbekin
-version: Fri Aug 26 20:39:42 2016
+version: Tue Apr 25 16:18:57 2017
 use_preset_vocabulary: true
 ...
 
@@ -156,6 +156,7 @@ use_preset_vocabulary: true
 㨰	gung2
 䜇	gung2
 鯀	gung2
+𩩌	gung2
 輥	gung2
 𩌌	gung2
 緄	gung2
@@ -173,6 +174,7 @@ use_preset_vocabulary: true
 谷	guk4
 榖	guk4
 酷	guk4
+告	guk4
 梏	guk4
 鵠	guk4
 嚳	guk4
@@ -183,7 +185,6 @@ use_preset_vocabulary: true
 焅	guk4
 牿	guk4
 䶜	guk4
-告	guk4
 蠖	guk4
 群	gung5
 羣	gung5
@@ -208,7 +209,7 @@ use_preset_vocabulary: true
 箜	kung1
 倥	kung1
 涳	kung1
-㲁	kung1
+𢽦	kung1
 鵼	kung1
 悾	kung1
 𪔣	kung1
@@ -218,9 +219,9 @@ use_preset_vocabulary: true
 壼	kung2
 綑	kung2
 悃	kung2
-稇	kung2
+稛	kung2
 齫	kung2
-𪊽	kung2
+麕	kung2
 麏	kung2
 捆	kung2
 控	kung3
@@ -242,6 +243,7 @@ use_preset_vocabulary: true
 𥏘	kuk8
 𡲬	kuk8
 東	dung1
+蝀	dung1
 敦	dung1
 諄	dung1
 弴	dung1
@@ -252,7 +254,6 @@ use_preset_vocabulary: true
 涷	dung1
 窀	dung1
 𢛔	dung1
-蝀	dung1
 董	dung2
 懂	dung2
 𦡂	dung2
@@ -302,8 +303,10 @@ use_preset_vocabulary: true
 衕	dung5
 幢	dung5
 鮦	dung5
+餇	dung5
 膧	dung5
 𦒍	dung5
+艟	dung5
 䴀	dung5
 㸗	dung5
 䮵	dung5
@@ -327,6 +330,7 @@ use_preset_vocabulary: true
 韣	duk8
 牘	duk8
 匵	duk8
+櫝	duk8
 瀆	duk8
 凟	duk8
 毒	duk8
@@ -340,7 +344,6 @@ use_preset_vocabulary: true
 嬻	duk8
 𣰬	duk8
 𢷺	duk8
-櫝	duk8
 蜂	pung1
 𧒒	pung1
 蠭	pung1
@@ -458,7 +461,6 @@ use_preset_vocabulary: true
 崇	zung5
 叢	zung5
 樷	zung5
-菆	zung5
 藂	zung5
 𥵫	zung5
 潀	zung5
@@ -789,7 +791,7 @@ use_preset_vocabulary: true
 丰	hung1
 峯	hung1
 峰	hung1
-縫	hung1
+鏠	hung1
 鋒	hung1
 烽	hung1
 㷭	hung1
