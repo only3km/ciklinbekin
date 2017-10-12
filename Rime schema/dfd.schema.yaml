@@ -27,8 +27,6 @@ switches:
     states: [ 常用, 增廣 ]
 
 engine:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " '"
   processors:
     - ascii_composer
     - recognizer
@@ -121,6 +119,9 @@ speller:
     - abbrev/^([a-z]).+$/$1/
     # 以ng爲首的音節的縮寫
     - abbrev/^(ng).+$/$1/
+    
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
 
 dfd:
   #tags:  # any
