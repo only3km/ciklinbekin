@@ -4,7 +4,7 @@
 
 ---
 name: ciklinbekin
-version: Fri Aug 26 20:39:42 2016
+version: Sun Jul 30 00:24:14 2017
 use_preset_vocabulary: true
 ...
 
@@ -823,7 +823,7 @@ use_preset_vocabulary: true
 坌	hung2
 坋	hung2
 哄	hung2
-関	hung2
+閧	hung2
 嗊	hung2
 𩒓	hung2
 𩢙	hung2
@@ -946,7 +946,7 @@ use_preset_vocabulary: true
 苽	gua1
 𠛒	gua1
 𥄼	gua1
-抓	gua1
+㧓	gua1
 媧	gua1
 寡	gua2
 剮	gua2
@@ -1372,10 +1372,10 @@ use_preset_vocabulary: true
 暘	iong5
 瘍	iong5
 延	iong5
-筳	iong5
-莛	iong5
-涏	iong5
-蜓	iong5
+筵	iong5
+莚	iong5
+涎	iong5
+蜒	iong5
 羊	iong5
 佯	iong5
 徉	iong5
@@ -1393,7 +1393,8 @@ use_preset_vocabulary: true
 𥂸	iong5
 蝝	iong5
 巡	iong5
-𡋺	iong5
+埏	iong5
+郔	iong5
 綖	iong5
 颺	iong5
 𤡮	iong5
@@ -1781,6 +1782,7 @@ use_preset_vocabulary: true
 𨥋	niu2
 紐	niu2
 𨳞	niu2
+𪏲	niu2
 忸	niu2
 收	siu1
 𠈅	siu1
@@ -2128,7 +2130,7 @@ use_preset_vocabulary: true
 磵	gang3
 𩻾	gang3
 瞷	gang3
-繝	gang3
+𦅘	gang3
 襇	gang3
 𨣉	gang3
 甲	gak4
@@ -3223,7 +3225,7 @@ use_preset_vocabulary: true
 窄	da3
 醡	da3
 㡸	da3
-簣	dah4
+簀	dah4
 𤖓	dah4
 茶	da5
 𨃓	da5
@@ -9912,7 +9914,6 @@ use_preset_vocabulary: true
 栖	ce1
 差	ce1
 泚	ce2
-緀	ce3
 妻	ce3
 蟹	he7
 蠏	he7
@@ -10662,6 +10663,7 @@ use_preset_vocabulary: true
 扇	sieng3
 煽	sieng3
 謆	sieng3
+𨡉	sieng3
 先	sieng3
 𦭶	sieng3
 薛	siek4

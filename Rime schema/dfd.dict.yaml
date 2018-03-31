@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Sat Sep 10 14:41:39 2016
+version: Sat Aug  5 01:47:33 2017
 use_preset_vocabulary: true
 ...
 
@@ -3081,7 +3081,6 @@ use_preset_vocabulary: true
 挹	ik4
 捔	gok4
 捐	giong1
-捐	song2
 捄	giu5
 捄	gy1
 捄	giu3
@@ -3232,6 +3231,7 @@ use_preset_vocabulary: true
 搧	sieng3
 搔	so1
 搎	song1
+損	song2
 搨	tak4
 搥	tui5
 搲	ua1
@@ -5766,7 +5766,7 @@ use_preset_vocabulary: true
 稟	ling2
 稠	ziu1
 稚	di7
-稇	kung2
+稛	kung2
 䅘	lai5
 稜	ling5
 稑	lyk8
@@ -6231,7 +6231,7 @@ use_preset_vocabulary: true
 綾	ling5
 綹	liu2
 綠	lyk8
-綠	lioh8
+綠	luoh8
 綸	lung5
 綸	guang1
 𦁧	moeng7
@@ -9155,7 +9155,7 @@ use_preset_vocabulary: true
 𩔗	lui7
 顏	ngang5
 顎	ngok4
-額	ngaih8
+額	ngiah8
 顒	ngyng5
 顋	sai1
 顚	dieng1
