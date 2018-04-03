@@ -104,6 +104,7 @@ class DFDCharacterEntry(DFDEntry):
         self.type = EntryType.NORMAL_CHARACTER
         self.characters = []
         self.character_types = []
+        self.characters_corrected = []
         self.buc = []
         self.buc_corrected = []
         self.r10n = []
@@ -115,13 +116,14 @@ class DFDCharacterEntry(DFDEntry):
                 return True
         return False
 
-    def add_char(self,c):
+    def add_char(self,c, c_corrected = ''):
         if (c not in self.characters):
             self.characters.append(c)
             self.character_types.append(self.__is_ids(c))
+            self.characters_corrected.append(c_corrected)
 
     def add_r10n(self,r,r_corrected=''):
-        if r not in self.r10n:
+        if (r not in self.r10n)  and (r not in self.r10n_corrected) :
             self.r10n.append(r)
             self.r10n_corrected.append(r_corrected)
             self.buc.append(r10n_to_buc(r))
@@ -142,11 +144,17 @@ class DFDCharacterEntry(DFDEntry):
             if self.character_types[i] == True:
                 char += '<code>%s</code>' % c
             else:
-                char += c
+                if (self.characters_corrected[i]!=''):
+                    char += '<s>%s</s>%s' % (c, self.characters_corrected[i])
+                else:
+                    char += c
         tmp = [] 
         for i, p in enumerate(self.buc):
             if self.buc_corrected[i] != "":
-                tmp.append("<s>%s</s> %s" % (p,self.buc_corrected[i]))
+                if (self.buc_corrected[i] == ' '):
+                    tmp.append("<s>%s</s>" % p)
+                else:
+                    tmp.append("<s>%s</s> %s" % (p,self.buc_corrected[i]))
             else:
                 tmp.append(p)
         buc = ", ".join(tmp)
@@ -179,6 +187,7 @@ class DFDRadicalEntry(DFDCharacterEntry):
 
 def process_lines(lines, radical_mode = False):
     reMDCross1 = r'^.*~~([a-z0-9]+)~~.*$'
+    reMDCross1_hanzi = r'^.*~~([^a-z0-9~]+)~~.*$'
     entries = []
     lastChar = None
     current_entry = None
@@ -198,6 +207,11 @@ def process_lines(lines, radical_mode = False):
             corrected_r10n = re.compile(reMDCross1).match(line).group(1)
         else:
             corrected_r10n = None
+
+        if re.compile(reMDCross1_hanzi).match(line) != None:
+            corrected_char = re.compile(reMDCross1_hanzi).match(line).group(1)
+        else:
+            corrected_char = None
         if (len(line) > 0):
             #print(line)
             if (not line.startswith('#')):
@@ -230,7 +244,10 @@ def process_lines(lines, radical_mode = False):
                         # RADICAL
                         commit()
                         current_entry = DFDRadicalEntry()
-                        current_entry.add_char(char)
+                        if (corrected_char == None):
+                            current_entry.add_char(char)
+                        else:
+                            current_entry.add_char(corrected_char,char)
                         if (is_uoioerror):
                             if 'uo' in syllable:
                                 current_entry.add_r10n(syllable.replace('uo','io'), syllable)
@@ -241,7 +258,10 @@ def process_lines(lines, radical_mode = False):
                     elif (len(char)>1):
                         current_entry.add_radical_name(char, syllable)
                     else:
-                        current_entry.add_char(char)
+                        if (corrected_char == None):
+                            current_entry.add_char(char)
+                        else:
+                            current_entry.add_char(corrected_char,char)
                     
                         if (is_uoioerror):
                             if 'uo' in syllable:
