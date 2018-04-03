@@ -78,6 +78,20 @@ def r10n_to_buc(r):
         result.append(convert_once(x))
     return "-".join(result)
 
+class Syllable():
+    def __init__(self, r10n, r10n_corrected = ''):
+        self.r10n = r10n
+        self.r10n_corrected = r10n_corrected
+        self.buc = r10n_to_buc(r10n)
+        self.buc_corrected = r10n_to_buc(r10n_corrected) if r10n_corrected != '' else ''
+
+    def __str__(self):
+        if (self.buc_corrected == ''):
+            return self.buc
+        else:
+            return "<s>%s</s> %s" % (self.buc, self.buc_corrected)
+
+
 class EntryType(Enum):
     RADICAL = 1
     RADICAL_STROKE_NUMBER = 2
@@ -176,12 +190,16 @@ class DFDRadicalEntry(DFDCharacterEntry):
         self.radical_name_chi = ''
         self.radical_name_buc = ''
     
-    def add_radical_name(self, chi, buc):
+    def add_radical_name(self, chi, buc, uoio = False):
         self.radical_name_chi = chi
-        self.radical_name_buc = r10n_to_buc(buc)
+        if uoio:
+            self.radical_name_buc = [(Syllable(b.replace('uo','io'),b) if b.replace('uo','io')!=b else Syllable(b) )for b in buc.split(' ')]
+        else:    
+            self.radical_name_buc = [Syllable(b) for b in buc.split(' ')]
+
 
     def get_html_buc_radical(self):
-        return unicodedata.normalize('NFKD',self.spit_html()[1] + (' (%s)'%self.radical_name_buc.replace(' ','-') if self.radical_name_buc != '' else ''))
+        return unicodedata.normalize('NFKD',self.spit_html()[1] + (' (%s)'%'-'.join([str(b) for b in self.radical_name_buc]) if len(self.radical_name_buc)>0 else ''))
 
     html_buc_radical = property(get_html_buc_radical, None)
 
@@ -256,7 +274,7 @@ def process_lines(lines, radical_mode = False):
                         else:
                             current_entry.add_r10n(syllable)
                     elif (len(char)>1):
-                        current_entry.add_radical_name(char, syllable)
+                        current_entry.add_radical_name(char, syllable, is_uoioerror)
                     else:
                         if (corrected_char == None):
                             current_entry.add_char(char)
@@ -298,7 +316,7 @@ t = Template(f.read())
 
 output = t.render(chars = entries, radicals = radicals)
 
-f2 = open('../test.html',"w", encoding='utf8')
-#print(output)
+f2 = open('../DFD.html',"w", encoding='utf8')
+
 f2.write(output)
 f2.close()
