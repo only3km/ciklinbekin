@@ -53,12 +53,17 @@ for i in range(0,len(outputs)):
         #觱`:⿵咸角`
         outputs[i-1][-1] = False
         outputs[i][0] = outputs[i][0][1:] #去掉冒號
-        outputs[i][1] = outputs[i-1][0] #將冒號前字設爲IDS的同形
+        outputs[i][1] = outputs[i-1][0] #將冒號前字設爲IDS的等價
     elif outputs[i][0][-1]==':':
         #`⿰⿱亠䜌欠:`㱍
         outputs[i+1][-1] = False
         outputs[i][0] = outputs[i][0][:-1] #去掉冒號
         outputs[i][2] = outputs[i+1][0] #將冒號後字設爲IDS的異形
+    elif len(outputs[i][0])>1 and outputs[i][0][1]==':':
+        # `牆:⿰爿夾⿱回`
+        splits = outputs[i][0].split(':')
+        outputs[i][0] = splits[1] #將IDS設爲本字
+        outputs[i][1] = splits[0] #將引號內冒號前的字設爲IDS的等價
 
             
 import csv
