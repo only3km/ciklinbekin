@@ -1627,7 +1627,7 @@
 寐	mi7
 寓	ngy7
 寔	sik8
-寘	di3
+寘,{⿱宀⿳十且八}	di3	% ?
 {⿱宀⿻⿻⿴囗三&CDP-88CD;灬}	sia2
 +Page
 寨	zai7
@@ -2952,7 +2952,7 @@
 暉	hui1
 暎	iong3
 暘	iong5
-𣋒	kie1
+睽	kie1
 +Column
 暋	ming2
 暖	nuang2,nong2
