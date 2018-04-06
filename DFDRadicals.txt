@@ -46,7 +46,7 @@
 宀	mieng5		覆寶蓋	puk4-bo2-gai3
 寸	cong3
 小	sieu2
-尢,𡯂,尤	uong1   % 尩
+尢,𡯂,尤	uong1	% 尩
 尸	si1
 屮	tiek4		半草	buang3-co2	% 徹
 山	sang1
@@ -58,7 +58,7 @@
 干	gang1
 幺	ieu1
 广	ieng2
-廴	ing2    % 引
+廴	ing2	% 引
 廾	gyng2
 弋	ik8
 弓	gyng1

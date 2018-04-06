@@ -17,9 +17,8 @@ for r in radicals + entries:
                 dict_entries[x[0]].append(x[1])
 
 # DFDRadicals.txt
-
+"""
 with open('../DFDRadicals.txt', 'w', encoding='utf8') as outfile:
-    count = 0
     for row in radicals:
         if (row.type == EntryType.RADICAL_STROKE_NUMBER):
             outfile.write('+Stroke='+str(row.number)+'\n')
@@ -28,3 +27,14 @@ with open('../DFDRadicals.txt', 'w', encoding='utf8') as outfile:
                          +','.join([b.get_new_format() for b in row.r10n])+'\t\t' \
                          +row.radical_name_chi+'\t' \
                          +'-'.join([b.get_new_format() for b in row.radical_name_buc])).strip()+'\n')
+"""
+
+# DFDCharacters.txt
+
+with open('../DFDCharacters.txt', 'w', encoding='utf8') as outfile:
+    for row in entries:
+        if (row.type == EntryType.RADICAL_NUMBER):
+            outfile.write('+Stroke='+str(row.number)+'\n')
+        elif (row.type == EntryType.NORMAL_CHARACTER):
+            outfile.write((','.join([c.render_new_format() for c in row.characters])+'\t' \
+                         +','.join([b.get_new_format() for b in row.r10n])).strip()+'\n')
