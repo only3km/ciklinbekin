@@ -291,9 +291,9 @@ class HelloFrame(wx.Frame):
             value = ''
             startpos = -1
             endpos = -1
-            if len(preview_text)> 50:
-                preview_text = preview_text[:50]
-                preview_text.append(10099595,'...')
+            if len(preview_text[(page_id,col_id)])> 50:
+                preview_text[(page_id,col_id)] = preview_text[(page_id,col_id)][:50]
+                preview_text[(page_id,col_id)].append((10099595,'...'))
             for row_id, line in preview_text[(page_id,col_id)]:
                 if (row_id == current_row_id):
                     startpos = len(value)
