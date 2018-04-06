@@ -24,12 +24,3 @@ output = t.render(chars = entries, radicals = radicals)
 f2 = open('../DFD.html',"w", encoding='utf8')
 f2.write(output)
 f2.close()
-
-# dfd.dict.yaml
-f = open('./template/dfd.dict.jinja2','r',encoding='utf-8')
-t = Template(f.read())
-f.close()
-output = t.render(entries = rime_entries, datetime=datetime.datetime.now().strftime('%a %b %d %H:%M:%S %Y'))
-f2 = open('../Rime schema/dfd.dict.yaml',"w", encoding='utf8')
-f2.write(output)
-f2.close()

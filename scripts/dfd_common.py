@@ -93,16 +93,26 @@ class Syllable():
     def __str__(self):
         if (self.buc_corrected == ''):
             return self.buc
+        elif (self.r10n_corrected == ' '):
+            return "<s>%s</s>" % self.buc
         else:
             return "<s>%s</s> %s" % (self.buc, self.buc_corrected)
 
-    def get_buc_corrected():
+    def get_new_format(self):
+        if (self.buc_corrected == ''):
+            return self.r10n
+        elif self.r10n_corrected == ' ':
+            return '~~%s~~' % self.r10n
+        else:
+            return '~~%s,%s~~' % (self.r10n, self.r10n_corrected)
+
+    def get_buc_corrected(self):
         if (self.buc_corrected != ''):
             return self.buc_corrected
         else:
             return self.buc
 
-    def get_buc_original():
+    def get_buc_original(self):
         return self.buc
 
 class Character():
@@ -181,10 +191,8 @@ class DFDCharacterEntry(DFDEntry):
         self.type = EntryType.NORMAL_CHARACTER
         self.characters = []
         self.characters_seen = {}
-        self.buc = []
-        self.buc_corrected = []
+        self.buc_seen = {}
         self.r10n = []
-        self.r10n_corrected = []
 
     def __is_ids(self,c):
         for x in c:
@@ -199,18 +207,17 @@ class DFDCharacterEntry(DFDEntry):
             self.characters.append(new_char)
 
     def add_r10n(self, r, r_corrected=''):
-        if (r not in self.r10n)  and (r not in self.r10n_corrected) :
-            self.r10n.append(r)
-            self.r10n_corrected.append(r_corrected)
-            self.buc.append(r10n_to_buc(r))
-            self.buc_corrected.append(r10n_to_buc(r_corrected) if r_corrected != '' else '')
+        new_r10n = Syllable(r, r_corrected)
+        if (new_r10n.get_buc_corrected() not in self.buc_seen):
+            self.buc_seen[new_r10n.get_buc_corrected()] = True
+            self.r10n.append(new_r10n)
 
     def spit_rime(self):
         result = []
         for i, c in enumerate(self.characters):
             if c.is_corrected_ids() == False:
                 for j, p in enumerate(self.r10n):
-                    result.append((c.get_corrected(), (p if self.r10n_corrected[j] =='' or self.r10n_corrected[j] ==' ' else self.r10n_corrected[j])))
+                    result.append((c.get_corrected(), (p.r10n if p.r10n_corrected =='' or p.r10n_corrected ==' ' else p.r10n_corrected)))
         return result
 
     def spit_html(self):
@@ -219,14 +226,8 @@ class DFDCharacterEntry(DFDEntry):
         for i, c in enumerate(self.characters):
             char += c.render_all()
         tmp = [] 
-        for i, p in enumerate(self.buc):
-            if self.buc_corrected[i] != "":
-                if (self.buc_corrected[i] == ' '):
-                    tmp.append("<s>%s</s>" % p)
-                else:
-                    tmp.append("<s>%s</s> %s" % (p,self.buc_corrected[i]))
-            else:
-                tmp.append(p)
+        for i, p in enumerate(self.r10n):
+            tmp.append(str(p))
         buc = ", ".join(tmp)
         return (char, buc)
     

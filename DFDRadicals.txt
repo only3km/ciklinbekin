@@ -1,0 +1,231 @@
++Stroke=1
+一	ik4		一橫	sioh8-huang5
+丨	gung2		一直	sioh8-dik8
+丶	zy2		一涿	sioh8-duk4
+丿	piek4		一撇	sioh8-piek4
+乙	ik4
+亅	kuok4		一勾	sioh8-gau1
++Stroke=2
+二	ni7
+亠	teu5
+人,亻	ing5		徛儂人	kie5-noeng5-ing5
+儿	ing5
+入	ik8
+八	bek4
+冂	hing1
+冖	mik8		禿寶蓋	tuk8-bo2-gai3
+冫	bing1		兩點水	lang7-deng2-zui2
+几	gi2
+凵	kang2
+刀,刂	do1		側刀	zek4-do1
+力	lik8
+勹	bau1
+匕	bi2
+匚	huong1
+匸	hi2
+十	sek8
+卜	buk4
+卩,㔾	ziek4		硬耳	ngeng7-ngi7
+厂	hang3
+厶	sy1
+又	iu7
++Stroke=3
+口	keu2
+囗	ui5
+土	tu2		挑土爿	tieu1-tu2-beng5
+士	sy7
+夊	~~zyng1,soi1~~
+夂	~~soi1,zyng1~~
+夕	sik8
+大	dai7
+女	ny2
+子	zy2
+宀	mieng5		覆寶蓋	puk4-bo2-gai3
+寸	cong3
+小	sieu2
+尢,𡯂,尤	uong1
+尸	si1
+屮	tiek4		半草	buang3-co2
+山	sang1
+川,巛,巜	~~ciong1,cuong1~~
+工	gung1
+己	gi2
+巾	gyng1
+干	gang1
+幺	ieu1
+广	ieng2
+廴	ing2
+廾	gyng2
+弋	ik8
+弓	gyng1
+彐,互	gie3
+彡	sang1
+彳	tik4		雙徛儂	soeng1-kie5-noeng5
++Stroke=4
+心,忄,㣺	sing1		穿心爿	~~ciong1,cuong1~~-sing1-beng5
+戈	kuo1
+戶	hu7
+手,扌	ciu2		抽指手	tiu1-zai2-ciu2
+支	zie1
+攴,攵	pok4
+文	ung5
+斗	deu2
+斤	gyng1
+方	huong1
+旡,无	u5
+日	nik8
+曰	uak8
+月	nguok8
+木	muk8
+欠	kieng3
+止	zi2
+歹,歺	dai2
+殳	sy5
+毋	u5
+比	bi2
+毛	mo5
+氏	si7
+气	ki3
+水,氵,氺	zui2		三點水	sang1-deng2-zui2
+火,灬	huo2
+爪,爫	zau2
+父	hu7
+爻	ngau5
+爿	beng5
+片	pieng3
+牙	nga5
+牛,牜	ngiu5		抽牛爿	tiu1-ngu5-beng5
+犬,犭	keng2		反犬	beng2-leng2-keng2
++Stroke=5
+玄	hieng5
+玉,⺩	ngyk8		翦玉爿	zeng2-ngyk8-beng5
+瓜	gua1
+瓦	ngua2
+甘	gang1
+生	seng1
+用	yng7
+田	dieng5
+疋	pik4
+疒	cong5		病殼	bang7-koek4
+癶	buak4
+白	bek8
+皮	pi5
+皿	ming2
+目,罒	muk8
+矛	mau5
+矢	ci2
+石	sik8
+⺬,示	si7		禮爿	le2-beng5
+禸	niu2
+禾	huo5
+穴	hiek8
+立	lik8
++Stroke=6
+竹,⺮	dyk4
+米	mi2
+糸	si1		牽絲爿	keng1-si1-beng5
+缶	peu2
+网,罒,㓁	uong2
+羊	iong5
+羽	y2
+老	lo2
+而	i5
+耒	loi7
+耳	ngi2
+聿	yk8
+肉,⺼	nyk8
+臣	sing5
+自	zy7
+至	zi3
+臼	kiu7
+舌	siek8
+舛	cuang2
+舟	ziu1
+艮	gong3
+色	sek4
+艸,艹	co2		草頭	co2-tau5
+虍	hu2
+虫	tyng5		虫爿	toeng5-beng5
+血	hiek4
+行	heng5
+衣	i1
+襾,西	se1
++Stroke=7
+見	gieng3
+角	goek4
+言	ngiong5
+谷	guk4
+豆	deu7
+豕	ci2
+豸	zai7
+貝	buoi3
+赤	cik4
+走	zeu2
+足	zyk4
+身	sing1
+車	gy1
+辛	sing1
+辰	sing5
+辵,辶	ciok4		坐?馬座	zo7-ma2-zo7
+邑,阝	ik4		猴耳	gau5-ngi7
+酉	iu2
+釆	bieng7
+里	li2
++Stroke=8
+金	ging1
+長,镸	diong5
+門	muong5
+阜,阝	peu7		猴耳爿	gau5-ngi7-beng5
+隶	dai7
+隹	cui1
+雨	y2
+青	cing1
+非	hi1
++Stroke=9
+面	mieng7
+革	gek4
+韋	ui5
+韭	giu2
+音	ing1
+頁	hiek8
+風	hung1
+飛	hi1
+食	sik8
+首	siu2
+香	hiong1
++Stroke=10
+馬	ma2
+骨	gok4
+高	go1
+髟	bieu1
+鬥	deu3
+鬯	tiong3
+隔	gek4
+鬼	gui2
++Stroke=11
+魚	ngy5
+鳥	neu2
+鹵	lu2
+鹿	lyk8
+麥	mek8
+麻	ma5
++Stroke=12
+黃	uong5
+黍	sy2
+黑	hek4
+黹	zi2
++Stroke=13
+黽	ming2
+鼎	ting2
+鼓	gu2
+鼠	cy2
++Stroke=14
+鼻	bik8
+齊	ze5
++Stroke=15
+齒	ci2
++Stroke=16
+龍	lyng5
+龜	gui1
++Stroke=17
+龠	ioh8
