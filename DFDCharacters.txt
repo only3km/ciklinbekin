@@ -1,12 +1,15 @@
++Page=1748
 +Stroke=1
 一	ik4,sioh8
 七	cik4
 丁	ding1
++Add=2
 丈	diong7,dong7,diong5,diong2
 下	ha7
 三,〣	sang1,sang3
 上	siong7,siong2
 万	uang7
++Add=3
 不	buk4
 丐	gai3
 冇	pang3
@@ -16,24 +19,32 @@
 𠕆	deng7
 丘	kiu1
 丕	pi2
++Column
 世	sie3
++Add=5
 丢	diu1,liu1
 両	liong2
 丞	sing5
 𠩄	su2
++Add=7
 並	bing3
 +Stroke=2
 丨	gung2
++Add=2
 丫	a1
 个	go3
++Add=3
 中	dyng1,dyng3,dong1
 丰	hung1
++Add=4
 丱	guang3
++Add=6
 串	~~ciong3,cuong3~~
 +Stroke=3
 丶	zy2
 丸	uong5
 丹	dang1
++Column
 主	zy2,~~zio2,zuo2~~
 丼	pang1,pong2
 乓	pong1
@@ -42,15 +53,21 @@
 乃	nai2
 乂	ngie7
 〤	si3,sy3
++Add=2
 久	giu2
 乇	noh4
 之	zi1
++Add=4
 乍	za3,za7
 乎	hu5
 乏	huak8
++Add=5
 乒	ping1
++Add=7
 乖	guai1
++Add=9
 乘	sing5,sing7
++Page
 +Stroke=5
 乙	ik4
 九	giu2,gau2
@@ -74,6 +91,7 @@
 互	hu7
 五	ngu2,ngu7
 云	ung5
++Column
 亙	geng2
 亘	geng2
 况	huong3
@@ -97,6 +115,7 @@
 亹	muong5,muoi2
 +Stroke=9
 人,亻	ing5
++Column
 仈	bek4
 仅	bu7
 仄	zah4
@@ -118,7 +137,8 @@
 仔	giang2,zy2
 付	hu3
 以	i2
-令	ling7,ling5,liang7
+令	ling7,ling5,liang7	% 字形差
++Page
 仡	ngik4
 仕	sy7
 仙	sieng1
@@ -142,6 +162,7 @@
 伓	ng
 伋	ngik4
 仰	ngiong2
++Column
 仵	ngu2
 伍,〥	ngu2,ngu7
 伈	sing2
@@ -165,6 +186,7 @@
 何	ho5,ho7
 佛	huk8
 佚	ik8
++Column
 来	lai5,li5
 伶	ling5
 佞	ning7
@@ -187,6 +209,7 @@
 佩	buoi7
 侜	ziu1
 侘	ca3
++Page
 佽	cy3,ci3
 侈	cie2
 侄	dik8
@@ -205,11 +228,12 @@
 例	lie7
 佬	lieu3,lau7
 侔	meu5
-価	se7
+{⿰⺅西,価}	se7
 侍	si7
 侁	sing1
 使	sy2,sy3,sai2,sai3
 佻	tieu1
++Column
 侏	ty1,~~zio1,zuo1~~
 侗	tung1
 便	bieng7,bieng5
@@ -233,6 +257,7 @@
 俛	hu2
 俐	li7
 俚	li2,la5
++Column
 侶	ly2
 㑚	na7
 俄	ngo5
@@ -255,6 +280,7 @@
 倅	zoh4
 倩	ceng3,ciang3
 倡	ciong1,ciong3
++Page
 倉	cong1
 倬	dok4
 倒	do2
@@ -277,6 +303,7 @@
 倪	nge5
 倐,倏	syk4
 俶	syk4
++Column
 値	sik8,dik8,dek8
 修	siu1
 䘮	song1,song3
@@ -299,6 +326,7 @@
 偶	ngeu2
 偪	pek4
 偏	pieng1
++Column
 偲	sy1
 偷	teu1,tau1
 偉	ui2
@@ -321,6 +349,7 @@
 催	coi1,cuoi1
 傳	~~diong5,duong5~~,~~diong7,duong7~~
 僅	gyng7
++Page
 傾	king2,king5
 僂	leu5,ly2
 僇	lyk8
@@ -343,6 +372,7 @@
 僮	dung5,doeng5
 僑	gieu5
 僱	gu3
++Column
 僩	hang2
 僖	hi1
 僥	hieu1,ngieu5
@@ -366,6 +396,7 @@
 儀	ngi5
 僻	piah4,pik4,piek4
 儃	sieng5
++Column
 儐	bing3
 儕	ze1
 儘	zing7
@@ -388,6 +419,7 @@
 {⿲亻革隹}	no5
 儼	ngieng5
 儻	tong2
++Page
 +Stroke=10
 儿	ing5
 𠃔	yng2
@@ -410,6 +442,7 @@
 兜	dau1,deu1
 𫥢	dau1
 兗	ieng2
++Column
 兙	sek8
 党	dong2
 {⿱⿻𦥑白几}	dau1
@@ -432,6 +465,7 @@
 典	dieng2,deng2
 具	gy7
 其	gi5
++Column
 兼	gieng1
 𠔠	lo5
 冀	gi3
@@ -455,6 +489,7 @@
 冤	uong1
 冪	mik8
 𠖥	tung2
++Page
 +Stroke=15
 冫	bing1
 冬	doeng1
