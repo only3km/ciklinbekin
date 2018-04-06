@@ -3775,6 +3775,7 @@
 湮	ing1
 游	iu5
 渴	kak4
++Column
 湆	kik4
 𣸌	ko5
 湄	mi5
@@ -3798,6 +3799,7 @@
 溱	zeng1
 滋	zy5,zy1
 準	zung2
++Column
 溴	ciu3
 滄	cong1
 滕	deng5
@@ -3821,6 +3823,7 @@
 溥	puo2
 溼	sik4
 溲	seu2,seu1
++Page
 㴻	sy7
 㴬	sia7
 滫	siu1
@@ -3844,6 +3847,7 @@
 滾	gung2
 漢	hang3
 滬	hu7
++Column
 滸	hu2
 滹	hu5
 漪	i1
@@ -3867,6 +3871,7 @@
 㵼	sia3
 漩	~~siong5,suong5~~
 漘	sung5
++Column
 漯	tak4
 漙	tuang5
 潷	bi3
@@ -3890,6 +3895,7 @@
 澇	lo7
 𤀀	o3
 潘	pang1
++Page
 澎	pang5
 潑	puak4,piak4
 澀	sek4
@@ -3913,6 +3919,7 @@
 㵝	io7
 澧	le2
 濓	lieng5
++Column
 㵥	mik8
 濃	nung5,nyng5
 澳	o3,yk4
@@ -3936,6 +3943,7 @@
 濕	sik4
 濡	sy1
 瀌	bieu1
++Column
 瀑	buk8,bo7
 濺	zieng7
 瀆	duk8
@@ -3959,6 +3967,7 @@
 瀸	zieng1
 㵸	ioh8
 瀾	lang5
++Page
 㶑	lieng2
 瀰	mi5
 瀼	siong1
@@ -3981,6 +3990,7 @@
 伙	huo2,huoi2
 灹	bak8
 災,灾	zai1
++Column
 灶	zau3
 灼	ciok4,diok8
 灸	giu2,gu3
@@ -4004,6 +4014,7 @@
 炯	geng2
 炬	gy3,gy7
 炫	hieng5
++Column
 炣	ko1,o1
 炮	pau3
 炧	sia2
@@ -4027,6 +4038,7 @@
 烰	pu5
 焙	buoi7
 焦	zieu1
++Page
 焠	zui7,zi5
 焞	dung1
 焮	hoeng7
@@ -4050,6 +4062,7 @@
 煌	huong5
 煙	ieng1,hong1
 煜	ik8
++Column
 煬	iong5,iong7
 煉	lieng7
 煤	muoi5
@@ -4072,6 +4085,7 @@
 熔	yng5
 㷮	zau1
 熲	geng2
++Column
 熯	hang3
 熱,𤍠	iek8
 𤍕	iu2
@@ -4095,6 +4109,7 @@
 燜	mung7
 燒	sieu1
 燖	sing5
++Page
 燂	tang5
 燙	tong3,tong7
 燭	zyk4,~~zioh4,zuoh4~~
@@ -4118,6 +4133,7 @@
 𤑷	eng3
 爐	lu5
 爛	lang7
++Column
 爝	ziok4,ciok4
 爨	cuang3
 +Stroke=87
@@ -4139,6 +4155,7 @@
 爽	song2
 𤕤	song2
 爾	i2
++Column
 +Stroke=90
 爿	beng5
 戕	zong1
@@ -4161,6 +4178,7 @@
 牟	meu5
 牣	ing7
 牢	lo5
++Page
 牠	to1
 牡	meu2,mu2
 牧	muk8
@@ -4184,6 +4202,7 @@
 犗	gai3
 犒	ko3
 犖	lok4
++Column
 𤛏	cy5
 犢	duk8
 犧	hi1
@@ -4206,6 +4225,7 @@
 狧	liak4
 狩	siu3
 狥	sung1
++Column
 狴	bi7
 狽	buoi7
 狷	giong2
@@ -4229,6 +4249,7 @@
 猷	iu5
 猶	iu5
 猫	mieu5,ma5
++Page
 𤟟	ngang1
 猬	ui7
 猩	sing1
@@ -4252,6 +4273,7 @@
 獨	duk8
 獧	giong2
 獪	guoi3
++Column
 獬	hai7
 獲	hek8,kek8
 獯	hyng1
@@ -4274,6 +4296,7 @@
 玠	gai3
 玦	giok4
 玞	hu1
++Column
 玫	muoi5
 玩	nguang7,uang5
 玻	bo1
@@ -4297,6 +4320,7 @@
 珣	sung1
 球	giu5
 現	hieng7
++Page
 理	li2
 琉	liu5
 琅	liong5
@@ -4320,6 +4344,7 @@
 琫	pung2
 琛	ting1
 琬	uang2
++Column
 瑑	diong7
 瑕	ha5
 瑚	hu5
@@ -4343,6 +4368,7 @@
 瑯	long5
 瑪	ma2
 瑣,𤨏	so2
++Column
 璋	ziong1
 璀	coi1
 璁	cung1
@@ -4366,6 +4392,7 @@
 璲	sui7
 環	kuang5
 璽	se2,soe2
++Page
 璿	~~siong5,suong5~~
 瓊	ging2
 瓈	le5
@@ -4388,6 +4415,7 @@
 瓴	ling5
 瓶	bing5
 甃	zeu3
++Column
 甄	ing1
 甎	~~ziong1,zuong1~~
 甋	dik4
@@ -4410,6 +4438,7 @@
 甦	su1
 +Stroke=101
 用	yng7
++Column
 甪	luk4
 甫	hu2
 甬	yng2
@@ -4432,6 +4461,7 @@
 畎	keng2
 畆	meu2
 畏	ui3
++Page
 毗,毘	pi5,bi5
 畇	yng5
 畚	bung3,buong2
@@ -4455,6 +4485,7 @@
 畷	zuok4
 當	dong1,dong3
 畸	gi5
++Column
 畽	tung2
 畿	gi1
 疆	giong1
@@ -4477,6 +4508,7 @@
 疫	ik8
 疣	iu5
 𤵌	sa1
++Column
 疢	ting3,zing2
 疿	bi3,bui3
 病	bing7,bang7
@@ -4500,6 +4532,7 @@
 𤶀	giu1
 痕	hong5
 痐	huoi5
++Page
 痍	i5
 痒	iong2,siong5
 𤶁	lo7
@@ -4523,6 +4556,7 @@
 痯	guang2
 痳	ling5
 痲	ma5,muai5
++Column
 瘀	u3
 痱	pi2
 痰	tang5
@@ -4546,6 +4580,7 @@
 㾹	ca5
 瘡	cong1
 瘨	dieng1
++Column
 瘞	i3
 㾸	go5
 瘤	liu5
@@ -4569,6 +4604,7 @@
 癘	le7
 癖	pik4
 癒	y2
++Page
 癐	ui1
 癡	ci1
 癤	ziek4
@@ -4589,6 +4625,7 @@
 癸	gui3
 登	deng1
 發	huak4
++Column
 +Stroke=106
 白	bek8,bah8
 百	bek4,bah4
@@ -4611,6 +4648,7 @@
 皰	pau7
 𤿷	kiak8
 皶	za1
++Column
 鼓	gu2
 皺	zeu3,neu3
 皻	za1
@@ -4633,6 +4671,7 @@
 盔	kuoi1
 盜	do7
 盛	sing7,sing5
++Page
 盞	zang2
 盟	meng5
 盡	zing7
@@ -4655,6 +4694,7 @@
 盻	hie7
 盺	hyng1
 看	kang3
++Column
 眉	mi5
 眄	mieng2
 眇	mieu2
@@ -4677,6 +4717,7 @@
 眶	kuong1
 眸	meu5
 眯	mi5,mi7
++Column
 眳	ming5
 眼	ngang2
 眺	tieu3
@@ -4699,6 +4740,7 @@
 督	duk4
 睘	ging5
 睠	guong3,guong5
++Page
 睪	ik8
 䁆	kek4
 睞	lai7
@@ -4722,6 +4764,7 @@
 瞖	ie3
 瞞	muang5
 瞧	zieu5
++Column
 瞪	deng5
 瞳	dung5
 瞰	hang2,kang3
@@ -4744,6 +4787,7 @@
 矛	mau5
 矜	king1
 𥍬	cuang3
++Column
 矟	sok4
 矞	yk8
 +Stroke=111
@@ -4766,6 +4810,7 @@
 砉	hek8
 砆	hu1
 砍	kang2
++Page
 砑	nga7
 砒	pie1
 砂	sa1
@@ -4788,6 +4833,7 @@
 硣	gau3
 硜	keng1
 硫	liu5
++Column
 硭	mong5
 硬	ngeng7
 硯	ngieng3
@@ -4810,6 +4856,7 @@
 碭	dong7
 碟	diek8
 碣	giek4
++Column
 碯	no2
 碧	pik4
 碩	sik8
@@ -4832,6 +4879,7 @@
 磡	kang3
 磬	king3
 磟	loek8
++Page
 磨	mo5,mo7,muai5
 磯	gi1
 磲	gy5
@@ -4853,6 +4901,7 @@
 礱	lung5,loeng5
 礵	song1
 礶	guang3
++Column
 +Stroke=113
 示	si7,gi5
 礼	le2
@@ -4875,6 +4924,7 @@
 祓	buk4
 䄃	iong1
 祛	ky1
++Column
 神	sing5
 祟	sui3
 祠	sy5
@@ -4897,6 +4947,7 @@
 禍	huo7
 禋	ing1
 禊	kie3
++Page
 禖	muoi5
 禔	ti5
 禚	ciok4
@@ -4918,6 +4969,7 @@
 禹	y2
 离	lie5
 禽	king5
++Column
 +Stroke=115
 禾	huo5
 秀	siu3
@@ -4940,6 +4992,7 @@
 秧	ong1
 秫	suk8
 移	ie5
++Column
 秸	ngak4
 䄺	te5
 稌	du5
@@ -4962,6 +5015,7 @@
 稔	sing2
 種	zyng2,zyng3
 稱	cing1,cing3
++Page
 䅢	diu7
 {⿰禾⿱少生}	mieu2
 稬	no7
@@ -4984,6 +5038,7 @@
 穙	boh8
 穜	dung5
 穗	sui3
++Column
 穠	nung5
 穡	sek4
 穟	sui7
@@ -5006,6 +5061,7 @@
 窃	ciek4
 穿	~~ciong1,cuong1~~
 突	dok8
++Column
 窀	dung1
 穽	sing7
 窆	bieng2
@@ -5028,6 +5084,7 @@
 窺	kie1
 窶	ly3
 𨗉	sui7
++Page
 䆱	tang5
 窾	kuang2
 竄	cuang3
@@ -5050,6 +5107,7 @@
 竟	ging3
 竣	zung3
 童	dung5
++Column
 𥩾	pok8
 竢	sy7
 竦	sung2
@@ -5072,6 +5130,7 @@
 笨	buong2
 笮	zah4
 笫	zi2
++Column
 笞	ci1
 第	de7
 笪	dang3
@@ -5094,6 +5153,7 @@
 筒	dung5,doeng5
 䈂	gie1
 筴	giek4
++Page
 筦	guang2
 筋	gyng1
 筏	huak8
@@ -5114,6 +5174,7 @@
 筮	sie7
 筱	sieu2
 筠	yng5
++Column
 𥮕	ong7
 箅	bi7
 箔	boh8
@@ -5138,6 +5199,7 @@
 箸	dy7
 {⿳⺮⿰工口木},築	dyk4
 篆	~~diong7,duong7~~
++Column
 篋	giek4
 篌	heu5
 範	huang7
@@ -5160,6 +5222,7 @@
 篳	bik4
 簈	bing2
 簀	zek4
++Page
 簇	zuk8
 篸	cang1
 簉	co3
@@ -5183,6 +5246,7 @@
 簨	sung2
 𥳳	ti5
 簧	uong5
++Column
 簸	bo3,buai3
 簽	cieng1
 簴	gy2
@@ -5206,6 +5270,7 @@
 籚	lu5
 籙	lyk8
 籠	lyng5,loeng5
++Column
 籜	tok4
 籖	cieng1
 籧	gy5
@@ -5228,6 +5293,7 @@
 粥	zyk4,yk8
 粧	zong1
 粢	zy1
++Page
 粬	kyk4
 粦	ling5
 粞	se1
@@ -5250,6 +5316,7 @@
 糗	ciu3
 糕	go1
 糓	guk4
++Column
 𥻵	si5
 糖	tong5
 糟	zau1
@@ -5272,6 +5339,7 @@
 +Stroke=120
 糸	si1
 系	hie7
++Column
 糾	giu2
 紂	diu7
 紀	gi2
@@ -5294,6 +5362,7 @@
 紐	niu2,niu5
 級	ngik4
 紊	ung7
++Page
 紑	peu5
 紗	sa1
 索	sok4,soh4
@@ -5316,6 +5385,7 @@
 絃	hieng5
 紼	huk4
 紱	huk4
++Column
 絀	kuk4,tuk4,ziok4
 絇	ky1
 累	lui2,lui7
@@ -5338,6 +5408,7 @@
 𥿯	puai3
 絮	sy3
 𢇁	si1
++Column
 絏	siek4
 絛	to1
 統	tung2
@@ -5360,6 +5431,7 @@
 綄	uang2,huang5
 繃	beng1
 緅	zeu1
++Page
 緇	zy1
 綴	zuok4
 緀	ce1
@@ -5383,6 +5455,7 @@
 𦁧	moeng7
 維	mi5
 綿	mieng5
++Column
 緎	mik8
 緋	pi1
 綬	siu7
@@ -5406,6 +5479,7 @@
 緡	ming5
 編	pieng1
 緒	sy7
++Column
 線	siang3
 緗	siong7
 緦	sy1
@@ -5429,6 +5503,7 @@
 縶	zik4
 績	zik4,zah4
 縱	zyng3,zung1
++Page
 總	zung2
 繁	huang5
 繇	iu5,ieu5
@@ -5452,6 +5527,7 @@
 繖	sang2
 繕	sieng7
 繘	yk8
++Column
 纃	ze3
 繭	gieng2
 繳,𦅾	gieu2,ciok4
@@ -5475,6 +5551,7 @@
 纍	lui5
 纆	moek8
 續	syk8
++Column
 纑	lu5
 纔	cai1,cai5
 纖	cieng1
@@ -5498,6 +5575,7 @@
 罌	ing1
 罍	loi5
 罐	guang3
++Page
 +Stroke=122
 网	uong2
 罕,䍐	hang2
@@ -5521,6 +5599,7 @@
 罷	ba7,pi5
 罶	liu2
 罵	ma3
++Column
 罹	lie3
 罾	zeng1
 罿	dung5,cyng1
@@ -5543,6 +5622,7 @@
 羚	ling5
 羞	siu1,sieu2
 羜	ty2
++Column
 羨	sieng7
 羹	geng1
 羲	hi1
@@ -5564,6 +5644,7 @@
 翠	cui3
 翟	dik8
 翡	hui3
++Page
 翣	sak4
 翦	zeng2,zieng2
 翥	zy2
@@ -5587,6 +5668,7 @@
 者	zia2
 耆	gi5
 耄	mo7
++Column
 耇	geu2
 耋	diek8
 +Stroke=126
@@ -5609,6 +5691,7 @@
 耳	ngi2,ngi7
 耶	ia5
 𦕃	dang1
++Column
 耽	dang1
 耿	geng2
 耻	ti2
@@ -5631,6 +5714,7 @@
 聶	niek4
 聾	lung5,loeng5
 聽	ting3,tiang1
++Page
 +Stroke=129
 聿	yk8
 𦘚	ua7
@@ -5653,6 +5737,7 @@
 肫	dung1
 肱	geng1
 肩	gieng1
++Column
 股	gu2
 肸	hik4
 肺	hie3
@@ -5675,6 +5760,7 @@
 胤	ing7
 朎	ging7
 𦙶	gu2
++Column
 胡	hu5
 胠	ky1
 朐	ky1
@@ -5697,6 +5783,7 @@
 胮	mang1
 脈,脉	mek8,mah8
 能	neng5
++Page
 脞	co3
 脰	dau7
 脛	ging7
@@ -5719,6 +5806,7 @@
 腐	hu7,bu7
 腑	hu2
 腋	ik8
++Column
 腍	ing2
 腔	kiong1
 腊	lak8,sik4
@@ -5741,6 +5829,7 @@
 腥	sing1
 腺	siang3
 腵	tuang3
++Column
 腴	y5
 膊	bok4,bong2
 膍	bi5
@@ -5763,6 +5852,7 @@
 膲	zieu1
 膵	zui7
 膰	huang1
++Page
 𦠉	ie3
 膫	lieu5
 膩	ni7
@@ -5786,6 +5876,7 @@
 𦠛	zang1
 臖	hoeng3
 臘	lak8
++Column
 臚	lu5
 臟	zong7
 臠	luang2
@@ -5808,6 +5899,7 @@
 臻	zeng1
 +Stroke=134
 臼	kiu7,ku7
++Column
 臾	y5
 臿	cak4
 舁	y5
@@ -5831,6 +5923,7 @@
 舛	cuang2
 舜	sung3
 舞	u2
++Page
 +Stroke=137
 舟	ziu1
 舠	do1
@@ -5854,6 +5947,7 @@
 艖	ca1
 艙	cong1
 艘	seu1
++Column
 艚	zo5
 艛	leu5
 艟	dung5
@@ -5875,6 +5969,7 @@
 艸	co2,cau2
 芀	deu5
 艽	giu5
++Column
 艻	lek8
 艾	ngai3,ngie3
 芊	cieng1
@@ -5896,6 +5991,7 @@
 芙	hu5
 芬	hung1
 芳	huong1
++Page
 芮	io7
 芡	kieng3
 芩	king5
@@ -5919,6 +6015,7 @@
 苷	gang1
 苟	geu2
 茄	gia1,gio5
++Column
 茀	huk4
 苻	hu5
 范	huang7
@@ -5942,6 +6039,7 @@
 苑	uong2
 荐	zieng3
 茱	~~zio1,zuo1~~
++Column
 茨	zy1,cie3
 茲	zy5
 茦	cek4,cie3
@@ -5965,6 +6063,7 @@
 荍	ngieu5
 荀	sung5
 荑	te5,i5
++Page
 茹	y5
 茸	yng5
 莆	buo5
@@ -5988,6 +6087,7 @@
 莨	long5
 莒	ly2
 莫	mok8,moh8
++Column
 莓	muoi5,muoi2
 莪	ngo5
 莦	sau1
@@ -6011,6 +6111,7 @@
 䓡	di1
 萇	diong5
 萄	do5
++Column
 菊	gyk4
 堇	gyng7,ging2
 萁	gi5
@@ -6034,6 +6135,7 @@
 菼	tang2
 菟	tu3,du5
 菀	uang2
++Page
 萎	ui2
 龿	uong5
 葊	ang1
@@ -6056,6 +6158,7 @@
 葷	hung1
 葉	iek8,nioh8
 葽	ieu1
++Column
 葯	ioh8
 落	lok8,loh8
 萼	ngok4
@@ -6078,6 +6181,7 @@
 {⿱艹髙},蒿	go1
 蒟	gy2
 蓄	hyk4,hoek4
++Column
 𦶎	hua5
 蒻	iok8
 蒯	kuai2
@@ -6100,6 +6204,7 @@
 蓽	bik4
 蔢	bo5
 蔔	buk8
++Page
 蔀	buo7
 蔗	zia3
 蔣	ziong2
@@ -6122,6 +6227,7 @@
 蔓	mang7,muang5
 蔑	miek8
 蔦	neu2
++Column
 蓺	ngie7
 蔚	ui3
 蓬	pung5
@@ -6144,6 +6250,7 @@
 蕃	huang1
 蕓	hung5
 蕡	hung5
++Column
 蕕	iu5
 蕊,蕋	lui2
 蕘	ngieu5
@@ -6166,6 +6273,7 @@
 薈	guoi3
 薤	hai7
 薖	kuo1
++Page
 薐	ling5
 蕾	lui2
 薇	mi5
@@ -6189,6 +6297,7 @@
 藇	sy7
 蕭	sieu1
 薯	sy5
++Column
 薳	uong2,ui2
 慸	di3
 藤	ding5
@@ -6212,6 +6321,7 @@
 藾	lai7
 藺	ling7
 蘆	lu5
++Column
 蘑	mo5
 蘇,蘓	su1
 蘀	tok4
@@ -6234,6 +6344,7 @@
 +Stroke=141
 虍	hu2
 虎	hu2
++Page
 虐	ngiok8
 䖍	gieng5
 虓	hau1
@@ -6256,6 +6367,7 @@
 虹	hung5,kyng7
 虺	ui2,huoi1
 蚍	bi5
++Column
 蚕	zang5,ceng5
 䖣	zau2
 蚤	zo2,zau2,za2
@@ -6278,6 +6390,7 @@
 蛄	gu1
 蚶	hang1
 蚿	hieng5
++Column
 蚺	ieng1
 蚯	kiu1
 蛉	ling5
@@ -6300,6 +6413,7 @@
 蛺	gak4
 蜎	giong1
 蜆	hieng2,lieu5
++Page
 蜊	li5
 蜋	long5
 蛾	ngo5
@@ -6322,6 +6436,7 @@
 蜾	guo2
 蜷	guong5
 蝪	ik8
++Column
 蜹	io7
 蜦	lung5
 蜢	meng2,mang2
@@ -6344,6 +6459,7 @@
 蝗	huong5
 蝘	ieng2,zieng2
 蝤	iu5
++Column
 蝣	iu5
 蝌	kuo1
 蝱	mang5
@@ -6366,6 +6482,7 @@
 螟	ming5
 螈	nguong5
 螄	sy1
++Page
 融,螎	yng5
 螿	ziong1
 螬	zo5
@@ -6388,6 +6505,7 @@
 蟜	gieu2
 蟢	hi1
 蟪	hie7
++Column
 蟠	huang1
 蟨	kuok4
 蟒	mong2
@@ -6410,6 +6528,7 @@
 蠋	syk8
 蟶	teng1
 蠙	bing1
++Column
 蠐	ze1
 蠘	ciek8
 蠖	hu7
@@ -6432,6 +6551,7 @@
 蠹	du3,du2
 蠻	mang5
 𧕴	nang5
++Page
 +Stroke=143
 血	hiek4,hek4
 衁	huong1
@@ -6453,6 +6573,7 @@
 衙	nga5
 衝	cyng1
 衚	hu5
++Column
 衛	uoi7
 衡	heng5
 衞	uoi7
@@ -6475,6 +6596,7 @@
 袍	bo5
 袗	zing2
 袋	dai7,doi7
++Column
 袠	diek8
 袈	gia5
 袞	gung2
@@ -6497,6 +6619,7 @@
 裂	lie3,liek8
 補	buo2,puo2
 裝	zong1
++Page
 裕	y7
 裘	giu3
 裙	gung5
@@ -6520,6 +6643,7 @@
 裶	pi1
 裴	puoi5
 裳	siong5
++Column
 裼	tik4
 褊	bieng2
 褒	bo1
@@ -6543,6 +6667,7 @@
 {⿰衤遷}	cieng3,sieng1
 襁	giong2
 褲	ku3
++Column
 褸	ly3,ly7
 褵	lie5
 𧜛	long2
@@ -6566,6 +6691,7 @@
 {⿰衤領}	liang2
 襮	bok4
 襭	giek4
++Page
 襫	hik4
 𧞪	lak4
 襪	uak8
@@ -6588,6 +6714,7 @@
 覘	zieng1
 視	si7
 覡	kik8
++Column
 覥,𧡝	tieng2
 親	cing1
 覩	du2
@@ -6610,6 +6737,7 @@
 觝	di2
 觚	gu1
 解,觧	gai2,ge2,ge3
++Column
 觥	geng1
 觫	suk4
 觩	giu5
@@ -6632,6 +6760,7 @@
 訓	hung3
 訏	hy1
 訌	hung5
++Page
 訑	i5
 訐	kiok4
 訖	ngik4
@@ -6654,6 +6783,7 @@
 詐	za3
 証	zing3
 詔	zieu3
++Column
 診	zing2
 註	~~zio3,zuo3~~
 詛	zu3
@@ -6676,6 +6806,7 @@
 詮	cuang1
 誅	dy1
 詠	ing7
++Column
 該	gai1
 詬	geu3
 詿	gua3
@@ -6698,6 +6829,7 @@
 誌	zi3
 誚	zieu3,sieu3
 誕	dang3
++Page
 誡	gai3
 誥	go3
 誑	guong7
@@ -6720,6 +6852,7 @@
 請	cing2,ciang2
 𧩙	dang3
 談	dang5
++Column
 諑	dok4
 調	dieu5,deu5,dieu7
 諄	dung1
@@ -6742,6 +6875,7 @@
 諫	gang3
 諧	hai5
 諴	hang5
++Column
 謁	hiok4
 諠	hiong1
 諼	hiong1
@@ -6764,6 +6898,7 @@
 謗	bong3
 謅	zeu1
 𧬸	deng5
++Page
 𧫆	dong2
 謇	giong2
 謌	go1
@@ -6787,6 +6922,7 @@
 謳	eu1
 謹	ging2
 謻	ie5
++Column
 謦	king2
 謾	mang7
 謬	mieu7
@@ -6810,6 +6946,7 @@
 識	sik4,zi3
 譚	tang5
 譫	zieng1
++Column
 警	ging2
 {⿰言献}	hiong3
 譭	hui2
@@ -6833,6 +6970,7 @@
 讒	zang5
 讖	cang3,ceng3
 讌	ieng3
++Page
 讓	iong7,niong7
 讕	lang5
 讙	huang1
@@ -6856,6 +6994,7 @@
 豐	hung1
 豓	ieng7
 豔	ieng7
++Column
 +Stroke=152
 豕	ci2
 豗	hui1
@@ -6877,6 +7016,7 @@
 豹	bau3
 豺	zai5,cai5
 豻	hang2,ngang7
++Column
 貂	dieu1
 豾	pi1
 貅	hiu1
@@ -6899,6 +7039,7 @@
 責	zek4
 貫	guang3
 販	huang3
++Page
 貨	huo3
 貪	tang1
 賁	bi3,buong1,hung5
@@ -6922,6 +7063,7 @@
 𧵤	zai5
 賍	zong1
 資	zy1
++Column
 賃	ing7
 賅	gai1
 賂	lu7
@@ -6944,6 +7086,7 @@
 賞	siong2
 賭	du2
 頼,賴	lai7
++Column
 𧶽	sy3
 賫	ze1
 賾	zek4
@@ -6966,6 +7109,7 @@
 贗	ngang7
 贖	syk8
 贛	gung3
++Page
 +Stroke=155
 赤	cik4,ciah4
 赦	sia3
@@ -6988,6 +7132,7 @@
 越	uok8
 趁,趂	ting3
 趑	cy1
++Column
 䞦	hoek8
 趒	tieu3
 趙	dieu7
@@ -7010,6 +7155,7 @@
 跀	uok8
 跋	bak8,buak8
 跖	zik4
++Column
 跌	diek8,tiek4,buak8
 跎	do5
 距	gy3,gy7
@@ -7032,6 +7178,7 @@
 路	lo7,~~dio7,duo7~~
 跣	sieng2
 跳	tieu3
++Page
 跽	gi7
 踁	ging7
 跼	guoh8
@@ -7054,6 +7201,7 @@
 踧	syk4,dik8
 踢	tik4,~~ciok4,cuok4~~
 踟	ti5
++Column
 踵	zyng2
 蹄	de5
 蹀	diek8
@@ -7076,6 +7224,7 @@
 蹊	hie5
 蹕	bik4
 蹧	zau1
++Column
 蹟	zik4
 蹠	zik4
 蹤	zung1
@@ -7098,6 +7247,7 @@
 蹶	guoi3,kuok4
 蹯	huang1
 蹺	kieu1
++Page
 𨅠	kuoi2
 躅	cyk4
 躇	dy5,ty5
@@ -7119,6 +7269,7 @@
 躪	ling7
 +Stroke=158
 身	sing1
++Column
 躬	gyng1
 躭	dang1
 躱	~~dio2,duo2~~,~~dio7,duo7~~
@@ -7142,6 +7293,7 @@
 軫	zing2
 軼	diek8
 軸	dyk8,coek4
++Column
 軧	di2
 {⿱彐軍}	hui1
 軻	ko1,ko3
@@ -7164,6 +7316,7 @@
 輟	zuok4
 輙	diek8
 輝	hui1
++Page
 輢	i2
 輦	lieng2
 輘	ling5
@@ -7186,6 +7339,7 @@
 轉	~~diong2,duong2~~
 轇	geu1
 轆	lyk8
++Column
 轍	diek8
 轎	gieu7
 轓	huang1
@@ -7208,6 +7362,7 @@
 辦	beng7
 辨	bieng7
 辭	sy5
++Column
 辯	bieng7
 +Stroke=161
 辰	sing5
@@ -7230,6 +7385,7 @@
 迋	uong7
 迮	za3
 迨	dai7
++Page
 迭	diek8
 迪	dik8
 迯	do5
@@ -7252,6 +7408,7 @@
 逋	buo5
 這	zie2
 造	zo7,co7
++Column
 逡	zung1
 逓	de7
 逗	deu7
@@ -7274,6 +7431,7 @@
 週	ziu1
 逮	dai7
 逷	dik8
++Column
 逵	gi5
 逭	guang2
 逸	ik8
@@ -7296,6 +7454,7 @@
 遄	~~siong5,suong5~~
 遂	sui7
 逾	y5
++Page
 遞	de7,dai3
 遝	dak8
 遘	geu3
@@ -7318,6 +7477,7 @@
 遷	cieng1
 遼	lieu5
 遴	ling5,ling7
++Column
 遺	mi5,mi7
 遶	nau2
 遻	nguo7
@@ -7340,6 +7500,7 @@
 邛	kyng1
 邙	mong5
 邕	yng1
++Column
 邦	bang1
 邠	bing1
 邢	hing5
@@ -7362,6 +7523,7 @@
 郝	kok4,sik4
 郤	kiok4
 郎	long5,nong5
++Page
 郕	sing5
 郢	ting2
 部	buo7
@@ -7384,6 +7546,7 @@
 鄲	dang1
 鄭	dang7
 鄰	ling5
++Column
 鄴	ngiek8
 鄹	zeu1
 酆	hung1
@@ -7406,6 +7569,7 @@
 酥	su1
 𨠯	hyng1
 酪	lok8
++Column
 酩	ming2
 酬,酧	siu5
 酴	du5
@@ -7428,6 +7592,7 @@
 醍	ti5
 酢	za3,da3
 醜	ciu2
++Page
 醢	hai2
 醖	ung3
 醬	ziong3
@@ -7449,6 +7614,7 @@
 釁	hyng3
 釃	se2
 釅	ngieng7
++Column
 +Stroke=165
 采	cai2
 釉	iu7
@@ -7470,6 +7636,7 @@
 釧	~~ciong3,cuong3~~
 釱	dai7
 釣	dieu3
++Column
 釭	gong1
 釦	keu3
 釷	tu2
@@ -7492,6 +7659,7 @@
 鉑	boh8
 鉢	buak4
 鉦	zing1
++Page
 鈶	dai5,i5
 鈿	dieng7
 鉀	gak4
@@ -7514,6 +7682,7 @@
 銅	doeng5
 鉻	gok4,lok8
 鉸	gieu2,gau1
++Column
 銧	guong1
 銜	hang5,gang5
 銎	kyng1
@@ -7536,6 +7705,7 @@
 鋧	hieng2
 鋒	hung1
 鋣	ia5
++Column
 銳	io7
 鋰	li2
 鋃	long5
@@ -7558,6 +7728,7 @@
 錠	ding7,diang7
 鋾	do5
 鋼	gong3
++Page
 鋸	gy3
 錤	gi1
 錦	ging2
@@ -7580,6 +7751,7 @@
 鍵	giong7
 鍋	guo1,uo1
 鍭	heu5
++Column
 鍰	huang5
 鍊	lieng7
 鍪	meu5
@@ -7602,6 +7774,7 @@
 鎳	ngiek8
 鎩	sak4
 鎴	sik4
++Column
 鎻,鎖	so2
 鎚	tui5
 鎢	u1
@@ -7624,6 +7797,7 @@
 鏟	sang2,toe1,ciang2
 鏭	sik4
 鏇	~~siong5,suong5~~
++Page
 鏞	yng5
 𨬖	zang7
 鐎	zieu1
@@ -7646,6 +7820,7 @@
 鐳	loi5
 鐲	soh8
 鐵	tiek4
++Column
 鐤	ting2
 䥢	tung7
 鑄	~~zio3,zuo3~~
@@ -7668,6 +7843,7 @@
 鑷	niek4,giek4
 鑿	zok8
 鑽	zong2,zuang2
++Column
 鑼	lo5
 鑾	luang5
 钁	kiok4
@@ -7689,6 +7865,7 @@
 閟	bi3
 閘	zak8
 閙	nau7
++Page
 閛	piang5,biang5,peng1
 閨	gie1
 閣	goh4
@@ -7711,6 +7888,7 @@
 闉	ing1
 𨶑	kik4
 闊,濶	kuak4
++Column
 闋	kuok4
 闌	lang5
 闈	ui5
@@ -7733,6 +7911,7 @@
 闥	tak4
 +Stroke=170
 阜	heu7
++Column
 阡	cieng1
 阭	yng2
 阨	ek4
@@ -7755,6 +7934,7 @@
 降	gong3,hong5
 陋	leu7
 陛	bi7
++Page
 陖	zung3
 陣	ding7
 陡	deu2
@@ -7777,6 +7957,7 @@
 隊	dui7,sui7
 階	gai1,gie1
 隍	huong5
++Column
 隂	ing1
 陽	iong5
 隆	lyng5
@@ -7799,6 +7980,7 @@
 隩	o3
 隨	sui5
 隮	ze1
++Column
 隰	sik4
 隱	ung2
 隳	hui1
@@ -7821,6 +8003,7 @@
 雋	zung3
 雌	ci1
 雉	di7
++Page
 雊	geu3
 雍	yng1
 雒	lok8
@@ -7843,6 +8026,7 @@
 電	dieng7
 零	ling5
 雷	loi5,lai5
++Column
 雹	pau7,poek8
 需	sy1,y5
 䨑	te5
@@ -7865,6 +8049,7 @@
 霪	ing5
 𩄻	muo5
 霧	u7
++Column
 霫	sik8
 露	lu3
 霰	sieng3
@@ -7887,6 +8072,7 @@
 靜	zing7
 靛	deng7
 靝	tieng1
++Page
 +Stroke=175
 非	hi1
 啡	pi1
@@ -7909,6 +8095,7 @@
 鞅	iong3
 鞋	e5
 鞍	ang1
++Column
 鞉	do5
 鞏	gyng2
 鞗	deu5
@@ -7931,6 +8118,7 @@
 鞺	tong1
 韁	giong1
 韆	cieng1
++Column
 +Stroke=178
 韋	ui5
 韌	ing7,nung7
@@ -7952,6 +8140,7 @@
 +Stroke=179
 韭	giu2
 韮	giu2
++Page
 +Stroke=180
 音	ing1
 韵	ung7
@@ -7974,6 +8163,7 @@
 頎	gi5,kong2
 頏	hong5
 頑	nguang5
++Column
 頌	syng7
 {⿰击頁}	dung3
 領	ling2,liang2
@@ -7996,6 +8186,7 @@
 顀	zui1
 顁	ding3
 顆	kuo2
++Column
 題	de5
 𩔗	lui7
 顏	ngang5
@@ -8017,6 +8208,7 @@
 顱	lu5
 顴	guong5
 顳	niek4
++Page
 +Stroke=182
 風	hung1
 颫	hu5
@@ -8038,6 +8230,7 @@
 +Stroke=184
 食	sik8,sy7,siah8
 飢	gi1,gui1
++Column
 飤	sy7
 𩚉	ci3
 飡	cuang1
@@ -8060,6 +8253,7 @@
 餃	gieu2
 餉	hiong3
 養	iong2,iong7
++Column
 餌	ni3
 餔	buo5
 餑	buok8
@@ -8082,6 +8276,7 @@
 餬	hu5
 餴	hung1
 餫	hung5
++Page
 餪	nuang2,nong2
 餿,𩜯	teu1
 餳	sing5,tong5
@@ -8104,6 +8299,7 @@
 饋	gui7
 饐	ie3
 饒	ngieu5,nieu5
++Column
 饊	sang3
 饍	sieng7
 饘	zieng1
@@ -8126,6 +8322,7 @@
 馨	hing1
 +Stroke=187
 馬	ma2
++Column
 馮	bing5,hung5
 馭	ngy7
 馳	di5
@@ -8148,6 +8345,7 @@
 駛	sy2,sai2
 駘	tai1
 駮	bok4
++Page
 駰	ing1
 駭	kai2
 駱	lok8
@@ -8170,6 +8368,7 @@
 騄	lyk8
 騐	ngieng7
 騑	pi1
++Column
 𩦲	zoeng1
 騘	cung1
 騠	de5
@@ -8192,6 +8391,7 @@
 驁	ngo5
 驃	pieu3
 騻	song1
++Column
 驐	dong1
 驕	gieu1
 驍	hieu1
@@ -8214,6 +8414,7 @@
 骭	gang3
 尳	nguah4
 骫	ui2
++Page
 骰	dau5
 骴	zy1
 骷	gu1
@@ -8236,6 +8437,7 @@
 髤	hieu1
 髣	huong2
 髦	mo5
++Column
 髧	tang2
 髭	zy1
 髴	huk4
@@ -8258,6 +8460,7 @@
 鬙	zeng1
 鬚	sy1
 鬟	kuang5
++Column
 鬢	bing3
 鬣	lak8,loek8
 鬤	siong1
@@ -8280,6 +8483,7 @@
 鬵	sing5
 鬷	zung1
 鬻	yk8
++Page
 +Stroke=194
 鬼	gui2
 魂,䰟	hung5
@@ -8302,6 +8506,7 @@
 𩵫	zing2
 魨	ge1
 魪	gai3
++Column
 𩵳	hau3
 魴	huong5
 魯	lu2,loe2
@@ -8324,6 +8529,7 @@
 鮫	gau1
 鮞	i5
 鮪	uoi2
++Column
 鯁	geng2
 鯀	gung2
 鯇	hang2
@@ -8346,6 +8552,7 @@
 鰕	ha5
 鰉	huong5
 鰋	ieng2
++Page
 𩹊	iu5
 鰓	sai1,se2
 𩺀	zik4
@@ -8368,6 +8575,7 @@
 鱗	ling5
 鱔,鱓	sieng7
 鱘	sing5
++Column
 鱏	sing5
 鱡	zek8
 鱣	zieng1
@@ -8390,6 +8598,7 @@
 鳲	si1
 鴉	a1
 鴇	bo2
++Column
 鴃	giok4
 鴈	ngang7
 鴆	ting1
@@ -8412,6 +8621,7 @@
 鵌	du5
 鵙	giok4
 鵑	giong1
++Page
 鵠	guk4
 鵝,鵞	ngo5,ngie5
 鵚	tuk8
@@ -8434,6 +8644,7 @@
 鶚	ngok4
 鶺	zik4
 鶿	zy5
++Column
 鷀	zy5
 鶬	cong1
 鶵	cy1
@@ -8456,6 +8667,7 @@
 鷩	biek4
 鷲	ziu7
 鷦	zieu1
++Column
 鷮	gieu1
 鷴,鷳	hang5
 鷹	ing1
@@ -8479,6 +8691,7 @@
 鹹	hang5,geng5
 鹼	gieng1
 鹽	sieng5
++Page
 +Stroke=198
 鹿	lyk8,loek8
 麂	gi2
@@ -8500,6 +8713,7 @@
 麟	ling5
 麢	ling5
 麤	cu1
++Column
 +Stroke=199
 麥	mek8,mah8
 麩	hu1,puo1
@@ -8521,6 +8735,7 @@
 𪏸	ni7
 黏	nieng5
 黐	lie5,ti1
++Column
 +Stroke=203
 黑	hek4
 黔	kieng5
@@ -8542,6 +8757,7 @@
 黼	hu2
 +Stroke=205
 黽	ming2
++Page
 黾	ming2
 黿	nguong5
 鼂	dieu7
@@ -8562,6 +8778,7 @@
 鼙	bi1
 鼛	go1
 𪔦	dung7
++Column
 +Stroke=208
 鼠	cy2
 䑕	cy2
@@ -8583,6 +8800,7 @@
 +Stroke=210
 齊	ze5,zai1,zy1
 齋	ze1,zai1
++Column
 齎	ze1
 齏	ze1
 +Stroke=211
@@ -8603,18 +8821,21 @@
 齬	ngu5
 齷	ok4
 𪘿	za5
++Page
 齵	ngau5,ngeu5
 齶	ngok4
 䶥	za5
 䶩	ze2
 +Stroke=212
 龍	lyng5,leng5,liek4,liong5
++Column
 龐	mang5,lung5
 龔	gyng1,gyng2
 龕	kang1
 +Stroke=213
 龜	gui1
 𬺞	gui1
++Column
 +Stroke=214
 龠	ioh8
 龡	cuoi1

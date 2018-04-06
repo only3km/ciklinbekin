@@ -1,4 +1,8 @@
 import wx,re
+
+from wx.lib.pdfviewer import pdfViewer, pdfButtonPanel
+import wx.lib.sized_controls as sc
+
 FILE = '../DFDCharacters.txt'
 with open(FILE,"r",encoding="utf8") as f:
     lines = f.readlines()
@@ -98,6 +102,24 @@ def delete_row(lines,row):
         if (lines[row].startswith('+Page') or lines[row].startswith('+Column')):
             del lines[row]
 
+class PDFViewer(sc.SizedFrame):
+    def __init__(self, parent, **kwds):
+        super(PDFViewer, self).__init__(parent, **kwds)
+
+        paneCont = self.GetContentsPane()
+        self.buttonpanel = pdfButtonPanel(paneCont, wx.NewId(),
+                                wx.DefaultPosition, wx.DefaultSize, 0)
+        self.buttonpanel.SetSizerProps(expand=True)
+        self.viewer = pdfViewer(paneCont, wx.NewId(), wx.DefaultPosition,
+                                wx.DefaultSize,
+                                wx.HSCROLL|wx.VSCROLL|wx.SUNKEN_BORDER)
+
+        self.viewer.SetSizerProps(expand=True, proportion=1)
+
+        # introduce buttonpanel and viewer to each other
+        self.buttonpanel.viewer = self.viewer
+        self.viewer.buttonpanel = self.buttonpanel
+
 class HelloFrame(wx.Frame):
     """
     A Frame that says Hello World
@@ -144,6 +166,11 @@ class HelloFrame(wx.Frame):
         gs_centre.Add(self.text_1,2, wx.EXPAND)
         gs_centre.Add(self.text_2,2, wx.EXPAND)
         gs_centre.Add(self.text_3,2, wx.EXPAND)
+
+        self.viewer = PDFViewer(None, size=(500,1000))
+        self.viewer.viewer.LoadFile(r'C:\Users\Radium\Documents\BTSYNC\foochow\文献库\Dictionaries\閩英大辭典.pdf')
+        self.viewer.Show()
+
 
         btn_up = wx.Button(pnl_bottom, label='UP')
         btn_up.Bind(wx.EVT_BUTTON, self.OnUp)
@@ -270,6 +297,10 @@ class HelloFrame(wx.Frame):
         if (current_row_id<0):
             current_row_id = 0
         page_id, col_id = current_page_col(lines,current_row_id)
+        try:
+            self.viewer.viewer.GoPage(27+page_id)
+        except:
+            pass
         self.active_col = col_id
         self.status_text.SetLabel('Current Row= %d, Current Page = %d, Current Col = %d'% (current_row_id,page_id,col_id))
         (text, highlight_start, highlight_end) = display_centre(lines,current_row_id)
