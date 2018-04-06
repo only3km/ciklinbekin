@@ -4579,7 +4579,7 @@
 瘥	ca1,co1
 㾹	ca5
 瘡	cong1
-瘨	dieng1
+瘨	dieng1	% 字形差 http://glyphwiki.org/wiki/zihai-111447
 +Column
 瘞	i3
 㾸	go5
@@ -8758,7 +8758,7 @@
 +Stroke=205
 黽	ming2
 +Page
-黾	ming2
+黾	ming2	% 字形差 http://glyphwiki.org/wiki/u2fa18-t
 黿	nguong5
 鼂	dieu7
 鼃	ua1
