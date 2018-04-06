@@ -8492,7 +8492,7 @@
 魂,䰟	hung5
 魁	kuoi1
 魃	bak8
-魅,{⿺⿱甶儿未}	muoi7,mai2	%字形差 http://glyphwiki.org/wiki/u9b45-itaiji-002
+魅,{⿺⿱甶儿未}	muoi7,mai2	% 字形差 http://glyphwiki.org/wiki/u9b45-itaiji-002
 魄	poek4
 魋	doi5,tui5
 魎	liong2

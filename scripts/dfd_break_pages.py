@@ -180,6 +180,8 @@ class HelloFrame(wx.Frame):
         btn_down.Bind(wx.EVT_BUTTON, self.OnDown)
         btn_down10 = wx.Button(pnl_bottom, label='DOWN 10')
         btn_down10.Bind(wx.EVT_BUTTON, self.OnDown10)
+        btn_goto= wx.Button(pnl_bottom, label='Goto...')
+        btn_goto.Bind(wx.EVT_BUTTON, self.OnGoto)
 
         btn_page_break = wx.Button(pnl_bottom, label='+Page')
         btn_page_break.Bind(wx.EVT_BUTTON, self.OnBreakPage)
@@ -195,6 +197,7 @@ class HelloFrame(wx.Frame):
         gs_bottom.Add((10,20),0,wx.ALIGN_LEFT)
         gs_bottom.Add(btn_up10,0,wx.ALIGN_LEFT)
         gs_bottom.Add(btn_down10,0,wx.ALIGN_LEFT)
+        gs_bottom.Add(btn_goto,0,wx.ALIGN_LEFT)
         gs_bottom.Add((10,20),0,wx.ALIGN_LEFT)
 
         gs_bottom.Add(btn_page_break,0,wx.ALIGN_LEFT)
@@ -255,6 +258,16 @@ class HelloFrame(wx.Frame):
     def OnUp10(self,event):
         global current_row_id
         current_row_id -=10
+        self._refresh()
+        event.Skip()
+
+    def OnGoto(self,event):
+        dlg = wx.TextEntryDialog(self, "Enter row number", value='0')
+        dlg.ShowModal()
+        result = int(dlg.GetValue())
+        dlg.Destroy()
+        global current_row_id
+        current_row_id = result
         self._refresh()
         event.Skip()
 
