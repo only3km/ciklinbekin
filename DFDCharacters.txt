@@ -413,7 +413,7 @@
 償	siong5
 儲	zy1
 儳	zang5
-𠏹	huk8
+{⿰亻⿱西國,𠏹}	huk8
 儷	le7
 儸	lo5
 {⿲亻革隹}	no5
@@ -438,14 +438,14 @@
 兎	tu3
 兒	i5
 兕	sy7
-兔	tu3
+兔	tu3	% 兔 Hector原註釋 "comp兔"
 兜	dau1,deu1
 𫥢	dau1
 兗	ieng2
 +Column
 兙	sek8
 党	dong2
-{⿱⿻𦥑白几}	dau1
+{⿱⿻𦥑白几}	dau1	% #http://glyphwiki.org/wiki/extd-00581
 兝	hung1
 兡	bek4
 兢	kek4
@@ -497,7 +497,7 @@
 冲	cyng1
 决	giok4
 冶	ia2
-冷	leng2
+冷	leng2	% 字形差
 冽	liek8
 凈	zing7
 准	zung2
@@ -668,7 +668,7 @@
 勷	siong1
 +Stroke=20
 勹	bau1
-勺	ciok4
+勺	ciok4	% comp勺
 勽	bo7
 勾	geu1,gau1,geu2
 勿	uk8
@@ -714,7 +714,7 @@
 卅	sak4
 升	sing1,zing1
 半	buang3
-卉	ui2
+卉	ui2	% 字形差
 卋	sie3
 卍	uang7
 卑	bi1
@@ -732,7 +732,7 @@
 卡	zak8
 占	zieng1,zieng3
 卣	iu2
-卦	gua3
+卦	gua3	% 字形差
 +Stroke=26
 卩,㔾	ziek4
 卬	ngong5
@@ -740,7 +740,7 @@
 印	ing3
 危	ngui5
 即	zik4
-卺	zing2
+{⿱氶㔾,卺}	zing2
 卷	guong3,guong2
 却	kiok4
 卵	luang2
@@ -829,7 +829,7 @@
 合	hak8,gak4
 向	hiong3
 吁	hy1
-吆	ieu1
+吆	ieu1	% comp吆
 各	gok4
 吉	gik4
 吏	li7
@@ -923,7 +923,7 @@
 咽	ieng1,iek4,ieng2
 咯	lok8
 咡	ni3
-咢	ngok4
+咢	ngok4	% comp咢
 品	ping2
 哂	sing2
 哇	ua1
@@ -946,7 +946,7 @@
 哭	kuk4
 哩	li2
 哢	liong7
-哶	meh4
+{⿰口⿱廿千,哶}	meh4
 唁	ngieng7
 哦	ngo5
 𠲿	seu3
@@ -982,7 +982,7 @@
 喞	zik4
 啫	zia2
 啾	ciu1
-喘	cuang2,~~ciong2,cuong2~~
+喘	cuang2,~~ciong2,cuong2~~	% 漳泉亂?
 單	dang1,sieng7
 +Page
 喆	diek4
@@ -1023,7 +1023,7 @@
 㗖	dang7
 嗌	ik4
 嗃	go2
-嗄	hak4,ha7
+{⿰口⿳𦣻一夂,嗄}	hak4,ha7
 嗑	hak8
 喙	huoi7
 嗛	kieng1,gang5
@@ -1076,7 +1076,7 @@
 噐	ki3
 嘹	lieu5
 嘿	mek8
-嚀	ning5
+{⿰口寕,嚀}	ning5
 㗴	ngang5
 嘶	sai1
 嘯	sieu3
@@ -1155,7 +1155,7 @@
 固	gu3
 囷	kung2,kyng5
 囹	ling5
-图	du5
+{⿴囗⿱夂小,图}	du5
 囿	iu7
 圄	ngy2
 圃	puo2
@@ -1163,7 +1163,7 @@
 圈	kuong1
 圉	ngy2
 圍	ui5
-圗	du5
+{⿴囗⿳厶十回,圗}	du5
 園	huong5
 圓	uong5
 圖	du5
@@ -1178,7 +1178,7 @@
 +Column
 圯	gi2,i5
 圭	gie1
-圬	u1
+{⿰土亐,圬}	u1	% 字形差
 坂	bang2
 址	zi2
 坐	zo7,soi7
@@ -1218,7 +1218,7 @@
 埆	gok4
 埏	iong5
 埌	long7
-埓	~~liok4,luok4~~
+{⿰土⿳爫丿寸,埓}	~~liok4,luok4~~	% 埒
 埋	mai5,muai5
 城	sing5,siang5
 埀	sui5
@@ -1234,7 +1234,7 @@
 基	gi1
 堅	gieng1
 埯	ieng2
-埳	kang2
+{⿰土⿱刀臼,埳}	kang2
 堇	kyng5,gyng7
 域	mik8
 埿	ne5
@@ -1335,9 +1335,9 @@
 壻	se3,sai3
 壽	siu7
 +Stroke=34
-夊	~~zyng1,soi1~~
+夊	~~zyng1,soi1~~	% 綏 ↓
 +Stroke=35
-夂	~~soi1,zyng1~~
+夂	~~soi1,zyng1~~	% 終 ↑
 夏	ha1
 +Stroke=36
 夕	sik8
@@ -1360,7 +1360,7 @@
 央	iong1
 失	sik4
 夷	i5
-夸	kua1
+{⿱大亐,夸}	kua1
 夾	gak4,gek8
 奇	gi5,kia1,kie1
 奉	hung7
@@ -1477,7 +1477,7 @@
 婬	ing5
 婪	lang5
 婁	leu5
-姘	peng1
+{⿰女幷,姘}	peng1
 婉	uang2
 婐	uo2
 媎	zia2
@@ -1627,7 +1627,7 @@
 寐	mi7
 寓	ngy7
 寔	sik8
-寘,{⿱宀⿳十且八}	di3	% ?
+寘,{⿱宀眞}	di3	% 字形差
 {⿱宀⿻⿻⿴囗三&CDP-88CD;灬}	sia2
 +Page
 寨	zai7
@@ -1658,8 +1658,8 @@
 將	ziong1,ziong3
 專	~~ziong1,zuong1~~
 尉	ui3
-尊	zong1
-𡬶,尋	sing5
+尊	zong1	% 字形差
+𡬶,尋	sing5	% Hector原註釋 "?"
 導	do7
 對	doi3
 +Stroke=42
@@ -1677,7 +1677,7 @@
 尩	uong1
 就	ziu7
 +Column
-尲	gieng1
+{⿺兀兼,尲}	gieng1
 尶	gang1
 +Stroke=44
 尸	si1
@@ -1747,7 +1747,7 @@
 峴	hieng2
 峰,峯	hung1
 +Column
-峱	nau5
+{⿰⺨⿱刄一山,峱}	nau5
 峩	ngo5
 崩	beng1,bung1
 崢	zeng1
@@ -1766,18 +1766,18 @@
 崧	sung1
 崽	zai2
 崱	zek4
-嵌	gang5
+{⿱山⿰廿欠,嵌}	gang5
 嵇	kie1
 嵐	lang5
 嵋	mi5
 +Page
-嵒	ngang5
+嵒	ngang5	% Hector原註釋 "!喦嵒"
 嵎	ngy5
 嵯	co1
 嵬	ngui5
 嵩	sung1
 嶇	ky1
-嵼	sang2
+{⿰山產,嵼}	sang2
 嶞	do7
 嶠	giu5
 嶔	king1
@@ -1952,7 +1952,7 @@
 廳	tiang1,ting1
 +Stroke=54
 廴	ing2
-廷,𢌜	ding5
+廷,{⿺廴丰,𢌜}	ding5
 延	iong5
 廸	dik8
 廹	pek4,poek4
@@ -1985,15 +1985,15 @@
 弨	zieu1
 弤	di2
 +Page
-弦	hieng5
+{⿰弓𤣥,弦}	hieng5
 弧	hu5
 弩	nu2
 弢	to1
 弣	u2
-弱	iok8,iok4,io2
+弱	iok8,iok4,io2	% 字形差
 弭	ni3
 弰	sau1
-㢲	song3
+㢲	song3	% ⿱弜共=巽
 弹	dang5
 張	diong1
 強	giong5,giong2
@@ -2011,7 +2011,7 @@
 +Column
 彖	tuang3
 彗	suoi3
-彘	di7
+{⿱彐⿲匕矢匕,彘}	di7
 彙	lui7
 彝	i5
 +Stroke=59
@@ -2159,7 +2159,7 @@
 恩	ong1
 恓	se1
 恃	si7
-息	sik4
+息	~~sik4,sik7~~	% Hector原註釋: "error sik7"
 恕	sy3
 恤	suk4
 恂	sung2
@@ -2248,7 +2248,7 @@
 +Column
 想	siong2
 愢	sy1
-愈	y2
+愈,{⿱兪心}	y2	% 字形差
 愉	y5
 惲	ung2
 㥬	bong5
@@ -2257,7 +2257,7 @@
 愴	cong2
 慉	hyk4
 慁,㥵	hung7
-慌	huong1
+{⿰忄⿱艹㠩,慌}	huong1
 愮	ieu5,ieu7
 愷	kai2
 愾	kai3
@@ -2273,11 +2273,11 @@
 慆	to1
 慇	yng1
 慂	yng2
-憑	bing5
+{⿱溤心,憑}	bing5
 慙,慚	zang5
 慞	ziong1
 慘	cang2
-慼	cik4
+{⿵戚心,慼}	cik4
 慟	dung7
 慣	guang3
 慧	hie7
@@ -2529,8 +2529,8 @@
 挾	hiek8,gek8,geh8
 捓	ia5
 捆	kung2
-捋	~~liok4,luok4~~
-揑,捏	niek8
+{⿰扌⿳爫丿寸,捋}	~~liok4,luok4~~
+揑,捏	niek8	% 正文P1298
 挪	no5
 +Column
 挼	no5,nui5
@@ -2591,6 +2591,7 @@
 捥	uang2
 揞	ang2
 揸	za1
+捷	ziek8	% 原DFD.tsv中此行被註釋掉，原書P1784
 插	cak4
 揪	ciu1,ciu5
 揣	coi2
@@ -2607,13 +2608,14 @@
 揩	kai1
 揆	kui2
 揦	lak8
-描	mieu5
+{⿰扌苖,描}	mieu5
 揇	nang2
+揑	niek8	% 原 DFD.tsv 中此行被註釋掉
 掾	ngieng3
 揾	ung3
 握	uk4
 掽	pong7
-𢯱	seu1
+{⿰扌⿳穴人夂,𢯱}	seu1
 揳	siek4
 揗	sung5
 揥	te3
@@ -2653,7 +2655,7 @@
 +Column
 搥	tui5
 搲	ua1
-摒	bing3
+{⿰扌⿸尸幵,摒}	bing3
 𢳛	za1,zua1
 摘	zek4,diah4
 摯	zi3
@@ -2782,7 +2784,7 @@
 攸	iu5
 政	zing3
 放	huong3,bung3,huang3
-𢼌	bau1
+{⿰包攵,𢼌}	bau1
 故	gu3,gu2
 效	hau7
 敗	bai7
@@ -2834,7 +2836,7 @@
 斜	sia5
 斝	ga2
 斟	zing1
-斠	gau3
+斠	gau3	% x gauk4
 斡	guang2
 𣂆	pong1
 +Page
@@ -2997,7 +2999,7 @@
 更	geng1,gang1,geng3
 曷	hak8
 書	zy1
-曾	zeng1
+曾	zeng1	% 字形差
 曹,曺	zo5
 +Column
 最	zoi3
@@ -3040,7 +3042,7 @@
 杕	de7
 杜	du7
 杆	gang1
-杞	gi2
+杞	gi2	% Hector原註釋: "#v𣏌"
 杠	gong1
 杏	heng7
 杝	cie2
@@ -3206,7 +3208,7 @@
 棧	zang7
 +Column
 棹	zau7,doh4
-棦	zeng1
+{⿰木爭,棦}	zeng1
 棷	zeu1
 椒	zieu1
 棗	zo2
@@ -3293,7 +3295,7 @@
 槓	gong3
 槀	go2
 槁	go2
-𣖻	hai2
+{⿰木⿱𠂉𠱄,𣖻}	hai2
 槐	huai5,hua5
 榮	ing5
 榷	kok4
@@ -3303,7 +3305,7 @@
 榠	ming5
 榧	pi2
 槊	sok4
-𣗳,𡬾	sy7
+𣗳,{⿱木⿰豆寸,𡬾}	sy7
 榭	sia7
 榱	soi1
 榻	tak4
@@ -3348,7 +3350,7 @@
 機	gi1
 橋	gieu5,gio5
 +Column
-槹	go1
+槹	go1	% 有遇到過｢橰｣
 橫	huang5,heng3
 樺	hua5
 橛	kuok4,kuok8
@@ -3551,7 +3553,7 @@
 求	giu5
 汜	huang3
 汀	ting1
-汊	ca1
+{⿰氵义,汊}	ca1
 汋	ciok4
 池	die5,do5
 汗	gang7
@@ -3613,7 +3615,7 @@
 泔	gang1,ang2,hang7
 沽	gu1
 泂	hing3
-泫	hieng5
+{⿰氵𤣥,泫}	hieng5
 法	huak4
 泛	huang3
 況	huong3
@@ -3621,6 +3623,7 @@
 泆	ik8
 泱	iong1
 沿	iong5
+{⿰氵⿱丷口}	iong5	% 字形差 原 DFD.tsv 中此行被註釋掉
 油	iu5
 泣	kik4
 泐	lek8
@@ -3684,8 +3687,8 @@
 涇	ging1
 涓	giong1
 海	hai2
-浩	ho7
-涎	iong5
+浩	ho7	% comp浩
+涎	iong5	% ?調
 涔	kieng5
 浪	long7,long5
 涖	li7
@@ -3797,7 +3800,7 @@
 滂	bong5,bong2,po1
 滓	zai2,dai2
 溱	zeng1
-滋	zy5,zy1
+滋	zy5,zy1	% 字形差
 準	zung2
 +Column
 溴	ciu3
@@ -3863,7 +3866,7 @@
 漫	mang7,mang5
 漭	mong7
 漠	mok8
-滿	muang2,mang2
+滿	muang2,mang2	% 字形差
 漁	ngy5
 漂	pieu3,pieu1
 潄	seu3
@@ -3901,7 +3904,7 @@
 澀	sek4
 澁	sek4
 澘	sang1
-潯	sing5
+{⿰氵𡬶,潯}	sing5
 澌	sy1
 潭	tang5
 澈	tiek4
@@ -3960,7 +3963,7 @@
 瀠	ing5
 瀛	ing5
 瀨	lai7
-𤃉	lik8
+{⿰氵𢟍,𤃉}	lik8
 瀘	lu5
 瀧	lung5
 瀟	sieu1
@@ -4002,7 +4005,7 @@
 炎	ieng5,dang5
 炕	kong3
 炉	lu5
-炦	bak8
+{⿰火叐,炦}	bak8
 炰	bau5
 炳	bing2
 炸	za3
@@ -4094,7 +4097,7 @@
 熠	sik8,ik8
 熟	syk8
 燋	zieu1
-𤎷,熾	cie3
+{⿱戠火,𤎷},熾	cie3
 燈	deng1,ding1,dieng1
 燉	dung1
 熻	hik4
@@ -4203,7 +4206,7 @@
 犒	ko3
 犖	lok4
 +Column
-𤛏	cy5
+{⿰牛⿸虍旦,𤛏}	cy5
 犢	duk8
 犧	hi1
 犨	siu5
@@ -4285,7 +4288,7 @@
 獼	mi5
 玁	hieng2
 +Stroke=95
-玄	hieng5
+玄	hieng5	% 𤣥
 率	sok4,luk8
 +Stroke=96
 玉	ngyk8,nguoh8
@@ -4355,7 +4358,7 @@
 瑞	sui7
 瑄	song1
 瑀	y2
-瑜	y5
+瑜	y5	% 字形差
 瑋	ui2
 瑗	uong7
 瑨	zing3
@@ -4394,7 +4397,7 @@
 璽	se2,soe2
 +Page
 璿	~~siong5,suong5~~
-瓊	ging2
+{⿰⺩⿳⿱⺤罒日夊,瓊}	ging2	% http://glyphwiki.org/wiki/ce-4134
 瓈	le5
 瓏	lung5,loeng5
 瓐	lu5
@@ -4420,7 +4423,7 @@
 甎	~~ziong1,zuong1~~
 甋	dik4
 甌	eu1
-甑	zeng3,song5
+甑	zeng3,song5	% 字形差
 甒	u2
 甕	oeng3
 甓	bik8
@@ -4490,7 +4493,7 @@
 畿	gi1
 疆	giong1
 疇	tiu5
-疊,疉	diek8,tak8
+疊,{⿳畾冖互,疉}	diek8,tak8
 +Stroke=103
 疋	pik4
 疏	su1,soe1,soe3
@@ -4609,10 +4612,10 @@
 癡	ci1
 癤	ziek4
 癥	ding1
-癢,𤻰	iong2,siong7
+癢,{⿸疒⿳艹天良,𤻰}	iong2,siong7
 癨	huok4
 癩	lai7
-𤻤,癧	lek8,lik8
+{⿸疒⿱秝心,𤻤},癧	lek8,lik8
 癭	ing1
 癬	sieng2,ciang2
 癮	yng2,ngieng3
@@ -4651,7 +4654,7 @@
 +Column
 鼓	gu2
 皺	zeu3,neu3
-皻	za1
+{⿰⿸虍旦皮,皻}	za1
 皽	dieng2,dang2
 +Stroke=108
 皿	ming2
@@ -4678,15 +4681,15 @@
 監	gang3,gang1
 盤	buang5,giek4
 盦	ang1
-䀇	gu2
+{⿱⿰古⿱𠂉正皿,䀇}	gu2
 盥	kuang2
 盧	lu5
 盪	dong7,tong3
-盬	gu2
+{⿱⿰臣⿱𠂉占皿,盬}	gu2
 盭	le7
 +Stroke=109
 目	muk8,moek8,mek8
-直	dik8
+直	dik8	% 字形差
 盱	hy1
 盲	mang5
 眈	dang1
@@ -4696,7 +4699,7 @@
 看	kang3
 +Column
 眉	mi5
-眄	mieng2
+{⿰目丐,眄}	mieng2 
 眇	mieu2
 眊	mo7
 眅	pang1
@@ -4712,7 +4715,7 @@
 眠	mieng5,ming5
 眎	si7
 眾	zyng3
-眷	guong3
+眷	guong3	% 字形差
 眴	hiong3
 眶	kuong1
 眸	meu5
@@ -4730,7 +4733,7 @@
 睍	hieng2
 𥇇	so1
 睆	uang2
-睥,睤	bi7,pe2,be2
+睥,睤,{⿰目⿱田廾}	bi7,pe2,be2	% 原DFD.tsv中有三行被註釋掉
 睜	zeng1
 𥈤	ziek8
 睛	zing1
@@ -4755,7 +4758,7 @@
 睿	io7
 睽	kie1
 瞀	meu7
-𥈊	siak8
+{⿰目𦥛,𥈊}	siak8
 瞋	zing1
 瞎	hak4
 瞑	ming5
