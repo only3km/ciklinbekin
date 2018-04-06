@@ -1,3 +1,4 @@
++Page=1742
 +Stroke=1
 一	ik4		一橫	sioh8-huang5
 丨	gung2		一直	sioh8-dik8
@@ -14,6 +15,7 @@
 八	bek4
 冂	hing1
 冖	mik8		禿寶蓋	tuk8-bo2-gai3
++Column
 冫	bing1		兩點水	lang7-deng2-zui2
 几	gi2
 凵	kang2
@@ -29,6 +31,7 @@
 厂	hang3
 厶	sy1
 又	iu7
++Page
 +Stroke=3
 口	keu2
 囗	ui5
@@ -48,6 +51,7 @@
 屮	tiek4		半草	buang3-co2
 山	sang1
 川,巛,巜	~~ciong1,cuong1~~
++Column
 工	gung1
 己	gi2
 巾	gyng1
@@ -58,7 +62,7 @@
 廾	gyng2
 弋	ik8
 弓	gyng1
-彐,互	gie3
+彐,~~互,彑~~	gie3
 彡	sang1
 彳	tik4		雙徛儂	soeng1-kie5-noeng5
 +Stroke=4
@@ -67,6 +71,7 @@
 戶	hu7
 手,扌	ciu2		抽指手	tiu1-zai2-ciu2
 支	zie1
++Page
 攴,攵	pok4
 文	ung5
 斗	deu2
@@ -87,6 +92,7 @@
 氏	si7
 气	ki3
 水,氵,氺	zui2		三點水	sang1-deng2-zui2
++Column
 火,灬	huo2
 爪,爫	zau2
 父	hu7
@@ -105,6 +111,7 @@
 生	seng1
 用	yng7
 田	dieng5
++Page
 疋	pik4
 疒	cong5		病殼	bang7-koek4
 癶	buak4
@@ -125,6 +132,7 @@
 米	mi2
 糸	si1		牽絲爿	keng1-si1-beng5
 缶	peu2
++Column
 网,罒,㓁	uong2
 羊	iong5
 羽	y2
@@ -144,6 +152,7 @@
 艮	gong3
 色	sek4
 艸,艹	co2		草頭	co2-tau5
++Page
 虍	hu2
 虫	tyng5		虫爿	toeng5-beng5
 血	hiek4
@@ -165,6 +174,7 @@
 身	sing1
 車	gy1
 辛	sing1
++Column
 辰	sing5
 辵,辶	ciok4		坐?馬座	zo7-ma2-zo7
 邑,阝	ik4		猴耳	gau5-ngi7
@@ -184,6 +194,7 @@
 +Stroke=9
 面	mieng7
 革	gek4
++Page
 韋	ui5
 韭	giu2
 音	ing1
@@ -206,6 +217,7 @@
 魚	ngy5
 鳥	neu2
 鹵	lu2
++Column
 鹿	lyk8
 麥	mek8
 麻	ma5

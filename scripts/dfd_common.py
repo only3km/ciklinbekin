@@ -152,6 +152,12 @@ class Character():
             return '<code>%s</code>' % s
         else:
             return s
+    
+    def _render_new_format(self,s):
+        if (self.__is_ids(s)):
+            return '{%s}'%s
+        else:
+            return s
 
     def render_corrected(self):
         return self.__render_html(self.get_corrected())
@@ -164,6 +170,14 @@ class Character():
             return "<s>%s</s>%s" % (self.render_original(), self.render_corrected())
         else:
             return self.render_corrected()
+    
+    def render_new_format(self):
+        if (self.has_correction() and self.get_corrected()!=''):
+            return "~~%s,%s~~" % (self._render_new_format(self.get_original()), self._render_new_format(self.get_corrected()))
+        elif  (self.has_correction() and self.get_corrected()==''):
+            return "~~%s~~" % (self._render_new_format(self.get_original()))            
+        else:
+            return self._render_new_format(self.get_corrected())
 
 class EntryType(Enum):
     RADICAL = 1

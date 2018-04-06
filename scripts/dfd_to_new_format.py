@@ -24,7 +24,7 @@ with open('../DFDRadicals.txt', 'w', encoding='utf8') as outfile:
         if (row.type == EntryType.RADICAL_STROKE_NUMBER):
             outfile.write('+Stroke='+str(row.number)+'\n')
         elif (row.type == EntryType.RADICAL):
-            outfile.write((','.join([c.get_original() for c in row.characters])+'\t' \
+            outfile.write((','.join([c.render_new_format() for c in row.characters])+'\t' \
                          +','.join([b.get_new_format() for b in row.r10n])+'\t\t' \
                          +row.radical_name_chi+'\t' \
                          +'-'.join([b.get_new_format() for b in row.radical_name_buc])).strip()+'\n')
