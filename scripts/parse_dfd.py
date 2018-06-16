@@ -3,6 +3,7 @@ import re
 from enum import Enum
 from jinja2 import Template
 import unicodedata
+import datetime
 
 def r10n_to_buc(r):
     """將擬音code 轉換爲平話字"""
@@ -91,6 +92,55 @@ class Syllable():
         else:
             return "<s>%s</s> %s" % (self.buc, self.buc_corrected)
 
+class Character():
+    def __init__(self, c, c_corrected = None):
+        self.char = c
+        self.char_corrected = c_corrected
+
+    def __is_ids(self,c):
+        for x in c:
+            if '\u2ff0' <= x <='\u2ffb':
+                return True
+        return False
+
+    def get_corrected(self):
+        if self.char_corrected != None:
+            return self.char_corrected
+        else:
+            return self.char
+
+    def is_corrected_ids(self):
+        return self.__is_ids(self.get_corrected())
+
+    def get_original(self):
+        return self.char
+    
+    def is_original_ids(self):
+        return self.__is_ids(self.get_original())
+
+    def __str__(self):
+        return self.get_corrected()
+
+    def has_correction(self):
+        return self.char_corrected != None
+    
+    def __render_html(self, s):
+        if (self.__is_ids(s)):
+            return '<code>%s</code>' % s
+        else:
+            return s
+
+    def render_corrected(self):
+        return self.__render_html(self.get_corrected())
+    
+    def render_original(self):
+        return self.__render_html(self.get_original())
+
+    def render_all(self):
+        if (self.has_correction()):
+            return "<s>%s</s>%s" % (self.render_original(), self.render_corrected())
+        else:
+            return self.render_corrected()
 
 class EntryType(Enum):
     RADICAL = 1
@@ -117,8 +167,7 @@ class DFDCharacterEntry(DFDEntry):
     def __init__(self):
         self.type = EntryType.NORMAL_CHARACTER
         self.characters = []
-        self.character_types = []
-        self.characters_corrected = []
+        self.characters_seen = {}
         self.buc = []
         self.buc_corrected = []
         self.r10n = []
@@ -130,13 +179,13 @@ class DFDCharacterEntry(DFDEntry):
                 return True
         return False
 
-    def add_char(self,c, c_corrected = ''):
-        if (c not in self.characters):
-            self.characters.append(c)
-            self.character_types.append(self.__is_ids(c))
-            self.characters_corrected.append(c_corrected)
+    def add_char(self,c, c_corrected = None):
+        new_char = Character(c, c_corrected)
+        if (new_char.get_corrected() not in self.characters_seen):
+            self.characters_seen[new_char.get_corrected()] = True
+            self.characters.append(new_char)
 
-    def add_r10n(self,r,r_corrected=''):
+    def add_r10n(self, r, r_corrected=''):
         if (r not in self.r10n)  and (r not in self.r10n_corrected) :
             self.r10n.append(r)
             self.r10n_corrected.append(r_corrected)
@@ -146,22 +195,16 @@ class DFDCharacterEntry(DFDEntry):
     def spit_rime(self):
         result = []
         for i, c in enumerate(self.characters):
-            if self.character_types[i] == False:
+            if c.is_corrected_ids() == False:
                 for j, p in enumerate(self.r10n):
-                    result.append(c+"\t"+(p if self.r10n_corrected[j] =='' else self.r10n_corrected[j]))
+                    result.append((c.get_corrected() ,(p if self.r10n_corrected[j] =='' or self.r10n_corrected[j] ==' ' else self.r10n_corrected[j])))
         return result
 
     def spit_html(self):
         buc = ""
         char = ""
         for i, c in enumerate(self.characters):
-            if self.character_types[i] == True:
-                char += '<code>%s</code>' % c
-            else:
-                if (self.characters_corrected[i]!=''):
-                    char += '<s>%s</s>%s' % (c, self.characters_corrected[i])
-                else:
-                    char += c
+            char += c.render_all()
         tmp = [] 
         for i, p in enumerate(self.buc):
             if self.buc_corrected[i] != "":
@@ -197,9 +240,8 @@ class DFDRadicalEntry(DFDCharacterEntry):
         else:    
             self.radical_name_buc = [Syllable(b) for b in buc.split(' ')]
 
-
     def get_html_buc_radical(self):
-        return unicodedata.normalize('NFKD',self.spit_html()[1] + (' (%s)'%'-'.join([str(b) for b in self.radical_name_buc]) if len(self.radical_name_buc)>0 else ''))
+        return unicodedata.normalize('NFKD', self.spit_html()[1] + (' (%s)'%'-'.join([str(b) for b in self.radical_name_buc]) if len(self.radical_name_buc)>0 else ''))
 
     html_buc_radical = property(get_html_buc_radical, None)
 
@@ -309,14 +351,35 @@ tsv_file = open("../DFD.tsv", "r", encoding='utf8')
 tsv_content = tsv_file.readlines()
 entries = process_lines(tsv_content[306:])
 radicals = process_lines(tsv_content[:305],True)
+dict_entries = {}
+dict_order = []
+for r in radicals + entries:
+    if (r.type in [EntryType.RADICAL,EntryType.NORMAL_CHARACTER]):
+        for x in r.spit_rime():
+            if (x[0] not in dict_entries):
+                dict_order.append(x[0])
+                dict_entries[x[0]] = []
+            if (x[1] not in dict_entries[x[0]]):
+                dict_entries[x[0]].append(x[1])
+rime_entries = []
+for c in dict_order:
+    for p in dict_entries[c]:
+        rime_entries.append(c+"\t"+p)
 
+# DFD.html
 f = open('./template/dfd.html.jinja2','r',encoding='utf-8')
-
 t = Template(f.read())
-
+f.close()
 output = t.render(chars = entries, radicals = radicals)
-
 f2 = open('../DFD.html',"w", encoding='utf8')
+f2.write(output)
+f2.close()
 
+# dfd.dict.yaml
+f = open('./template/dfd.dict.jinja2','r',encoding='utf-8')
+t = Template(f.read())
+f.close()
+output = t.render(entries = rime_entries, datetime=datetime.datetime.now().strftime('%a %b %d %H:%M:%S %Y'))
+f2 = open('../Rime schema/dfd.dict.yaml',"w", encoding='utf8')
 f2.write(output)
 f2.close()
