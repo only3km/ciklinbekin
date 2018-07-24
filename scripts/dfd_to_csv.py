@@ -6,10 +6,8 @@ from dfd.models.entry import EntryType
 from dfd.parser import process_dfd_characters, process_dfd_radicals
 
 DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8').readlines()
-DFDRadicals = open("../DFDRadicals.txt", "r", encoding='utf8').readlines()
 
 entries = process_dfd_characters(DFDCharacters)
-radicals = process_dfd_radicals(DFDRadicals)
 
 # DFDCharacters.csv
 import csv

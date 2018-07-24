@@ -13,6 +13,12 @@
 - [戚林八音 → CikLinBekIn.html](CikLinBekIn.html)
 - [Dictionary of the Foochow Dialect → DFD.html](DFD.html)
 
+## 機器友善 CSV
+> 生成的反規範化 (denormalised) CSV 文件，扁平化結構便於程序讀取。
+
+- [戚林八音 → CikLinBekIn.csv](CikLinBekIn.csv)
+- [Dictionary of the Foochow Dialect 字表 → DFDCharacters.csv](DFDCharacters.csv)
+
 ## 錄入數據 Raw data
 - [戚林八音 → CikLinBekIn.md](CikLinBekIn.md)
 - [Dictionary of the Foochow Dialect 字部 → DFDRadicals.txt](DFDRadicals.txt)
@@ -32,6 +38,6 @@
 ## Links
 - [CHISE / 漢字構造情報データベース](http://www.chise.org/ids/)
 - [iSpeakMin 海墘閩語論壇](http://www.ispeakmin.com/)
-- [Mindong Lab 閩東語實驗室](http://mindonglab.github.io/)
+- [Mindong Lab 閩東語實驗室](http://lab.mindong.asia/)
 - [Mìng-dĕ̤ng-ngṳ̄ Wikipedia 閩東語維基百科](https://cdo.wikipedia.org/)
 - [RIME 中州韻輸入法引擎](http://rime.im/)
