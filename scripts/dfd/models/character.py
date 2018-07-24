@@ -10,6 +10,7 @@ class Character():
             c {str} -- 此字符（可以是IDS）
             sub {str} -- 替代字符
         """
+        self.char = None
         if (is_ids(c)):
             self.ids = c
             if (sub is not None):

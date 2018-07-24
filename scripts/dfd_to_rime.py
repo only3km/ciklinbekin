@@ -1,61 +1,17 @@
-from dfd.models.entry import EntryType, DFDCharacterEntry
 from jinja2 import Template
 import datetime
+from dfd.parser import process_dfd_characters, process_dfd_radicals
 
-def process_lines(lines):
-    page = 1
-    col = 1
-    stroke = 1
-    row = 1
-    output = []
-    for line in lines:
-        line = line.strip()
-        # remove comment
-        percent_sign = line.find('%')
-        if percent_sign != -1:
-            line = line[:percent_sign].strip()
-        if len(line) == 0:
-            continue
-        if line.startswith('+'):
-            # control
-            if line.startswith('+Page'):
-                if line.startswith('+Page='):
-                    page = int(line[len('+Page='):])
-                    col=1
-                    row=1
-                else:
-                    page += 1
-                    col=1
-                    row=1
-            elif line.startswith('+Column'):
-                if line.startswith('+Column='):
-                    col = int(line[len('+Column='):])
-                    row = 1
-                else:
-                    col+=1
-                    row=1
-            elif line.startswith('+Stroke'):
-                if line.startswith('+Stroke='):
-                    stroke = int(line[len('+Stroke='):])
-            else:
-                print('Unknown command', line)
-        else:
-            success, entry = DFDCharacterEntry.parse_line(line,page, col, row, stroke)
-            if success:
-                output.append(entry)
-                row+=1
-            else:
-                print('parse line failed: ', line)
-    return output
 
-DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8')
-txt_content = DFDCharacters.readlines()
-entries = process_lines(txt_content)
+DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8').readlines()
+DFDRadicals = open("../DFDRadicals.txt", "r", encoding='utf8').readlines()
 
+entries = process_dfd_characters(DFDCharacters)
+radicals = process_dfd_radicals(DFDRadicals)
 
 dict_entries = {}
 dict_order = []
-for r in entries:
+for r in radicals + entries:
     for x in r.spit_rime():
         if (x[0] not in dict_entries):
             dict_order.append(x[0])
