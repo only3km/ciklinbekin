@@ -44,7 +44,7 @@ class Kanji():
         return self.char_corrected is not None
 
     def _render_html(self, c: Character):
-        if (c.is_ids):
+        if (c.is_ids and c.char is None):
             return '<code>%s</code>' % c.ids
         else:
             return c.char

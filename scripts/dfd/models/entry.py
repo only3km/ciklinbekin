@@ -6,10 +6,17 @@ from enum import Enum
 
 class EntryType(Enum):
     RADICAL = 1
+    RADICAL_STROKE_NUMBER = 2
+    RADICAL_NUMBER = 3
     NORMAL_CHARACTER = 4
 
 class DFDEntry():
-    pass
+    def get_str_type(self):
+        return str(self.type)
+
+    """Property for use in Jinja templates
+    """
+    str_type = property(get_str_type, None)
 
 class DFDCharacterEntry(DFDEntry):
     """正常條目
@@ -141,3 +148,14 @@ class DFDRadicalEntry(DFDCharacterEntry):
 
         return True, cls(char_entry.characters, char_entry.r10n, \
             page_no, col_no, row_no,stroke_no, english,name_kanji,name_r10n)
+
+
+class DFDStrokeNumber(DFDEntry):
+    def __init__(self, number):
+        self.type = EntryType.RADICAL_STROKE_NUMBER
+        self.number = number
+
+class DFDRadicalNumber(DFDEntry):
+    def __init__(self, number):
+        self.type = EntryType.RADICAL_NUMBER
+        self.number = number

@@ -9,10 +9,10 @@ class Syllable():
         self.buc_corrected = r10n_to_buc(r10n_corrected) if r10n_corrected is not None else ''
 
     def __str__(self):
-        if (self.buc_corrected == ''):
-            return self.buc
-        elif (self.r10n_corrected == ' '):
+        if (self.is_deleted):
             return "<s>%s</s>" % self.buc
+        elif (self.r10n_corrected is None):
+            return self.buc
         else:
             return "<s>%s</s> %s" % (self.buc, self.buc_corrected)
 

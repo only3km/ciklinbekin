@@ -2,7 +2,6 @@ from jinja2 import Template
 import datetime
 from dfd.parser import process_dfd_characters, process_dfd_radicals
 
-
 DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8').readlines()
 DFDRadicals = open("../DFDRadicals.txt", "r", encoding='utf8').readlines()
 

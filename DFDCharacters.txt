@@ -1627,7 +1627,7 @@
 寐	mi7
 寓	ngy7
 寔	sik8
-寘,{⿱宀眞}	di3	% 字形差
+{⿱宀眞,寘}	di3	% 字形差
 {⿱宀⿻⿻⿴囗三&CDP-88CD;灬}	sia2
 +Page
 寨	zai7
@@ -2159,7 +2159,7 @@
 恩	ong1
 恓	se1
 恃	si7
-息	~~sik4,sik7~~	% Hector原註釋: "error sik7"
+息	~~sik4,sik8~~	% Hector原註釋: "error sik7"
 恕	sy3
 恤	suk4
 恂	sung2
@@ -2248,7 +2248,7 @@
 +Column
 想	siong2
 愢	sy1
-愈,{⿱兪心}	y2	% 字形差
+{⿱兪心,愈}	y2	% 字形差
 愉	y5
 惲	ung2
 㥬	bong5
@@ -2591,7 +2591,7 @@
 捥	uang2
 揞	ang2
 揸	za1
-捷	ziek8	% 原DFD.tsv中此行被註釋掉，原書P1784
+%捷	ziek8	% 原DFD.tsv中此行被註釋掉，原書P1784
 插	cak4
 揪	ciu1,ciu5
 揣	coi2
@@ -2610,7 +2610,7 @@
 揦	lak8
 {⿰扌苖,描}	mieu5
 揇	nang2
-揑	niek8	% 原 DFD.tsv 中此行被註釋掉
+%揑	niek8	% 原 DFD.tsv 中此行被註釋掉
 掾	ngieng3
 揾	ung3
 握	uk4
@@ -3622,8 +3622,7 @@
 泄	ie3,siek4
 泆	ik8
 泱	iong1
-沿	iong5
-{⿰氵⿱丷口}	iong5	% 字形差 原 DFD.tsv 中此行被註釋掉
+{⿰氵⿱丷口,沿}	iong5	% 字形差
 油	iu5
 泣	kik4
 泐	lek8
@@ -4733,7 +4732,7 @@
 睍	hieng2
 𥇇	so1
 睆	uang2
-睥,睤,{⿰目⿱田廾}	bi7,pe2,be2	% 原DFD.tsv中有三行被註釋掉
+睥,{⿰目⿱田廾,睤}	bi7,pe2,be2	% 原DFD.tsv中有三行被註釋掉
 睜	zeng1
 𥈤	ziek8
 睛	zing1
@@ -6566,7 +6565,7 @@
 +Stroke=144
 行	heng5,hong5,heng7,ong5,giang5,hong7
 衎	hang2
-衍,{⿲彳彡亍}	ieng2	% 後者在原 DFD.tsv 被註釋掉。字形差 http://glyphwiki.org/wiki/u2ff2-u5f73-u5f61-u4e8d
+{⿲彳彡亍,衍}	ieng2	% 字形差 http://glyphwiki.org/wiki/u2ff2-u5f73-u5f61-u4e8d
 衒	hieng5
 術	suk8
 衕	dung7,loeng7
@@ -7298,7 +7297,7 @@
 軸	dyk8,coek4
 +Column
 軧	di2
-{⿱彐軍,翬}	hui1
+{⿱彐軍}	hui1	% =翬 和之前重複，存疑 ?
 軻	ko1,ko3
 軺	sieu5,ieu5
 載	zai2,zai3

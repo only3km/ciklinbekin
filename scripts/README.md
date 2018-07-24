@@ -8,3 +8,9 @@
 cd scripts
 python dfd_to_rime.py
 ```
+
+### 生成網頁
+```bash
+cd scripts
+python dfd_to_html.py
+```
