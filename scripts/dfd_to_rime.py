@@ -1,21 +1,67 @@
-from dfd_common import process_lines, EntryType
+from dfd.models.entry import EntryType, DFDCharacterEntry
 from jinja2 import Template
 import datetime
 
-tsv_file = open("../DFD.tsv", "r", encoding='utf8')
-tsv_content = tsv_file.readlines()
-entries = process_lines(tsv_content[306:])
-radicals = process_lines(tsv_content[:305],True)
+def process_lines(lines):
+    page = 1
+    col = 1
+    stroke = 1
+    row = 1
+    output = []
+    for line in lines:
+        line = line.strip()
+        # remove comment
+        percent_sign = line.find('%')
+        if percent_sign != -1:
+            line = line[:percent_sign].strip()
+        if len(line) == 0:
+            continue
+        if line.startswith('+'):
+            # control
+            if line.startswith('+Page'):
+                if line.startswith('+Page='):
+                    page = int(line[len('+Page='):])
+                    col=1
+                    row=1
+                else:
+                    page += 1
+                    col=1
+                    row=1
+            elif line.startswith('+Column'):
+                if line.startswith('+Column='):
+                    col = int(line[len('+Column='):])
+                    row = 1
+                else:
+                    col+=1
+                    row=1
+            elif line.startswith('+Stroke'):
+                if line.startswith('+Stroke='):
+                    stroke = int(line[len('+Stroke='):])
+            else:
+                print('Unknown command', line)
+        else:
+            success, entry = DFDCharacterEntry.parse_line(line,page, col, row, stroke)
+            if success:
+                output.append(entry)
+                row+=1
+            else:
+                print('parse line failed: ', line)
+    return output
+
+DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8')
+txt_content = DFDCharacters.readlines()
+entries = process_lines(txt_content)
+
+
 dict_entries = {}
 dict_order = []
-for r in radicals + entries:
-    if (r.type in [EntryType.RADICAL,EntryType.NORMAL_CHARACTER]):
-        for x in r.spit_rime():
-            if (x[0] not in dict_entries):
-                dict_order.append(x[0])
-                dict_entries[x[0]] = []
-            if (x[1] not in dict_entries[x[0]]):
-                dict_entries[x[0]].append(x[1])
+for r in entries:
+    for x in r.spit_rime():
+        if (x[0] not in dict_entries):
+            dict_order.append(x[0])
+            dict_entries[x[0]] = []
+        if (x[1] not in dict_entries[x[0]]):
+            dict_entries[x[0]].append(x[1])
 
 rime_entries = []
 for c in dict_order:

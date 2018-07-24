@@ -18,7 +18,7 @@ for r in radicals + entries:
 
 # DFD.characters.csv
 import csv
-with open('../output.csv', 'w', newline='', encoding='utf8') as csvfile:
+with open('../DFD.csv', 'w', newline='', encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel')
     writer.writerow(["#","漢字","羅馬字","漢字更正","羅馬字更正","註釋"])
     count = 0
