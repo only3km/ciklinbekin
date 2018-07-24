@@ -1,27 +1,37 @@
-from dfd_common import process_lines, EntryType
+# 將 DFD 轉換成一行一條的 denormalised 的 CSV
+
 from jinja2 import Template
 
-tsv_file = open("../DFD.tsv", "r", encoding='utf8')
-tsv_content = tsv_file.readlines()
-entries = process_lines(tsv_content[306:])
-radicals = process_lines(tsv_content[:305],True)
-dict_entries = {}
-dict_order = []
-for r in radicals + entries:
-    if (r.type in [EntryType.RADICAL, EntryType.NORMAL_CHARACTER]):
-        for x in r.spit_rime():
-            if (x[0] not in dict_entries):
-                dict_order.append(x[0])
-                dict_entries[x[0]] = []
-            if (x[1] not in dict_entries[x[0]]):
-                dict_entries[x[0]].append(x[1])
+from dfd.models.entry import EntryType
+from dfd.parser import process_dfd_characters, process_dfd_radicals
 
-# DFD.characters.csv
+DFDCharacters = open("../DFDCharacters.txt", "r", encoding='utf8').readlines()
+
+entries = process_dfd_characters(DFDCharacters)
+
+# DFDCharacters.csv
 import csv
-with open('../DFD.csv', 'w', newline='', encoding='utf8') as csvfile:
+with open('../DFDCharacters.csv', 'w', newline='', encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel')
-    writer.writerow(["#","漢字","羅馬字","漢字更正","羅馬字更正","註釋"])
-    count = 0
+    writer.writerow(["字頭#","漢字","IDS替代字","羅馬字","羅馬字（轉寫）","頁碼","列","行","部首#","註釋"])
     for i in range(0, len(entries)):
         if (entries[i].type == EntryType.NORMAL_CHARACTER):
-            writer.writerow([i, ','.join([c.get_original() for c in entries[i].characters]), ','.join(entries[i].buc),'','',''])
+            this_entry = entries[i]
+            for c in this_entry.characters:
+                if c.is_deleted:
+                    continue
+                for r in this_entry.r10n:
+                    if r.is_deleted:
+                        continue
+                    writer.writerow([
+                        i+1,
+                        c.get_corrected().char if c.get_corrected().ids is None else c.get_corrected().ids, 
+                        c.get_corrected().char if c.get_corrected().ids is not None else '', 
+                        r.get_buc_corrected(),
+                        r.get_r10n_corrected(),
+                        this_entry.page_no,
+                        this_entry.col_no,
+                        this_entry.row_no,
+                        this_entry.stroke_no,
+                        "原書有誤，已更正" if c.has_correction() or r.has_correction() else ''
+                        ])

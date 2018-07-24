@@ -16,6 +16,15 @@ class Syllable():
         else:
             return "<s>%s</s> %s" % (self.buc, self.buc_corrected)
 
+    def has_correction(self):
+        return self.r10n_corrected is not None
+
+    def get_r10n_corrected(self):
+        if (self.r10n_corrected is not None):
+            return self.r10n_corrected
+        else:
+            return self.r10n
+
     def get_buc_corrected(self):
         if (self.buc_corrected != ''):
             return self.buc_corrected
