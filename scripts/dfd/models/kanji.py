@@ -20,27 +20,33 @@ class Kanji():
         if is_deleted and (c_corrected is not None):
             raise Exception('刪除的漢字不能有更正')
 
-    def get_corrected(self):
-        """得到正確的漢字
+    def get_corrected(self) -> Character:
+        """得到正確的漢字，若無更正，則返回原始的漢字
         """
         if self.char_corrected != None:
             return self.char_corrected
         else:
             return self.char
 
-    def is_corrected_ids(self):
+    def is_corrected_ids(self) -> Character:
         return self.get_corrected().is_ids
 
     def get_original(self):
+        """得到原書的漢字（未更正）
+        """
         return self.char
     
     def is_original_ids(self):
+        """原書漢字是否含 IDS
+        """
         return self.get_original().is_ids
 
     def __str__(self):
         return self.get_corrected()
 
     def has_correction(self):
+        """是否有更正
+        """
         return self.char_corrected is not None
 
     def _render_html(self, c: Character):

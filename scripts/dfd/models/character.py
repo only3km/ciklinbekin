@@ -11,6 +11,7 @@ class Character():
             sub {str} -- 替代字符
         """
         self.char = None
+        self.ids = None
         if (is_ids(c)):
             self.ids = c
             if (sub is not None):
