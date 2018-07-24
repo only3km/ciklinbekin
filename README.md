@@ -15,7 +15,8 @@
 
 ## 錄入數據 Raw data
 - [戚林八音 → CikLinBekIn.md](CikLinBekIn.md)
-- [Dictionary of the Foochow Dialect → DFD.tsv](DFD.tsv)
+- [Dictionary of the Foochow Dialect 字部 → DFDRadicals.txt](DFDRadicals.txt)
+- [Dictionary of the Foochow Dialect 字表 → DFDCharacters.txt](DFDCharacters.txt)
 
 ## 發音表記
 - [對照表 → convert.tsv](convert.tsv)
