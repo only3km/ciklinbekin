@@ -4,7 +4,7 @@
 
 ---
 name: dfd
-version: Tue Jul 24 19:26:21 2018
+version: Fri Nov 02 20:23:22 2018
 use_preset_vocabulary: true
 ...
 
@@ -715,9 +715,7 @@ use_preset_vocabulary: true
 傀	gui2
 傀	kuo1
 傚	hau7
-傳	hu3
-傳	duong5
-傳	duong7
+傅	hu3
 傘	sang2
 傁	seu2
 債	zai3
@@ -725,6 +723,8 @@ use_preset_vocabulary: true
 僉	cieng1
 催	coi1
 催	cuoi1
+傳	duong5
+傳	duong7
 僅	gyng7
 傾	king2
 傾	king5
