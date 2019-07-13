@@ -9,8 +9,10 @@ prepare() {
 }
 
 checkout() {
-  git checkout gh-pages
-  git pull
+  git remote update
+  git fetch 
+  git checkout --track origin/gh-pages
+  git checkout -b gh-pages-new
 }
 
 checkout_pr() {
@@ -32,7 +34,9 @@ auth() {
 }
 
 upload_files() {
-  git push --quiet --set-upstream origin-ci gh-pages
+  git checkout gh-pages
+  git reset --hard gh-pages-new --
+  git push --quiet --set-upstream origin-ci --force gh-pages
 }
 
 upload_files_pr() {
