@@ -39,18 +39,16 @@ upload_files_pr() {
 setup_git
 auth
 prepare
-if [ "$TRAVIS_BRANCH" = "master" && "$TRAVIS_PULL_REQUEST" = "false" ]; then
+if [ "$TRAVIS_BRANCH" = "master" ] && [ "$TRAVIS_PULL_REQUEST" = "false" ]; then
   checkout
 else
   checkout_pr
 fi
 commit_website_files
-if [ "$TRAVIS_BRANCH" = "master" && "$TRAVIS_PULL_REQUEST" = "false" ]; then
+if [ "$TRAVIS_BRANCH" = "master" ] && [ "$TRAVIS_PULL_REQUEST" = "false" ]; then
   upload_files
 else
   if [ "$TRAVIS_SECURE_ENV_VARS" = "true" ]; then
     upload_files_pr
   fi
 fi
-
-
