@@ -67,7 +67,7 @@ for i in range(0,len(outputs)):
 
             
 import csv
-with open('../CikLinBekIn.csv', 'w',newline='',encoding='utf8') as csvfile:
+with open('../build/CikLinBekIn.csv', 'w',newline='',encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel')
     writer.writerow(["#","漢字","等價","異形","聲母","韻母","調"])
     count = 0

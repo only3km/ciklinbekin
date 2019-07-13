@@ -11,7 +11,7 @@ entries = process_dfd_characters(DFDCharacters)
 
 # DFDCharacters.csv
 import csv
-with open('../DFDCharacters.csv', 'w', newline='', encoding='utf8') as csvfile:
+with open('../build/DFDCharacters.csv', 'w', newline='', encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel', lineterminator='\n')
     writer.writerow(["字頭#","漢字","IDS替代字","羅馬字","羅馬字（轉寫）","頁碼","列","行","部首#","註釋"])
     for i in range(0, len(entries)):
