@@ -13,9 +13,7 @@ checkout() {
 }
 
 checkout_pr() {
-  git checkout gh-pages
-  git pull
-  git checkout -b gh-pages-review
+  git checkout -b gh-pages
 }
 
 commit_website_files() {
