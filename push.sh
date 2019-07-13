@@ -10,10 +10,12 @@ prepare() {
 
 checkout() {
   git checkout gh-pages
+  git pull
 }
 
 checkout_pr() {
   git checkout gh-pages
+  git pull
   git checkout -b gh-pages-review
 }
 
@@ -33,7 +35,7 @@ upload_files() {
 }
 
 upload_files_pr() {
-  git push --quiet --set-upstream origin-ci gh-pages-review
+  git push --quiet --set-upstream origin-ci --force gh-pages-review
 }
 
 setup_git
