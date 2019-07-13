@@ -7,8 +7,8 @@ setup_git() {
 commit_website_files() {
   cp -rf ./build /tmp/
   git checkout -b gh-pages-test
-  rm -rf ./
-  cp -rf /tmp/build/**/* ./
+  rm -rf ./*
+  cp -rf /tmp/build/* ./
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
