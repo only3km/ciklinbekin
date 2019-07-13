@@ -9,11 +9,13 @@ prepare() {
 }
 
 checkout() {
+  git pull
   git checkout gh-pages
   git pull
 }
 
 checkout_pr() {
+  git pull
   git checkout gh-pages
   git pull
   git checkout -b gh-pages-review
