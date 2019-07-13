@@ -21,6 +21,7 @@ checkout_pr() {
 
 commit_website_files() {
   git rm -r '*'
+  rm -rf ./*
   cp -rf /tmp/build/* ./
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
