@@ -9,11 +9,15 @@ prepare() {
 }
 
 checkout() {
-  git checkout -b gh-pages
+  git checkout gh-pages
+  git pull
+  git checkout -b github-pages-new
 }
 
 checkout_pr() {
-  git checkout -b gh-pages
+  git checkout gh-pages
+  git pull
+  git checkout -b gh-pages-review
 }
 
 commit_website_files() {
@@ -29,7 +33,9 @@ auth() {
 }
 
 upload_files() {
-  git push --quiet --set-upstream origin-ci gh-pages
+  git checkout gh-pages
+  git reset --hard gh-pages-new
+  git push --quiet --set-upstream origin-ci --force gh-pages
 }
 
 upload_files_pr() {
