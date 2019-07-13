@@ -9,9 +9,7 @@ prepare() {
 }
 
 checkout() {
-  git pull
-  git checkout gh-pages
-  git pull
+  git checkout -b gh-pages
 }
 
 checkout_pr() {
