@@ -1,6 +1,15 @@
-# 将八音字表转为一行一字的csv
+# 将八音字表转为一行一字的csv以及rime dict
+
+from jinja2 import Template
+import datetime
 
 outputs = []
+
+def is_ids(c):
+    for x in c:
+        if '\u2ff0' <= x <='\u2ffb':
+            return True
+    return False
 
 def outputChar(s,initial,final,tone):
     #print(s,' ',initial,' ',final, ' ',tone)
@@ -67,7 +76,7 @@ for i in range(0,len(outputs)):
 
             
 import csv
-with open('../CikLinBekIn.csv', 'w',newline='',encoding='utf8') as csvfile:
+with open('../build/CikLinBekIn.csv', 'w',newline='',encoding='utf8') as csvfile:
     writer = csv.writer(csvfile, dialect='excel')
     writer.writerow(["#","漢字","等價","異形","聲母","韻母","調"])
     count = 0
@@ -75,3 +84,26 @@ with open('../CikLinBekIn.csv', 'w',newline='',encoding='utf8') as csvfile:
         if (outputs[i][-1] == True):
             count = count +1
             writer.writerow([count]+outputs[i][:-1])
+
+# ciklinbekin.dict.yaml
+f = open('./template/ciklinbekin.dict.jinja2','r',encoding='utf-8')
+t = Template(f.read())
+f.close()
+# Character to Romanization mappings
+convert = {}
+with open('../convert.tsv') as tsvfile:
+  reader = csv.reader(tsvfile, delimiter='\t')
+  for row in reader:
+    convert[row[0]] = row[1]
+dict_entries = []
+for x in outputs:
+    if (is_ids(x[0])):
+        continue
+    initial = convert[x[3][0]]
+    tone = x[5]
+    final = (convert[x[4]].replace('ng','k') if ("ng" in convert[x[4]]) else convert[x[4]]+'h') if tone in ['4','8'] else convert[x[4]]
+    dict_entries.append(x[0] + "\t" + initial+final+tone)
+output = t.render(entries = dict_entries, datetime=datetime.datetime.now().strftime('%a %b %d %H:%M:%S %Y'))
+f2 = open('../build/Rime schema/ciklinbekin.dict.yaml',"w", encoding='utf8')
+f2.write(output)
+f2.close()
