@@ -31,7 +31,7 @@ dfd: createfolder assets
 ciklinbekin: createfolder
 	cd scripts && $(PYTHON) parse_ciklin.py
 	cp -rf CikLinBekIn.md $(OUTPUT)
-	cd scripts && $(PYTHON) ciklin_to_html.py
+	cd scripts && $(PYTHON) CikLinBekIn.Export.py
 
 rime_schemas: createfolder
 	cp ./rime_schema/* "./build/Rime schema"
