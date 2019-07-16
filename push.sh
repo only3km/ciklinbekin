@@ -11,8 +11,9 @@ prepare() {
 checkout() {
   git remote update
   git fetch 
-  git checkout --track origin/gh-pages
+  git checkout gh-pages
   git checkout -b gh-pages-new
+  git reset --hard origin/gh-pages
 }
 
 checkout_pr() {
