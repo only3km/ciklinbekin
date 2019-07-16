@@ -10,14 +10,14 @@
 - Dictionary of the Foochow Dialect, Third Edition, 1929 的 Index of Characters
 
 ## 生成網頁 HTML
-- [戚林八音 → CikLinBekIn.html](CikLinBekIn.html)
-- [Dictionary of the Foochow Dialect → DFD.html](DFD.html)
+- [戚林八音 → CikLinBekIn.html](https://only3km.github.io/ciklinbekin/CikLinBekIn.html)
+- [Dictionary of the Foochow Dialect → DFD.html](https://only3km.github.io/ciklinbekin/DFD.html)
 
 ## 機器友善 CSV
 > 生成的反規範化 (denormalised) CSV 文件，扁平化結構便於程序讀取。
 
-- [戚林八音 → CikLinBekIn.csv](CikLinBekIn.csv)
-- [Dictionary of the Foochow Dialect 字表 → DFDCharacters.csv](DFDCharacters.csv)
+- [戚林八音 → CikLinBekIn.csv](https://only3km.github.io/ciklinbekin/CikLinBekIn.csv)
+- [Dictionary of the Foochow Dialect 字表 → DFDCharacters.csv](https://only3km.github.io/ciklinbekin/DFDCharacters.csv)
 
 ## 錄入數據 Raw data
 - [戚林八音 → CikLinBekIn.md](CikLinBekIn.md)
@@ -25,11 +25,11 @@
 - [Dictionary of the Foochow Dialect 字表 → DFDCharacters.txt](DFDCharacters.txt)
 
 ## 發音表記
-- [對照表 → convert.tsv](convert.tsv)
+- [對照表 → convert.tsv](https://github.com/only3km/ciklinbekin/blob/master/convert.tsv)
 
 ## 輸入法碼表
 ### RIME 中州韻 | 小狼毫 Weasel | 鼠鬚管 Squirrel | 同文 Tongwen
-- [Rime schemas](Rime%20schema)
+- [Rime schemas](https://github.com/only3km/ciklinbekin/tree/gh-pages/Rime%20schema)
 
 ## TBD
 - 加訂美全八音, 1906, 鍾德明
