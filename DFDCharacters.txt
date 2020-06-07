@@ -432,7 +432,7 @@
 光	guong1,gong1
 兇	hyng1
 先	sieng1,sing1,sieng3,seng1
-兌,兑	doi1,doi3
+兌,兑	doi7,doi3
 克	kek4
 免	mieng2
 兎	tu3
