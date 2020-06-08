@@ -4749,7 +4749,7 @@
 睔	lung5
 睦	muk8
 睚	ngai5
-睨	nge5,nge7,he2
+睨	~~nge5,nge2~~,nge7,he2
 睡	sui3
 睶	cung2
 睼	de5
