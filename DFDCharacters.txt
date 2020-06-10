@@ -892,7 +892,7 @@
 呦	iu1
 咎	kiu3
 命	ming7,miang7
-呢	ne5,ni5,ni1
+呢	ne5,ni5,~~ni1~~
 呶	nau5
 呵	o1,o5,ho1,hoe1,hoe5
 呞	si1
