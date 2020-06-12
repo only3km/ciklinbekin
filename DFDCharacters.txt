@@ -7984,7 +7984,7 @@
 隮	ze1
 +Column
 隰	sik4
-隱	ung2
+隱	yng2
 隳	hui1
 隴	lung2
 +Stroke=171
