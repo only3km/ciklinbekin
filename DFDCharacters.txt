@@ -3549,7 +3549,7 @@
 氷	bing1
 永	ing2
 汁	zek4
-㲺	cih4
+㲺	{cih4,zih4}
 求	giu5
 汜	huang3
 汀	ting1
