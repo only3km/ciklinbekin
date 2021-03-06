@@ -1,25 +1,25 @@
 +Page=1742
 +Stroke=1
-一	ik4		一橫	sioh8-huang5
-丨	gung2		一直	sioh8-dik8	% 袞
-丶	zy2		一涿	sioh8-duk4  % 主
-丿	piek4		一撇	sioh8-piek4	% 撇
+一	ik4		~~一,蜀~~橫	sioh8-huang5
+丨	gung2		~~一,蜀~~直	sioh8-dik8	% 袞
+丶	zy2		~~一,蜀~~~~點,涿~~	sioh8-duk4  % 主
+丿	piek4		~~一,蜀~~~~撆,撇~~	sioh8-piek4	% 撇
 乙	ik4
-亅	kuok4		一勾	sioh8-gau1	% 橜
+亅	kuok4		~~一,蜀~~勾	sioh8-gau1	% 橜
 +Stroke=2
 二	ni7
 亠	teu5    % 頭
-人,亻	ing5		徛儂人	kie5-noeng5-ing5
+人,亻	ing5		~~跬,徛~~~~𠆧,儂~~人	kie5-noeng5-ing5
 儿	ing5    % 人
 入	ik8
 八	bek4
 冂	hing1   % 冋
 冖	mik8		禿寶蓋	tuk8-bo2-gai3	% 冪
 +Column
-冫	bing1		兩點水	lang7-deng2-zui2	% 冰
+冫	bing1		~~二,兩~~點水	lang7-deng2-zui2	% 冰
 几	gi2
 凵	kang2   % 坎
-刀,刂	do1		側刀	zek4-do1
+刀,刂	do1		鍘刀	zek4-do1
 力	lik8
 勹	bau1    % 包
 匕	bi2
@@ -35,7 +35,7 @@
 +Stroke=3
 口	keu2
 囗	ui5 % 圍
-土	tu2		挑土爿	tieu1-tu2-beng5
+土	tu2		挑土爿	tiu1-tu2-beng5
 士	sy7
 夊	~~zyng1,soi1~~  % 綏
 夂	~~soi1,zyng1~~  % 終
@@ -64,7 +64,7 @@
 弓	gyng1
 彐,~~互,彑~~	gie3
 彡	sang1
-彳	tik4		雙徛儂	soeng1-kie5-noeng5
+彳	tik4		雙~~跬,徛~~~~𠆧,儂~~	soeng1-kie5-noeng5
 +Stroke=4
 心,忄,㣺	sing1		穿心爿	~~ciong1,cuong1~~-sing1-beng5	% 名稱部分泉亂
 戈	kuo1
@@ -101,10 +101,10 @@
 片	pieng3
 牙	nga5
 牛,牜	ngiu5		抽牛爿	tiu1-ngu5-beng5
-犬,犭	keng2		反犬	beng2-leng2-keng2
+犬,犭	keng2		~~〇〇,反々~~犬	beng2-leng2-keng2
 +Stroke=5
 玄	hieng5	% 𤣥
-玉,⺩	ngyk8		翦玉爿	zeng2-ngyk8-beng5
+玉,⺩	ngyk8		剪玉爿	zeng2-ngyk8-beng5
 瓜	gua1
 瓦	ngua2
 甘	gang1
@@ -154,7 +154,7 @@
 艸,艹	co2		草頭	co2-tau5	% 草
 +Page
 虍	hu2
-虫	tyng5		虫爿	toeng5-beng5
+虫	tyng5		蟲爿	toeng5-beng5
 血	hiek4
 行	heng5
 衣	i1
