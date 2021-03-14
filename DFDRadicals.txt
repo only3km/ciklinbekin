@@ -35,7 +35,7 @@
 +Stroke=3
 口	keu2
 囗	ui5 % 圍
-土	tu2		挑土爿	tiu1-tu2-beng5
+土	tu2		挑土爿	~~tiu1-tu2-beng5,tieu1-tu2-beng5~~
 士	sy7
 夊	~~zyng1,soi1~~  % 綏
 夂	~~soi1,zyng1~~  % 終
@@ -69,7 +69,7 @@
 心,忄,㣺	sing1		穿心爿	~~ciong1,cuong1~~-sing1-beng5	% 名稱部分泉亂
 戈	kuo1
 戶	hu7
-手,扌	ciu2		抽指手	tiu1-zai2-ciu2
+手,扌	ciu2		挑指手	~~tiu1-zai2-ciu2,tieu1-zai2-ciu2~~
 支	zie1
 +Page
 攴,攵	pok4	% 撲
@@ -100,7 +100,7 @@
 爿	beng5
 片	pieng3
 牙	nga5
-牛,牜	ngiu5		抽牛爿	tiu1-ngu5-beng5
+牛,牜	ngiu5		挑牛爿	~~tiu1-ngu5-beng5,tieu1-ngu5-beng5~~
 犬,犭	keng2		~~〇〇,反々~~犬	beng2-leng2-keng2
 +Stroke=5
 玄	hieng5	% 𤣥
